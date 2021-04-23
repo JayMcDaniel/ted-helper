@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TED Helper</title>
+    <link rel="icon" type="image/png" href="https://www.bls.gov/favicon-32x32.png" sizes="32x32" />
+    <link rel="icon" type="image/png" href="https://www.bls.gov/favicon-16x16.png" sizes="16x16" />
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/ted-helper.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+        integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w=="
+        crossorigin="anonymous" />
+
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"
+        integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/js/fontawesome.min.js"
+        integrity="sha512-KCwrxBJebca0PPOaHELfqGtqkUlFUCuqCnmtydvBSTnJrBirJ55hRG5xcP4R9Rdx9Fz9IF3Yw6Rx40uhuAHR8Q=="
+        crossorigin="anonymous"></script>
+
+    <script src="js/app.js"></script>
+
+
+</head>
+
+<body>
+
+    <div class="container">
+        <div id="popup_div"><img id="popup_image" /></div>
+
+
+        <div class="row">
+            <div class="col-8" id="left_column">
+                <h1>The Economics Daily Helper</h1>
+                <p>Start typing in the forms below to get some ideas and assistance. Click on a suggestion to add it as
+                    teplate text to the form. Hover over a chart to enlarge it. Click on a chart to visit that TED.</p>
+
+
+                <div class="input-group mb-3">
+                    <span class="input-group-text">TED Title</span>
+                    <input id="input_ted_title" type="text" class="form-control" aria-label="TED Title input"
+                        data-helpers="ted_title_helper" aria-describedby="input_ted_title">
+                    <i class="fas fa-copy fa-lg" title="Copy to clipboard"></i>
+                </div>
+
+                <div class="input-group mb-3">
+                    <span class="input-group-text">System URL</span>
+                    <input id="input_system_url" type="text" class="form-control" aria-label="System url"
+                        data-helpers="ted_title_helper" aria-describedby="input_system_url"
+                        placeholder="(Auto-generated from TED Title)">
+                    <i class="fas fa-copy fa-lg" title="Copy to clipboard"></i>
+                </div>
+
+                <div class="input-group mb-3">
+                    <span class="input-group-text">Program Office</span>
+                    <input id="input_ted_program" type="text" class="form-control" aria-label="TED Program input"
+                        data-helpers="ted_program_helper;ted_title_helper" aria-describedby="input_ted_program"
+                        placeholder="(This will look at your TED title for suggestions)">
+                    <i class="fas fa-copy fa-lg" title="Copy to clipboard"></i>
+                </div>
+
+                <div id="ted_program_helper" class="helper_div">
+                    <h2>Suggested Program Offices <a href="#" class="hide_button">Hide</a></h2>
+                    
+                    <div id="ted_program_helper_output" class="output_div"></div>
+                </div>
+
+
+                <div class="input-group mb-3">
+                    <span class="input-group-text">Office URL</span>
+                    <input id="input_ted_office_url" type="text" class="form-control" aria-label="TED Office URL"
+                        data-helpers="ted_office_url_helper;ted_title_helper" aria-describedby="input_ted_office_url"
+                        placeholder="(Choose a Program office to see suggested URLs)">
+                    <i class="fas fa-copy fa-lg" title="Copy to clipboard"></i>
+                </div>
+
+                <div id="ted_office_url_helper" class="helper_div">
+                    <h2>Suggested Office URLs <a href="#" class="hide_button">Hide</a></h2>
+                    <div id="ted_office_url_helper_output" class="output_div"></div>
+                </div>
+
+
+
+                <div class="input-group mb-3">
+                    <span class="input-group-text">Intro</span>
+                    <textarea id="input_ted_intro" class="form-control" aria-label="TED Intro"
+                        aria-describedby="input_ted_intro" style="height: 120px;"
+                        data-helpers="ted_intro_helper;ted_title_helper"></textarea>
+                    <i class="fas fa-copy fa-lg" title="Copy to clipboard"></i>
+                </div>
+
+                <div id="ted_intro_helper" class="helper_div">
+                    <h2>Intros From Similar TEDs <a href="#" class="hide_button">Hide</a></h2>
+                    <div id="ted_intro_helper_output" class="output_div"></div>
+                </div>
+
+
+
+                <div class="input-group mb-3">
+                    <span class="input-group-text">Middle</span>
+                    <textarea id="input_ted_middle" class="form-control" aria-label="TED Body"
+                        aria-describedby="input_ted_middle" style="height: 280px;"
+                        data-helpers="ted_middle_helper;ted_title_helper"></textarea>
+                    <i class="fas fa-copy fa-lg" title="Copy to clipboard"></i>
+                </div>
+
+
+                <div id="ted_middle_helper" class="helper_div">
+                    <h2>Middle Text From Similar TEDS <a href="#" class="hide_button">Hide</a></h2>
+                    <div id="ted_middle_helper_output" class="output_div"></div>
+                </div>
+
+
+                <div class="input-group mb-3">
+                    <span class="input-group-text">Conclusion</span>
+                    <textarea id="input_ted_outro" class="form-control" aria-label="TED outro"
+                        aria-describedby="input_ted_outro" style="height: 120px;"
+                        data-helpers="ted_outro_helper;ted_title_helper"></textarea>
+                    <i class="fas fa-copy fa-lg" title="Copy to clipboard"></i>
+                </div>
+
+                <div id="ted_outro_helper" class="helper_div">
+                    <h2>Conclusions From Similar TEDs <a href="#" class="hide_button">Hide</a></h2>
+                    <div id="ted_outro_helper_output" class="output_div"></div>
+                </div>
+
+
+
+
+
+                <div class="input-group mb-3">
+                    <span class="input-group-text">Related News Release URL</span>
+                    <textarea id="input_ted_related_NR_url" class="form-control" aria-label="TED Related News Release URL"
+                        aria-describedby="input_ted_related_NR_url" 
+                        placeholder="(If you fill this in, it will add it as a link below in the generated HTML)"></textarea>
+                    <i class="fas fa-copy fa-lg" title="Copy to clipboard"></i>
+                </div>
+
+
+                <div class="input-group mb-3">
+                    <span class="input-group-text">Related Charts URL</span>
+                    <textarea id="input_ted_related_charts_url" class="form-control" aria-label="TED Related Charts URL"
+                        aria-describedby="input_ted_related_charts_url" 
+                        data-helpers="ted_related_charts_url_helper;ted_title_helper"
+                        placeholder="(This will look at your title, program office, intro and closing text for suggestions)"></textarea>
+                    <i class="fas fa-copy fa-lg" title="Copy to clipboard"></i>
+                </div>
+
+
+                <div id="ted_related_charts_url_helper" class="helper_div">
+                    <h2>Suggested Related Charts URLs <a href="#" class="hide_button">Hide</a></h2>
+                    <div id="ted_related_charts_url_helper_output" class="output_div"></div>
+                </div>
+
+            
+
+
+                <div class="input-group mb-3">
+                    <span class="input-group-text">Related Topics</span>
+                    <textarea id="input_ted_related_topics" class="form-control" aria-label="TED Related Topics"
+                        aria-describedby="input_ted_related_topics" style="height: 120px;"
+                        data-helpers="ted_related_topics_helper;ted_title_helper"
+                        placeholder="(This will look at your title, program office, intro and closing text for suggestions)"></textarea>
+                    <i class="fas fa-copy fa-lg" title="Copy to clipboard"></i>
+                </div>
+
+
+
+                <div id="ted_related_topics_helper" class="helper_div">
+                    <h2>Suggested Related Topics <a href="#" class="hide_button">Hide</a></h2>
+                    <div id="ted_related_topics_helper_output" class="output_div"></div>
+                </div>
+
+
+
+                <div style="text-align: center; margin-bottom: 20px; margin-top: 40px;">
+                    <button type="button" class="btn btn-primary" id="build_html_button">Build Article HTML for
+                        CMS</button>
+                </div>
+
+                <div class="input-group mb-3">
+                    <span class="input-group-text">Generated<br>Article HTML</span>
+                    <textarea id="ted_body_html" class="form-control" aria-label="TED Body HTML"
+                        aria-describedby="ted_body_html" style="height: 450px; "
+                       
+                        placeholder="(Click the button above to generate HTML from the intro, middle, conclusion. It will also make links based on the program office URL and related charts URL)"></textarea>
+                    <i class="fas fa-copy fa-lg" title="Copy to clipboard"></i>
+                </div>
+
+            </div>
+
+
+
+
+            <div class="col-4" id="right_column">
+
+                <div id="ted_title_helper" class="helper_div">
+
+                    
+                    <h2 id="similar_teds">Similar TEDs <a href="#" class="hide_button" data-rel-class="ted_title_helper_div">Hide</a></h2>
+
+                    <div class="input-group ted_title_helper_div" style="position: relative;
+                    left: -18px;">
+
+                        <div class="form-outline" style="width: 88%;">
+                          <input type="search" id="similar_teds_search" class="form-control" aria-label="search TEDs" placeholder="(Filter by title, chart name, program or topic)"/>
+                        </div>
+                        <button type="button" class="btn btn-primary">
+                          <i class="fas fa-search"></i>
+                        </button>
+                      </div>
+
+
+                    <div id="ted_title_helper_output" class="output_div ted_title_helper_div"></div>
+                </div>
+
+            
+
+            </div>
+        </div>
+
+    </div>
+
+</body>
+
+</html>
