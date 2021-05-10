@@ -1,4 +1,20 @@
 [{
+    "ted_title": "Labor productivity up 4.1 percent from the first quarter of 2020 to the first quarter of 2021",
+    "ted_url": "https://www.bls.gov/opub/ted/2021/labor-productivity-up-4-1-percent-from-the-first-quarter-of-2020-to-the-first-quarter-of-2021.htm",
+    "ted_date": "May 10, 2021",
+    "ted_intro": "From the first quarter of 2020 to the first quarter of 2021, nonfarm business sector labor productivity increased 4.1 percent, reflecting a 1.1-percent increase in output and a 2.9-percent decline in hours worked.",
+    "ted_outro": "These data are from the Labor Productivity and Costs program and are seasonally adjusted. All percent changes shown are subject to revision. To learn more, see \"Productivity and Costs — First Quarter and Annual Averages 2021, Preliminary.” Also see Charts related to the latest \"Productivity and Costs\" news release. Labor productivity, or output per hour, is calculated by dividing an index of real output by an index of hours worked for all persons, including employees, proprietors, and unpaid family workers.",
+    "ted_body": "Business sector productivity rose 4.0 percent from the first quarter of 2020 to the first quarter of 2021.\nManufacturing productivity increased 2.2 percent from the same quarter a year ago, as output decreased 0.6 percent and hours worked decreased 2.8 percent. The 3.9-percent increase in durable goods productivity marked the largest advance since the fourth quarter of 2010. Nondurable goods productivity rose 0.1 percent from the same quarter a year ago.",
+    "ted_table_title": "Percent change in productivity measures from same quarter in previous year by sector, first quarter 2000 to first quarter 2021",
+    "ted_image_name": "Percent_change_in_productivity_measures_from_same_quarter_in_previous_year_by_sector__first_quarter_2000_to_first_quarter_2021.png",
+    "ted_program_name": "Labor Productivity and Costs",
+    "ted_program_url": "https://www.bls.gov/lpc/",
+    "ted_related_charts_name": "Charts related to the latest \"Productivity and Costs\" news release.",
+    "ted_related_charts_url": "https://www.bls.gov/charts/productivity-and-costs/",
+    "ted_related_articles": "",
+    "ted_related_subjects": "Hours; Industry Studies; Manufacturing; Productivity",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
+}, {
     "ted_title": "Compensation costs in financial activities industry up 5.3 percent from March 2020 to March 2021",
     "ted_url": "https://www.bls.gov/opub/ted/2021/compensation-costs-in-financial-activities-industry-up-5-3-percent-from-march-2020-to-march-2021.htm",
     "ted_date": "May 07, 2021",
@@ -12,7 +28,8 @@
     "ted_related_charts_name": "more charts on the Employment Cost Index",
     "ted_related_charts_url": "https://www.bls.gov/charts/employment-cost-index/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Compensation Costs; Industry Studies"
+    "ted_related_subjects": "Compensation Costs; Industry Studies",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "Fatal and nonfatal falls, slips, and trips in the construction industry",
     "ted_url": "https://www.bls.gov/opub/ted/2021/fatal-and-nonfatal-falls-slips-and-trips-in-the-construction-industry.htm",
@@ -27,7 +44,8 @@
     "ted_related_charts_name": "National Safety Stand-Down to Prevent Falls in Construction",
     "ted_related_charts_url": "https://www.osha.gov/stop-falls-stand-down",
     "ted_related_articles": "",
-    "ted_related_subjects": "Industry Studies; Occupational Safety and Health"
+    "ted_related_subjects": "Industry Studies; Occupational Safety and Health",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "Job gains exceeded job losses in 49 states and D.C for the quarter ended in September 2020",
     "ted_url": "https://www.bls.gov/opub/ted/2021/job-gains-exceeded-job-losses-in-49-states-and-d-c-for-the-quarter-ended-in-september-2020.htm",
@@ -42,7 +60,8 @@
     "ted_related_charts_name": "charts related to the latest \"Business Employment Dynamics\" news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/business-employment-dynamics/job-gains-job-losses-most-recent-quarter.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Employment; Regions and States"
+    "ted_related_subjects": "Employment; Regions and States",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "245 metro areas had unemployment rates below 6.2 percent U.S. rate in March 2021",
     "ted_url": "https://www.bls.gov/opub/ted/2021/245-metro-areas-had-unemployment-rates-below-6-2-percent-u-s-rate-in-march-2021.htm",
@@ -57,7 +76,8 @@
     "ted_related_charts_name": "charts of metropolitan area employment and unemployment data.",
     "ted_related_charts_url": "https://www.bls.gov/charts/metro-area-employment-and-unemployment/",
     "ted_related_articles": "Employment down in 159 metropolitan areas, up in 3, from March 2020 to March 2021",
-    "ted_related_subjects": "Metropolitan Areas and Counties; Unemployment"
+    "ted_related_subjects": "Metropolitan Areas and Counties; Unemployment",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "Employment down in 159 metropolitan areas, up in 3, from March 2020 to March 2021",
     "ted_url": "https://www.bls.gov/opub/ted/2021/employment-down-in-159-metropolitan-areas-up-in-3-from-march-2020-to-march-2021.htm",
@@ -72,7 +92,8 @@
     "ted_related_charts_name": "sortable table of metropolitan area employment data",
     "ted_related_charts_url": "https://www.bls.gov/web/metro/metro_oty_change.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Employment; Metropolitan Areas and Counties"
+    "ted_related_subjects": "Employment; Metropolitan Areas and Counties",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "62.7 percent of 2020 high school graduates enrolled in college, down from 66.2 percent in 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2021/62-7-percent-of-2020-high-school-graduates-enrolled-in-college-down-from-66-2-percent-in-2019.htm",
@@ -87,7 +108,8 @@
     "ted_related_charts_name": "College Enrollment and Work Activity of Recent High School and College Graduates — 2020",
     "ted_related_charts_url": "https://www.bls.gov/news.release/archives/hsgec_04272021.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Education and Training; Labor Force; Men; Women"
+    "ted_related_subjects": "Education and Training; Labor Force; Men; Women",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "U.S. terms of trade with Mexico rose from March 2020 to March 2021",
     "ted_url": "https://www.bls.gov/opub/ted/2021/u-s-terms-of-trade-with-mexico-rose-from-march-2020-to-march-2021.htm",
@@ -102,7 +124,8 @@
     "ted_related_charts_name": "more charts",
     "ted_related_charts_url": "https://www.bls.gov/charts/import-export/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Prices; International Comparisons"
+    "ted_related_subjects": "Prices; International Comparisons",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "Reflecting on work injuries, illnesses, and fatalities for Workers' Memorial Day",
     "ted_url": "https://www.bls.gov/opub/ted/2021/reflecting-on-work-injuries-illnesses-and-fatalities-for-workers-memorial-day.htm",
@@ -117,7 +140,8 @@
     "ted_related_charts_name": "fatal work injuries",
     "ted_related_charts_url": "https://www.bls.gov/charts/census-of-fatal-occupational-injuries/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Occupational Safety and Health"
+    "ted_related_subjects": "Occupational Safety and Health",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "Labor force participation declines for mothers and fathers in 2020",
     "ted_url": "https://www.bls.gov/opub/ted/2021/labor-force-participation-declines-for-mothers-and-fathers-in-2020.htm",
@@ -132,7 +156,8 @@
     "ted_related_charts_name": "Employment Characteristics of Families — 2020",
     "ted_related_charts_url": "https://www.bls.gov/news.release/archives/famee_04212021.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Men; Women; Labor Force"
+    "ted_related_subjects": "Men; Women; Labor Force",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "High-deductible health plans for workers in private educational services in 2020",
     "ted_url": "https://www.bls.gov/opub/ted/2021/high-deductible-health-plans-for-workers-in-private-educational-services-in-2020.htm",
@@ -147,7 +172,8 @@
     "ted_related_charts_name": "glossary",
     "ted_related_charts_url": "https://www.bls.gov/ncs/ebs/national-compensation-survey-glossary-of-employee-benefit-terms.htm",
     "ted_related_articles": "Outpatient prescription drug benefits for workers in educational services in 2020",
-    "ted_related_subjects": "Health Care; Industry Studies; Benefits"
+    "ted_related_subjects": "Health Care; Industry Studies; Benefits",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "Median weekly earnings were $900 for women, $1,089 for men, in first quarter 2021",
     "ted_url": "https://www.bls.gov/opub/ted/2021/median-weekly-earnings-were-900-for-women-1089-for-men-in-first-quarter-2021.htm",
@@ -162,7 +188,8 @@
     "ted_related_charts_name": "more charts of usual weekly earnings data",
     "ted_related_charts_url": "https://www.bls.gov/charts/usual-weekly-earnings/usual-weekly-earnings-over-time-total-men-women.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Earnings and Wages; Men; Occupations; Women"
+    "ted_related_subjects": "Earnings and Wages; Men; Occupations; Women",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "Unemployment rates up in 40 states and D.C. from March 2020 to March 2021",
     "ted_url": "https://www.bls.gov/opub/ted/2021/unemployment-rates-up-in-40-states-and-d-c-from-march-2020-to-march-2021.htm",
@@ -177,7 +204,8 @@
     "ted_related_charts_name": "more charts and maps",
     "ted_related_charts_url": "https://www.bls.gov/charts/state-employment-and-unemployment/",
     "ted_related_articles": "Employment up 1.3 percent in New Mexico in March 2021",
-    "ted_related_subjects": "Regions and States; Unemployment"
+    "ted_related_subjects": "Regions and States; Unemployment",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "Employment up 1.3 percent in New Mexico in March 2021",
     "ted_url": "https://www.bls.gov/opub/ted/2021/employment-up-1-3-percent-in-new-mexico-in-march-2021.htm",
@@ -192,7 +220,8 @@
     "ted_related_charts_name": "state chart package",
     "ted_related_charts_url": "https://www.bls.gov/charts/state-employment-and-unemployment/state-unemployment-rates-map.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Employment; Regions and States"
+    "ted_related_subjects": "Employment; Regions and States",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "Outpatient prescription drug benefits for workers in educational services in 2020",
     "ted_url": "https://www.bls.gov/opub/ted/2021/outpatient-prescription-drug-benefits-for-workers-in-educational-services-in-2020.htm",
@@ -207,7 +236,8 @@
     "ted_related_charts_name": "glossary",
     "ted_related_charts_url": "https://www.bls.gov/ncs/ebs/national-compensation-survey-glossary-of-employee-benefit-terms.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Health Care; Benefits"
+    "ted_related_subjects": "Health Care; Benefits",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "Import prices up 6.9 percent, export prices up 9.1 percent for year ending March 2021",
     "ted_url": "https://www.bls.gov/opub/ted/2021/import-prices-up-6-9-percent-export-prices-up-9-1-percent-for-year-ending-march-2021.htm",
@@ -222,7 +252,8 @@
     "ted_related_charts_name": "Charts related to the latest “U.S. Import and Export Price Indexes” news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/import-export/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Prices"
+    "ted_related_subjects": "Prices",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "Real weekly earnings up 3.9 percent for year ending March 2021",
     "ted_url": "https://www.bls.gov/opub/ted/2021/real-weekly-earnings-up-3-9-percent-for-year-ending-march-2021.htm",
@@ -237,7 +268,8 @@
     "ted_related_charts_name": "Consumer Price Index",
     "ted_related_charts_url": "https://www.bls.gov/cpi/",
     "ted_related_articles": "Consumer prices increase 2.6 percent for the 12 months ending March 2021",
-    "ted_related_subjects": "Earnings and Wages; Hours"
+    "ted_related_subjects": "Earnings and Wages; Hours",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "Consumer prices increase 2.6 percent for the 12 months ending March 2021",
     "ted_url": "https://www.bls.gov/opub/ted/2021/consumer-prices-increase-2-6-percent-for-the-12-months-ending-march-2021.htm",
@@ -252,7 +284,8 @@
     "ted_related_charts_name": "more charts on consumer prices",
     "ted_related_charts_url": "https://www.bls.gov/charts/consumer-price-index/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Prices"
+    "ted_related_subjects": "Prices",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "West Virginia had the highest job openings rate in December 2020",
     "ted_url": "https://www.bls.gov/opub/ted/2021/west-virginia-had-the-highest-job-openings-rate-in-december-2020.htm",
@@ -267,7 +300,8 @@
     "ted_related_charts_name": "more charts",
     "ted_related_charts_url": "https://www.bls.gov/charts/job-openings-and-labor-turnover/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Employment; Regions and States"
+    "ted_related_subjects": "Employment; Regions and States",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "Final demand producer prices up 4.2 percent over the year ended March 2021",
     "ted_url": "https://www.bls.gov/opub/ted/2021/final-demand-producer-prices-up-4-2-percent-over-the-year-ended-march-2021.htm",
@@ -282,7 +316,8 @@
     "ted_related_charts_name": "Charts related to the latest \"U.S. Producer Price Indexes\" news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/producer-price-index/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Industry Studies; Prices"
+    "ted_related_subjects": "Industry Studies; Prices",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "Unemployment rates higher in 383 metro areas over the year ended February 2021",
     "ted_url": "https://www.bls.gov/opub/ted/2021/unemployment-rates-higher-in-383-metro-areas-over-the-year-ended-february-2021.htm",
@@ -297,7 +332,8 @@
     "ted_related_charts_name": "Charts related to the latest \"Metropolitan Area Employment and Unemployment\" news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/metro-area-employment-and-unemployment/",
     "ted_related_articles": "Employment down in 206 metro areas, up in 1, over the year ended February 2021",
-    "ted_related_subjects": "Metropolitan Areas and Counties; Unemployment"
+    "ted_related_subjects": "Metropolitan Areas and Counties; Unemployment",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "Employment down in 206 metro areas, up in 1, over the year ended February 2021",
     "ted_url": "https://www.bls.gov/opub/ted/2021/employment-down-in-206-metro-areas-up-in-1-over-the-year-ended-february-2021.htm",
@@ -312,7 +348,8 @@
     "ted_related_charts_name": "sortable table of metropolitan area employment data",
     "ted_related_charts_url": "https://www.bls.gov/web/metro/metro_oty_change.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": ""
+    "ted_related_subjects": "",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "Job openings increase by 268,000 to 7.4 million in February 2021",
     "ted_url": "https://www.bls.gov/opub/ted/2021/job-openings-increase-by-268000-to-7-4-million-in-february-2021.htm",
@@ -327,7 +364,8 @@
     "ted_related_charts_name": "charts featuring data on job openings, hires, and separations",
     "ted_related_charts_url": "https://www.bls.gov/charts/job-openings-and-labor-turnover/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Employment; Health Care; Education and Training; Industry Studies; Manufacturing"
+    "ted_related_subjects": "Employment; Health Care; Education and Training; Industry Studies; Manufacturing",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "Unemployment rate 3.7 percent for college grads, 6.7 percent for high school grads in March 2021",
     "ted_url": "https://www.bls.gov/opub/ted/2021/unemployment-rate-3-7-percent-for-college-grads-6-7-percent-for-high-school-grads-in-march-2021.htm",
@@ -342,7 +380,8 @@
     "ted_related_charts_name": "charts on employment and unemployment",
     "ted_related_charts_url": "https://www.bls.gov/charts/employment-situation/civilian-unemployment-rate.htm",
     "ted_related_articles": "Payroll employment increased by 916,000 in March 2021",
-    "ted_related_subjects": "Unemployment; Education and Training"
+    "ted_related_subjects": "Unemployment; Education and Training",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "Payroll employment increased by 916,000 in March 2021",
     "ted_url": "https://www.bls.gov/opub/ted/2021/payroll-employment-increased-by-916000-in-march-2021.htm",
@@ -357,7 +396,8 @@
     "ted_related_charts_name": "more charts",
     "ted_related_charts_url": "https://www.bls.gov/charts/employment-situation/otm-employment-change-by-industry-confidence-intervals.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Earnings and Wages; Employment; Industry Studies"
+    "ted_related_subjects": "Earnings and Wages; Employment; Industry Studies",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "Counties with highest job concentrations in pet care services and pet supply stores",
     "ted_url": "https://www.bls.gov/opub/ted/2021/counties-with-highest-job-concentrations-in-pet-care-services-and-pet-supply-stores.htm",
@@ -372,7 +412,8 @@
     "ted_related_charts_name": "data viewer tool",
     "ted_related_charts_url": "https://www.bls.gov/cew/apps/data_views/data_views.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Earnings and Wages; Employment; Industry Studies; Metropolitan Areas and Counties"
+    "ted_related_subjects": "Earnings and Wages; Employment; Industry Studies; Metropolitan Areas and Counties",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "Healthcare support occupations had employment of 6.4 million in May 2020",
     "ted_url": "https://www.bls.gov/opub/ted/2021/healthcare-support-occupations-had-employment-of-6-4-million-in-may-2020.htm",
@@ -387,7 +428,8 @@
     "ted_related_charts_name": "occupational profiles for healthcare support occupations",
     "ted_related_charts_url": "https://www.bls.gov/oes/current/oes_stru.htm#31-0000",
     "ted_related_articles": "",
-    "ted_related_subjects": "Earnings and Wages; Employment; Health Care; Occupations"
+    "ted_related_subjects": "Earnings and Wages; Employment; Health Care; Occupations",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "Higher paid workers more likely than lower paid workers to have paid leave benefits in 2020",
     "ted_url": "https://www.bls.gov/opub/ted/2021/higher-paid-workers-more-likely-than-lower-paid-workers-to-have-paid-leave-benefits-in-2020.htm",
@@ -402,7 +444,8 @@
     "ted_related_charts_name": "glossary",
     "ted_related_charts_url": "https://www.bls.gov/ncs/ebs/national-compensation-survey-glossary-of-employee-benefit-terms.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Earnings and Wages; Benefits"
+    "ted_related_subjects": "Earnings and Wages; Benefits",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "All states had unemployment rates below 10.0 percent in February 2021",
     "ted_url": "https://www.bls.gov/opub/ted/2021/all-states-had-unemployment-rates-below-10-0-percent-in-february-2021.htm",
@@ -417,7 +460,8 @@
     "ted_related_charts_name": "more charts and maps",
     "ted_related_charts_url": "https://www.bls.gov/charts/state-employment-and-unemployment/",
     "ted_related_articles": "Payroll employment up in 11 states, down in 3 states, in February 2021",
-    "ted_related_subjects": "Unemployment; Regions and States"
+    "ted_related_subjects": "Unemployment; Regions and States",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "Payroll employment up in 11 states, down in 3 states, in February 2021",
     "ted_url": "https://www.bls.gov/opub/ted/2021/payroll-employment-up-in-11-states-down-in-3-states-in-february-2021.htm",
@@ -432,7 +476,8 @@
     "ted_related_charts_name": "state chart package",
     "ted_related_charts_url": "https://www.bls.gov/charts/state-employment-and-unemployment/state-unemployment-rates-map.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Employment; Regions and States"
+    "ted_related_subjects": "Employment; Regions and States",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "Multifactor productivity down 1.7 percent in 2020",
     "ted_url": "https://www.bls.gov/opub/ted/2021/multifactor-productivity-down-1-7-percent-in-2020.htm",
@@ -447,7 +492,8 @@
     "ted_related_charts_name": "Multifactor Productivity Trends — 2020",
     "ted_related_charts_url": "https://www.bls.gov/news.release/archives/prod3_03232021.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Productivity"
+    "ted_related_subjects": "Productivity",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "Veterans with a service-connected disability much more likely to work for the federal government",
     "ted_url": "https://www.bls.gov/opub/ted/2021/veterans-with-a-service-connected-disability-much-more-likely-to-work-for-the-federal-government.htm",
@@ -462,7 +508,8 @@
     "ted_related_charts_name": "Employment Situation of Veterans — 2020",
     "ted_related_charts_url": "https://www.bls.gov/news.release/archives/vet_03182021.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Disability; Employment; Industry Studies"
+    "ted_related_subjects": "Disability; Employment; Industry Studies",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "21 metropolitan areas had unemployment rates of at least 10.0 percent in January 2021",
     "ted_url": "https://www.bls.gov/opub/ted/2021/21-metropolitan-areas-had-unemployment-rates-of-at-least-10-percent-in-january-2021.htm",
@@ -477,7 +524,8 @@
     "ted_related_charts_name": "Charts related to the latest \"Metropolitan Area Employment and Unemployment\" news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/metro-area-employment-and-unemployment/",
     "ted_related_articles": "Employment down over the year in most large metro areas",
-    "ted_related_subjects": "Metropolitan Areas and Counties; Unemployment"
+    "ted_related_subjects": "Metropolitan Areas and Counties; Unemployment",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "Employment down over the year in most large metro areas",
     "ted_url": "https://www.bls.gov/opub/ted/2021/employment-down-over-the-year-in-most-large-metro-areas.htm",
@@ -492,7 +540,8 @@
     "ted_related_charts_name": "Charts related to the latest \"Metropolitan Area Employment and Unemployment\" news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/metro-area-employment-and-unemployment/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Employment; Metropolitan Areas and Counties"
+    "ted_related_subjects": "Employment; Metropolitan Areas and Counties",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "Compensation costs in private industry averaged $36.23 per hour worked in December 2020",
     "ted_url": "https://www.bls.gov/opub/ted/2021/compensation-costs-in-private-industry-averaged-36-23-per-hour-worked-in-december-2020.htm",
@@ -507,7 +556,8 @@
     "ted_related_charts_name": "more charts",
     "ted_related_charts_url": "https://www.bls.gov/charts/employer-costs-for-employee-compensation/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Benefits; Compensation Costs; Earnings and Wages; Industry Studies; Regions and States"
+    "ted_related_subjects": "Benefits; Compensation Costs; Earnings and Wages; Industry Studies; Regions and States",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "U.S. import prices up 3.0 percent over the year ended February 2021",
     "ted_url": "https://www.bls.gov/opub/ted/2021/u-s-import-prices-up-3-0-percent-over-the-year-ended-february-2021.htm",
@@ -522,7 +572,8 @@
     "ted_related_charts_name": "Charts related to the latest “U.S. Import and Export Price Indexes” news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/import-export/us-import-and-export-price-indexes-12-month-percent-change.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "International Comparisons; Prices"
+    "ted_related_subjects": "International Comparisons; Prices",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "Unemployment rates lower in January 2021 in 33 states",
     "ted_url": "https://www.bls.gov/opub/ted/2021/unemployment-rates-lower-in-january-2021-in-33-states.htm",
@@ -537,7 +588,8 @@
     "ted_related_charts_name": "more charts and maps",
     "ted_related_charts_url": "https://www.bls.gov/charts/state-employment-and-unemployment/",
     "ted_related_articles": "Minnesota had the largest increase in employment from December 2020 to January 2021",
-    "ted_related_subjects": "Unemployment; Regions and States"
+    "ted_related_subjects": "Unemployment; Regions and States",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "Minnesota had the largest increase in employment from December 2020 to January 2021",
     "ted_url": "https://www.bls.gov/opub/ted/2021/minnesota-had-the-largest-increase-in-employment-from-december-2020-to-january-2021.htm",
@@ -552,7 +604,8 @@
     "ted_related_charts_name": "state chart package",
     "ted_related_charts_url": "https://www.bls.gov/charts/state-employment-and-unemployment/state-unemployment-rates-map.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Employment; Regions and States"
+    "ted_related_subjects": "Employment; Regions and States",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "Producer prices for final demand up 2.8 percent for the year ended February 2021",
     "ted_url": "https://www.bls.gov/opub/ted/2021/producer-prices-for-final-demand-up-2-8-percent-for-the-year-ended-february-2021.htm",
@@ -567,7 +620,8 @@
     "ted_related_charts_name": "Charts related to the latest \"U.S. Producer Price Indexes\" news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/producer-price-index/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Prices"
+    "ted_related_subjects": "Prices",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "Job openings in January 2021 little different from one year earlier",
     "ted_url": "https://www.bls.gov/opub/ted/2021/job-openings-in-january-2021-little-different-from-one-year-earlier.htm",
@@ -582,7 +636,8 @@
     "ted_related_charts_name": "Impact of coronavirus (COVID-19) pandemic on Job Openings and Labor Turnover data for January 2021",
     "ted_related_charts_url": "https://www.bls.gov/covid19/job-openings-and-labor-turnover-covid19-january-2021.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Employment; Labor Force; Unemployment"
+    "ted_related_subjects": "Employment; Labor Force; Unemployment",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "Real average hourly earnings up 3.4 percent over the 12 months ending February 2021",
     "ted_url": "https://www.bls.gov/opub/ted/2021/real-average-hourly-earnings-up-3-4-percent-over-the-12-months-ending-february-2021.htm",
@@ -597,7 +652,8 @@
     "ted_related_charts_name": "Consumer Price Index",
     "ted_related_charts_url": "https://www.bls.gov/cpi/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Earnings and Wages; Hours"
+    "ted_related_subjects": "Earnings and Wages; Hours",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "Consumer prices for services less energy up 1.3 percent over the year ended February 2021",
     "ted_url": "https://www.bls.gov/opub/ted/2021/consumer-prices-for-services-less-energy-up-1-3-percent-over-the-year-ended-february-2021.htm",
@@ -612,7 +668,8 @@
     "ted_related_charts_name": "more charts on consumer prices",
     "ted_related_charts_url": "https://www.bls.gov/charts/consumer-price-index/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Health Care; Prices"
+    "ted_related_subjects": "Health Care; Prices",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "Workers ages 25 to 54 more likely to telework due to COVID–19 in February 2021",
     "ted_url": "https://www.bls.gov/opub/ted/2021/workers-ages-25-to-54-more-likely-to-telework-due-to-covid-19-in-february-2021.htm",
@@ -627,7 +684,8 @@
     "ted_related_charts_name": "monthly Employment Situation",
     "ted_related_charts_url": "https://www.bls.gov/covid19/effects-of-covid-19-pandemic-and-response-on-the-employment-situation-news-release.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Labor Force; Men; Women"
+    "ted_related_subjects": "Labor Force; Men; Women",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "Number of involuntary part-time workers in February 2021 down from record highs",
     "ted_url": "https://www.bls.gov/opub/ted/2021/number-of-involuntary-part-time-workers-in-february-2021-down-from-record-highs.htm",
@@ -642,7 +700,8 @@
     "ted_related_charts_name": "Impact of the coronavirus (COVID-19) pandemic on The Employment Situation for February 2021",
     "ted_related_charts_url": "https://www.bls.gov/covid19/employment-situation-covid19-faq-february-2021.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Hours; Labor Force"
+    "ted_related_subjects": "Hours; Labor Force",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "Payroll employment up by 379,000 in February; down 9.5 million in the last 12 months",
     "ted_url": "https://www.bls.gov/opub/ted/2021/payroll-employment-up-by-379000-in-february-down-9-5-million-in-the-last-12-months.htm",
@@ -657,7 +716,8 @@
     "ted_related_charts_name": "impact of the COVID-19 pandemic on the February data",
     "ted_related_charts_url": "https://www.bls.gov/covid19/employment-situation-covid19-faq-february-2021.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Employment; Industry Studies"
+    "ted_related_subjects": "Employment; Industry Studies",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "Nonfarm productivity down 4.2 percent in the fourth quarter of 2020",
     "ted_url": "https://www.bls.gov/opub/ted/2021/nonfarm-productivity-down-4-2-percent-in-the-fourth-quarter-of-2020.htm",
@@ -672,7 +732,8 @@
     "ted_related_charts_name": "Charts related to the latest \"Productivity and Costs\" news release.",
     "ted_related_charts_url": "https://www.bls.gov/charts/productivity-and-costs/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Hours; Productivity"
+    "ted_related_subjects": "Hours; Productivity",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "Employment–population ratios decreased in all 50 states and the District in 2020",
     "ted_url": "https://www.bls.gov/opub/ted/2021/employment-population-ratios-decreased-in-all-50-states-and-the-district-in-2020.htm",
@@ -687,7 +748,8 @@
     "ted_related_charts_name": "Regional and State Unemployment – 2020 Annual Averages",
     "ted_related_charts_url": "https://www.bls.gov/news.release/archives/srgune_03032021.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Employment; Regions and States"
+    "ted_related_subjects": "Employment; Regions and States",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "8 major work stoppages began during 2020",
     "ted_url": "https://www.bls.gov/opub/ted/2021/8-major-work-stoppages-began-during-2020.htm",
@@ -702,7 +764,8 @@
     "ted_related_charts_name": "supplementary files",
     "ted_related_charts_url": "https://www.bls.gov/web/wkstp.supp.toc.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Work Stoppages"
+    "ted_related_subjects": "Work Stoppages",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "Comparing the experiences of essential and nonessential businesses during COVID-19",
     "ted_url": "https://www.bls.gov/opub/ted/2021/comparing-the-experiences-of-essential-and-nonessential-businesses-during-covid-19.htm",
@@ -717,7 +780,8 @@
     "ted_related_charts_name": "Business Response Survey",
     "ted_related_charts_url": "https://www.bls.gov/brs/",
     "ted_related_articles": "107.5 million private sector workers in pandemic-essential industries in 2019; Half of businesses that told employees not to work continued paying them during COVID–19; 60 percent of businesses with average pay less than $20k told some staff not to work due to COVID-19",
-    "ted_related_subjects": "Employment; Hours; Productivity"
+    "ted_related_subjects": "Employment; Hours; Productivity",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "17.9 percent of people with a disability employed in 2020",
     "ted_url": "https://www.bls.gov/opub/ted/2021/17-9-percent-of-people-with-a-disability-employed-in-2020.htm",
@@ -732,7 +796,8 @@
     "ted_related_charts_name": "Persons With A Disability: Labor Force Characteristics — 2020",
     "ted_related_charts_url": "https://www.bls.gov/news.release/archives/disabl_02242021.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Disability; Employment; Youth"
+    "ted_related_subjects": "Disability; Employment; Youth",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "67 percent of private industry workers had access to retirement plans in 2020",
     "ted_url": "https://www.bls.gov/opub/ted/2021/67-percent-of-private-industry-workers-had-access-to-retirement-plans-in-2020.htm",
@@ -747,7 +812,8 @@
     "ted_related_charts_name": "complete dataset",
     "ted_related_charts_url": "https://www.bls.gov/ncs/ebs/xlsx/employee-benefits-in-the-united-states-dataset.xlsx",
     "ted_related_articles": "",
-    "ted_related_subjects": "Benefits; Earnings and Wages; Retirement"
+    "ted_related_subjects": "Benefits; Earnings and Wages; Retirement",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "Employment decreased in 355 of the 357 largest U.S. counties for year ended September 2020",
     "ted_url": "https://www.bls.gov/opub/ted/2021/employment-decreased-in-355-of-the-357-largest-u-s-counties-for-year-ended-september-2020.htm",
@@ -762,7 +828,8 @@
     "ted_related_charts_name": "County Employment and Wages – Third Quarter 2020",
     "ted_related_charts_url": "https://www.bls.gov/news.release/archives/cewqtr_02242021.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Employment"
+    "ted_related_subjects": "Employment",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "A look at union membership rates across industries in 2020",
     "ted_url": "https://www.bls.gov/opub/ted/2021/a-look-at-union-membership-rates-across-industries-in-2020.htm",
@@ -777,7 +844,8 @@
     "ted_related_charts_name": "Union Members — 2020",
     "ted_related_charts_url": "https://www.bls.gov/news.release/archives/union2_01222021.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Collective Bargaining; Employment; Industry Studies"
+    "ted_related_subjects": "Collective Bargaining; Employment; Industry Studies",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "Import prices up 0.9 percent, export prices up 2.3 percent over the year ended January 2021",
     "ted_url": "https://www.bls.gov/opub/ted/2021/import-prices-up-0-9-percent-export-prices-up-2-3-percent-over-the-year-ended-january-2021.htm",
@@ -792,7 +860,8 @@
     "ted_related_charts_name": "Charts related to the latest “U.S. Import and Export Price Indexes” news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/import-export/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Industry Studies; Prices"
+    "ted_related_subjects": "Industry Studies; Prices",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "Producer prices for final demand up 1.3 percent in January 2021",
     "ted_url": "https://www.bls.gov/opub/ted/2021/producer-prices-for-final-demand-up-1-3-percent-in-january-2021.htm",
@@ -807,7 +876,8 @@
     "ted_related_charts_name": "Charts related to the latest \"U.S. Producer Price Indexes\" news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/producer-price-index/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Prices"
+    "ted_related_subjects": "Prices",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "107.5 million private sector workers in pandemic-essential industries in 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2021/107-5-million-private-sector-workers-in-pandemic-essential-industries-in-2019.htm",
@@ -822,7 +892,8 @@
     "ted_related_charts_name": "Quarterly Census of Employment and Wages",
     "ted_related_charts_url": "https://www.bls.gov/cew/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Employment; Health Care; Industry Studies; Labor Force; Regions and States"
+    "ted_related_subjects": "Employment; Health Care; Industry Studies; Labor Force; Regions and States",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "Four states and D.C. had labor force that was more than 30 percent African American in 2020",
     "ted_url": "https://www.bls.gov/opub/ted/2021/four-states-and-dc-had-labor-force-that-was-more-than-30-percent-african-american-in-2020.htm",
@@ -837,7 +908,8 @@
     "ted_related_charts_name": "Local Area Unemployment Statistics",
     "ted_related_charts_url": "https://www.bls.gov/lau/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Labor Force; Regions and States"
+    "ted_related_subjects": "Labor Force; Regions and States",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "Real average hourly earnings increased 4.0 percent from January 2020 to January 2021",
     "ted_url": "https://www.bls.gov/opub/ted/2021/real-average-hourly-earnings-increased-4-0-percent-from-january-2020-to-january-2021.htm",
@@ -852,7 +924,8 @@
     "ted_related_charts_name": "Consumer Price Index",
     "ted_related_charts_url": "https://www.bls.gov/cpi/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Earnings and Wages; Hours; Prices"
+    "ted_related_subjects": "Earnings and Wages; Hours; Prices",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "Gasoline prices decrease 8.6 percent for the year ended January 2021",
     "ted_url": "https://www.bls.gov/opub/ted/2021/gasoline-prices-decrease-8-6-percent-for-the-year-ended-january-2021.htm",
@@ -867,7 +940,8 @@
     "ted_related_charts_name": "more charts on consumer prices",
     "ted_related_charts_url": "https://www.bls.gov/charts/consumer-price-index/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Prices; Regions and States"
+    "ted_related_subjects": "Prices; Regions and States",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "Job openings in professional and business services up by 166,000 since February 2020",
     "ted_url": "https://www.bls.gov/opub/ted/2021/job-openings-in-professional-and-business-services-up-by-166000-since-february-2020.htm",
@@ -882,7 +956,8 @@
     "ted_related_charts_name": "Impact of coronavirus (COVID-19) pandemic on Job Openings and Labor Turnover data for December 2020",
     "ted_related_charts_url": "https://www.bls.gov/covid19/job-openings-and-labor-turnover-covid19-december-2020.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Industry Studies; Employment"
+    "ted_related_subjects": "Industry Studies; Employment",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "El Centro, California, had the highest unemployment rate in December 2020",
     "ted_url": "https://www.bls.gov/opub/ted/2021/el-centro-california-had-the-highest-unemployment-rate-in-december-2020.htm",
@@ -897,7 +972,8 @@
     "ted_related_charts_name": "Charts related to the latest \"Metropolitan Area Employment and Unemployment\" news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/metro-area-employment-and-unemployment/",
     "ted_related_articles": "Metropolitan area employment down in 232 areas over the year ending December 2020",
-    "ted_related_subjects": "Metropolitan Areas and Counties; Unemployment"
+    "ted_related_subjects": "Metropolitan Areas and Counties; Unemployment",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "Metropolitan area employment down in 232 areas over the year ending December 2020",
     "ted_url": "https://www.bls.gov/opub/ted/2021/metropolitan-area-employment-down-in-232-areas-over-the-year-ending-december-2020.htm",
@@ -912,7 +988,8 @@
     "ted_related_charts_name": "Charts related to the latest \"Metropolitan Area Employment and Unemployment\" news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/metro-area-employment-and-unemployment/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Employment; Metropolitan Areas and Counties"
+    "ted_related_subjects": "Employment; Metropolitan Areas and Counties",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "Temporary layoffs remain high following unprecedented surge in early 2020",
     "ted_url": "https://www.bls.gov/opub/ted/2021/temporary-layoffs-remain-high-following-unprecedented-surge-in-early-2020.htm",
@@ -927,7 +1004,8 @@
     "ted_related_charts_name": "more charts on employment, unemployment, and the labor force",
     "ted_related_charts_url": "https://www.bls.gov/charts/employment-situation/civilian-unemployment-rate.htm#",
     "ted_related_articles": "Employment in professional and business services up by 97,000 in January 2021",
-    "ted_related_subjects": "Labor Force; Unemployment"
+    "ted_related_subjects": "Labor Force; Unemployment",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "Employment in professional and business services up by 97,000 in January 2021",
     "ted_url": "https://www.bls.gov/opub/ted/2021/employment-in-professional-and-business-services-up-by-97000-in-january-2021.htm",
@@ -942,7 +1020,8 @@
     "ted_related_charts_name": "impact of the COVID-19 pandemic on the January data",
     "ted_related_charts_url": "https://www.bls.gov/covid19/employment-situation-covid19-faq-january-2021.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Employment; Industry Studies"
+    "ted_related_subjects": "Employment; Industry Studies",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "Productivity up 2.5 percent as output declined, 4th quarter 2019 to 4th quarter 2020",
     "ted_url": "https://www.bls.gov/opub/ted/2021/productivity-up-2-5-percent-as-output-declined-4th-quarter-2019-to-4th-quarter-2020.htm",
@@ -957,7 +1036,8 @@
     "ted_related_charts_name": "Charts related to the latest \"Productivity and Costs\" news release.",
     "ted_related_charts_url": "https://www.bls.gov/charts/productivity-and-costs/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Hours; Industry Studies; Manufacturing; Productivity"
+    "ted_related_subjects": "Hours; Industry Studies; Manufacturing; Productivity",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "Union membership rates highest in Hawaii, lowest in South Carolina, in 2020",
     "ted_url": "https://www.bls.gov/opub/ted/2021/union-membership-rates-highest-in-hawaii-lowest-in-south-carolina-in-2020.htm",
@@ -972,7 +1052,8 @@
     "ted_related_charts_name": "Union Members — 2020",
     "ted_related_charts_url": "https://www.bls.gov/news.release/archives/union2_01222021.htm",
     "ted_related_articles": "Union employment down 2.2 percent in 2020; total wage and salary employment down 6.7 percent",
-    "ted_related_subjects": "Employment; Regions and States"
+    "ted_related_subjects": "Employment; Regions and States",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "Counties with highest concentrations of jobs in poultry and animal slaughtering, June 2020",
     "ted_url": "https://www.bls.gov/opub/ted/2021/counties-with-highest-concentrations-of-jobs-in-poultry-and-animal-slaughtering-june-2020.htm",
@@ -987,7 +1068,8 @@
     "ted_related_charts_name": "data viewer tool",
     "ted_related_charts_url": "https://www.bls.gov/cew/apps/data_views/data_views.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Earnings and Wages; Employment; Industry Studies; Metropolitan Areas and Counties"
+    "ted_related_subjects": "Earnings and Wages; Employment; Industry Studies; Metropolitan Areas and Counties",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "Import air passenger fares down 16.4 percent for the year ended in December",
     "ted_url": "https://www.bls.gov/opub/ted/2021/import-air-passenger-fares-down-16-4-percent-for-the-year-ended-in-december.htm",
@@ -1002,7 +1084,8 @@
     "ted_related_charts_name": "air freight",
     "ted_related_charts_url": "https://www.bls.gov/mxp/publications/factsheets/air-freight-facts.pdf",
     "ted_related_articles": "",
-    "ted_related_subjects": "International Comparisons; Prices"
+    "ted_related_subjects": "International Comparisons; Prices",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "Wages and salaries increased for retail trade workers for the year ending in December 2020",
     "ted_url": "https://www.bls.gov/opub/ted/2021/wages-and-salaries-increased-for-retail-trade-workers-for-the-year-ending-in-december-2020.htm",
@@ -1017,7 +1100,8 @@
     "ted_related_charts_name": "database tools",
     "ted_related_charts_url": "https://www.bls.gov/ncs/ect/data.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Compensation Costs; Earnings and Wages"
+    "ted_related_subjects": "Compensation Costs; Earnings and Wages",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "14.6 million private sector jobs lost during second quarter 2020",
     "ted_url": "https://www.bls.gov/opub/ted/2021/14-6-million-private-sector-jobs-lost-during-second-quarter-2020.htm",
@@ -1032,7 +1116,8 @@
     "ted_related_charts_name": "charts related to the latest \"Business Employment Dynamics\" news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/business-employment-dynamics/job-gains-job-losses-most-recent-quarter.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": ""
+    "ted_related_subjects": "",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "South Dakota only state with lower unemployment rate for year ending December 2020",
     "ted_url": "https://www.bls.gov/opub/ted/2021/south-dakota-only-state-with-lower-unemployment-rate-for-year-ending-december-2020.htm",
@@ -1047,7 +1132,8 @@
     "ted_related_charts_name": "more charts and maps",
     "ted_related_charts_url": "https://www.bls.gov/charts/state-employment-and-unemployment/",
     "ted_related_articles": "New Hampshire state government jobs decreased 26.1 percent for year ended December 2020",
-    "ted_related_subjects": "Unemployment; Regions and States"
+    "ted_related_subjects": "Unemployment; Regions and States",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "New Hampshire state government jobs decreased 26.1 percent for year ended December 2020",
     "ted_url": "https://www.bls.gov/opub/ted/2021/new-hampshire-state-government-jobs-decreased-26-1-percent-for-year-ended-december-2020.htm",
@@ -1062,7 +1148,8 @@
     "ted_related_charts_name": "state chart package",
     "ted_related_charts_url": "https://www.bls.gov/charts/state-employment-and-unemployment/state-unemployment-rates-map.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Employment; Regions and States"
+    "ted_related_subjects": "Employment; Regions and States",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "Union employment down 2.2 percent in 2020; total wage and salary employment down 6.7 percent",
     "ted_url": "https://www.bls.gov/opub/ted/2021/union-employment-down-2-2-percent-in-2020-total-wage-and-salary-employment-down-6-7-percent.htm",
@@ -1077,7 +1164,8 @@
     "ted_related_charts_name": "Union Members — 2020",
     "ted_related_charts_url": "https://www.bls.gov/news.release/archives/union2_01222021.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Men; Women"
+    "ted_related_subjects": "Men; Women",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "Median earnings for women in the fourth quarter of 2020 were 83.4 percent of the median for men",
     "ted_url": "https://www.bls.gov/opub/ted/2021/median-earnings-for-women-in-the-fourth-quarter-of-2020-were-83-4-percent-of-the-median-for-men.htm",
@@ -1092,7 +1180,8 @@
     "ted_related_charts_name": "more charts of usual weekly earnings data",
     "ted_related_charts_url": "https://www.bls.gov/charts/usual-weekly-earnings/usual-weekly-earnings-over-time-total-men-women.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Earnings and Wages; Men; Women"
+    "ted_related_subjects": "Earnings and Wages; Men; Women",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "Wages for financial specialists",
     "ted_url": "https://www.bls.gov/opub/ted/2021/wages-for-financial-specialists.htm",
@@ -1107,7 +1196,8 @@
     "ted_related_charts_name": "Occupational Employment Statistics",
     "ted_related_charts_url": "https://www.bls.gov/oes/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Earnings and Wages; Occupations"
+    "ted_related_subjects": "Earnings and Wages; Occupations",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "Producer prices for final demand up 0.8 percent for year ended December 2020",
     "ted_url": "https://www.bls.gov/opub/ted/2021/producer-prices-for-final-demand-up-0-point-8-percent-for-year-ended-december-2020.htm",
@@ -1122,7 +1212,8 @@
     "ted_related_charts_name": "Charts related to the latest \"U.S. Producer Price Indexes\" news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/producer-price-index/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Prices"
+    "ted_related_subjects": "Prices",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "U.S. export prices up 0.2 percent in 2020",
     "ted_url": "https://www.bls.gov/opub/ted/2021/u-s-export-prices-up-0-2-percent-in-2020.htm",
@@ -1137,7 +1228,8 @@
     "ted_related_charts_name": "charts on import and export price trends",
     "ted_related_charts_url": "https://www.bls.gov/charts/import-export/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Prices; Industry Studies"
+    "ted_related_subjects": "Prices; Industry Studies",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "Real weekly earnings up 3.7 percent for year ended December 2020",
     "ted_url": "https://www.bls.gov/opub/ted/2021/real-weekly-earnings-up-3-7-percent-for-year-ended-december-2020.htm",
@@ -1152,7 +1244,8 @@
     "ted_related_charts_name": "Consumer Price Index",
     "ted_related_charts_url": "https://www.bls.gov/cpi/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Earnings and Wages; Hours; Prices"
+    "ted_related_subjects": "Earnings and Wages; Hours; Prices",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "Consumer Price Index: 2020 in review",
     "ted_url": "https://www.bls.gov/opub/ted/2021/consumer-price-index-2020-in-review.htm",
@@ -1167,7 +1260,8 @@
     "ted_related_charts_name": "more charts on consumer prices",
     "ted_related_charts_url": "https://www.bls.gov/charts/consumer-price-index/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Prices"
+    "ted_related_subjects": "Prices",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "Hires up in professional and business services over the year, November 2020",
     "ted_url": "https://www.bls.gov/opub/ted/2021/hires-up-in-professional-and-business-services-over-the-year-november-2020.htm",
@@ -1182,7 +1276,8 @@
     "ted_related_charts_name": "Impact of coronavirus (COVID-19) pandemic on Job Openings and Labor Turnover data for November 2020",
     "ted_related_charts_url": "https://www.bls.gov/covid19/job-openings-and-labor-turnover-covid19-november-2020.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Industry Studies; Employment; Labor Force"
+    "ted_related_subjects": "Industry Studies; Employment; Labor Force",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "28.4 percent of unemployed were on temporary layoff in December 2020",
     "ted_url": "https://www.bls.gov/opub/ted/2021/28-point-4-percent-of-unemployed-were-on-temporary-layoff-in-december-2020.htm",
@@ -1197,7 +1292,8 @@
     "ted_related_charts_name": "more charts on employment, unemployment, and the labor force",
     "ted_related_charts_url": "https://www.bls.gov/charts/employment-situation/civilian-unemployment-rate.htm",
     "ted_related_articles": "Payroll employment down 140,000 in December 2020",
-    "ted_related_subjects": "Unemployment"
+    "ted_related_subjects": "Unemployment",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "Payroll employment down 140,000 in December 2020",
     "ted_url": "https://www.bls.gov/opub/ted/2021/payroll-employment-down-140000-in-december-2020.htm",
@@ -1212,7 +1308,8 @@
     "ted_related_charts_name": "impact of the COVID-19 pandemic on the December data",
     "ted_related_charts_url": "https://www.bls.gov/covid19/employment-situation-covid19-faq-december-2020.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Employment; Industry Studies"
+    "ted_related_subjects": "Employment; Industry Studies",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "12 metro areas had unemployment rates of 10 percent or higher in November 2020",
     "ted_url": "https://www.bls.gov/opub/ted/2021/12-metro-areas-had-unemployment-rates-of-10-percent-or-higher-in-november-2020.htm",
@@ -1227,7 +1324,8 @@
     "ted_related_charts_name": "Charts related to the latest \"Metropolitan Area Employment and Unemployment\" news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/metro-area-employment-and-unemployment/",
     "ted_related_articles": "242 out of 389 metropolitan areas had decreases in employment for the year ended November 2020",
-    "ted_related_subjects": "Metropolitan Areas and Counties; Regions and States; Unemployment"
+    "ted_related_subjects": "Metropolitan Areas and Counties; Regions and States; Unemployment",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "Half of businesses that told employees not to work continued paying them during COVID–19",
     "ted_url": "https://www.bls.gov/opub/ted/2021/half-of-businesses-that-told-employees-not-to-work-continued-paying-them-during-covid-19.htm",
@@ -1242,7 +1340,8 @@
     "ted_related_charts_name": "tables",
     "ted_related_charts_url": "https://www.bls.gov/brs/data/tables/",
     "ted_related_articles": "60 percent of businesses with average pay less than $20k told some staff not to work due to COVID-19",
-    "ted_related_subjects": "Earnings and Wages; Employment; Size Of Establishment"
+    "ted_related_subjects": "Earnings and Wages; Employment; Size Of Establishment",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "242 out of 389 metropolitan areas had decreases in employment for the year ended November 2020",
     "ted_url": "https://www.bls.gov/opub/ted/2021/242-out-of-389-metropolitan-areas-had-decreases-in-employment-for-the-year-ended-november-2020.htm",
@@ -1257,7 +1356,8 @@
     "ted_related_charts_name": "Charts related to the latest \"Metropolitan Area Employment and Unemployment\" news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/metro-area-employment-and-unemployment/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Employment; Metropolitan Areas and Counties"
+    "ted_related_subjects": "Employment; Metropolitan Areas and Counties",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "Retail salespersons numbered 4.3 million, earned $29,360 on average in 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2021/retail-salespersons-numbered-4-3-million-earned-29360-on-average-in-2019.htm",
@@ -1272,7 +1372,8 @@
     "ted_related_charts_name": "Occupational Employment and Wages — May 2019",
     "ted_related_charts_url": "https://www.bls.gov/news.release/archives/ocwage_03312020.htm",
     "ted_related_articles": "A look at wages for jobs moms do at home; Installation, maintenance, and repair occupations had employment of 5.7 million in May 2019; Statewide employment in healthcare occupations in May 2019",
-    "ted_related_subjects": "Earnings and Wages; Employment; Occupations"
+    "ted_related_subjects": "Earnings and Wages; Employment; Occupations",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "Taking a look at New Year's resolutions",
     "ted_url": "https://www.bls.gov/opub/ted/2021/taking-a-look-at-new-years-resolutions.htm",
@@ -1287,7 +1388,8 @@
     "ted_related_charts_name": "Consumer Price Index Databases",
     "ted_related_charts_url": "https://www.bls.gov/cpi/data.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Prices"
+    "ted_related_subjects": "Prices",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }, {
     "ted_title": "Civilian workers spent an average of 57.3 percent of the workday standing in 2020",
     "ted_url": "https://www.bls.gov/opub/ted/2021/civilian-workers-spent-an-average-of-57-3-percent-of-the-workday-standing-in-2020.htm",
@@ -1302,5 +1404,6 @@
     "ted_related_charts_name": "BLS database",
     "ted_related_charts_url": "https://www.bls.gov/ors/data.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Hours; Occupations"
+    "ted_related_subjects": "Hours; Occupations",
+    "keywords": "away;cases;days;work;accounted;construction;falls;industry;injuries;involving"
 }]
