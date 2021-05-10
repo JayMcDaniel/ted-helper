@@ -12,7 +12,8 @@
     "ted_related_charts_name": "more charts made showing job openings, hires, and separations data",
     "ted_related_charts_url": "https://www.bls.gov/charts/job-openings-and-labor-turnover/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Employment; Labor Force; Unemployment"
+    "ted_related_subjects": "Employment; Labor Force; Unemployment",
+    "keywords": "end;job;july;month;opening;people;per;ranged;ratio;recent"
 }, {
     "ted_title": "Access to end-of-year and holiday bonuses for private industry workers in 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/access-to-end-of-year-and-holiday-bonuses-for-private-industry-workers-in-2019.htm",
@@ -27,7 +28,8 @@
     "ted_related_charts_name": "National Compensation Survey Glossary of Employee Benefit Terms",
     "ted_related_charts_url": "https://www.bls.gov/ncs/ebs/national-compensation-survey-glossary-of-employee-benefit-terms.htm#nonproduction_bonuses",
     "ted_related_articles": "",
-    "ted_related_subjects": "Benefits; Compensation Costs; Occupations"
+    "ted_related_subjects": "Benefits; Compensation Costs; Occupations",
+    "keywords": "average;bonuses;cost;employer;hour;industry;march;nonproduction;per;private"
 }, {
     "ted_title": "Alabama has largest decrease in unemployment rate for year ended November 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/alabama-has-largest-decrease-in-unemployment-rate-for-year-ended-november-2019.htm",
@@ -42,7 +44,8 @@
     "ted_related_charts_name": "state chart package",
     "ted_related_charts_url": "https://www.bls.gov/charts/state-employment-and-unemployment/state-unemployment-rates-map.htm",
     "ted_related_articles": "25 states added jobs from November 2018 to November 2019",
-    "ted_related_subjects": "Regions and States; Unemployment"
+    "ted_related_subjects": "Regions and States; Unemployment",
+    "keywords": "percentage;point;november;rate;unemployment;alabama;carolina;colorado;decrease;followed"
 }, {
     "ted_title": "25 states added jobs from November 2018 to November 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/25-states-added-jobs-from-november-2018-to-november-2019.htm",
@@ -57,7 +60,8 @@
     "ted_related_charts_name": "state chart package",
     "ted_related_charts_url": "https://www.bls.gov/charts/state-employment-and-unemployment/state-unemployment-rates-map.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Employment; Regions and States"
+    "ted_related_subjects": "Employment; Regions and States",
+    "keywords": "gains;largest;occurred;percent;texas;california;florida;idaho;job;percentage"
 }, {
     "ted_title": "5,250 fatal workplace injuries occurred in 2018",
     "ted_url": "https://www.bls.gov/opub/ted/2019/5250-fatal-workplace-injuries-occurred-in-2018.htm",
@@ -72,7 +76,8 @@
     "ted_related_charts_name": "more charts on fatal workplace injuries",
     "ted_related_charts_url": "https://www.bls.gov/charts/census-of-fatal-occupational-injuries/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Occupational Safety and Health"
+    "ted_related_subjects": "Occupational Safety and Health",
+    "keywords": "cases;fatal;increase;contact;decrease;environments;equipment;exposure;falls;fewer"
 }, {
     "ted_title": "8.2 million parents of children under age 18 provided eldercare in 2017–18",
     "ted_url": "https://www.bls.gov/opub/ted/2019/8-point-2-million-parents-of-children-under-age-18-provided-eldercare-in-2017-18.htm",
@@ -87,7 +92,8 @@
     "ted_related_charts_name": "Unpaid Eldercare in the United States — 2017–2018 Data from the American Time Use Survey",
     "ted_related_charts_url": "https://www.bls.gov/news.release/archives/elcare_11222019.htm",
     "ted_related_articles": "40.4 million people provided unpaid eldercare in 2017–18",
-    "ted_related_subjects": "Employment; Health Care; Hours; Men; Unemployment; Women"
+    "ted_related_subjects": "Employment; Health Care; Hours; Men; Unemployment; Women",
+    "keywords": "parents;eldercare;percent;providers;care;aging;almost;children;described;employed"
 }, {
     "ted_title": "U.S. terms of trade with Mexico up 1.6 percent in November 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/u-s-terms-of-trade-with-mexico-up-1-point-6-percent-in-november-2019.htm",
@@ -102,7 +108,8 @@
     "ted_related_charts_name": "Commissioner's Corner Blog",
     "ted_related_charts_url": "https://blogs.bls.gov/labs/blogs/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Prices"
+    "ted_related_subjects": "Prices",
+    "keywords": "percent;china;prices;imports;increase;increased;terms;trade;u.s;advancing"
 }, {
     "ted_title": "Producer Price Index for final demand up 1.1 percent for the 12 months ended November 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/producer-price-index-for-final-demand-up-1-point-1-percent-for-the-12-months-ended-november-2019.htm",
@@ -117,7 +124,8 @@
     "ted_related_charts_name": "Charts related to the latest \"U.S. Producer Price Indexes\" news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/producer-price-index/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Industry Studies; Prices"
+    "ted_related_subjects": "Industry Studies; Prices",
+    "keywords": "demand;final;percent;prices;services;decreased;energy;foods;increased;less"
 }, {
     "ted_title": "A look at compensation costs in aircraft manufacturing on Wright Brothers Day",
     "ted_url": "https://www.bls.gov/opub/ted/2019/a-look-at-compensation-costs-in-aircraft-manufacturing-on-wright-brothers-day.htm",
@@ -132,7 +140,8 @@
     "ted_related_charts_name": "employer costs for employee compensation",
     "ted_related_charts_url": "https://www.bls.gov/charts/employer-costs-for-employee-compensation/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Benefits; Compensation Costs; Earnings and Wages; Industry Studies; Manufacturing"
+    "ted_related_subjects": "Benefits; Compensation Costs; Earnings and Wages; Industry Studies; Manufacturing",
+    "keywords": "compensation;hour;per;worked;workers;aircraft;cost;costs;double;industry"
 }, {
     "ted_title": "Real average hourly and weekly earnings up 1.1 percent from November 2018 to November 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/real-average-hourly-and-weekly-earnings-up-1-point-1-percent-from-november-2018-to-november-2019.htm",
@@ -147,7 +156,8 @@
     "ted_related_charts_name": "Consumer Price Index",
     "ted_related_charts_url": "https://www.bls.gov/cpi/",
     "ted_related_articles": "Consumer prices increase 2.1 percent in the 12 months ending November 2019",
-    "ted_related_subjects": "Earnings and Wages; Hours; Prices"
+    "ted_related_subjects": "Earnings and Wages; Hours; Prices",
+    "keywords": "average;percent;earnings;november;real;employees;fell;hourly;increased;nonsupervisory"
 }, {
     "ted_title": "Consumer prices increase 2.1 percent in the 12 months ending November 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/consumer-prices-increase-2-point-1-percent-in-the-12-months-ending-november-2019.htm",
@@ -162,7 +172,8 @@
     "ted_related_charts_name": "more charts on consumer prices",
     "ted_related_charts_url": "https://www.bls.gov/charts/consumer-price-index/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Prices"
+    "ted_related_subjects": "Prices",
+    "keywords": "prices;percent;food;rose;last;months;energy;home;increased;year"
 }, {
     "ted_title": "Nonfarm business labor productivity up 1.5 percent since third quarter 2018",
     "ted_url": "https://www.bls.gov/opub/ted/2019/nonfarm-business-labor-productivity-up-1-point-5-percent-since-third-quarter-2018.htm",
@@ -177,7 +188,8 @@
     "ted_related_charts_name": "Charts related to the latest \"Productivity and Costs\" news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/productivity-and-costs/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Compensation Costs; Hours; Productivity"
+    "ted_related_subjects": "Compensation Costs; Hours; Productivity",
+    "keywords": "increased;percent;compensation;hourly;costs;four;labor;last;period;quarters"
 }, {
     "ted_title": "People marginally attached to the labor force down 432,000 in November 2019 from a year earlier",
     "ted_url": "https://www.bls.gov/opub/ted/2019/people-marginally-attached-to-the-labor-force-down-432000-in-november-2019-from-a-year-earlier.htm",
@@ -192,7 +204,8 @@
     "ted_related_charts_name": "charts",
     "ted_related_charts_url": "https://www.bls.gov/charts/employment-situation/civilian-unemployment-rate.htm#",
     "ted_related_articles": "Nonfarm employment rose by 266,000 in November 2019",
-    "ted_related_subjects": "Labor Force; Unemployment"
+    "ted_related_subjects": "Labor Force; Unemployment",
+    "keywords": "attached;discouraged;marginally;november;people;work;workers;among;attendance;available"
 }, {
     "ted_title": "Nonfarm employment rose by 266,000 in November 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/nonfarm-employment-rose-by-266000-in-november-2019.htm",
@@ -207,7 +220,8 @@
     "ted_related_charts_name": "more charts",
     "ted_related_charts_url": "https://www.bls.gov/charts/employment-situation/otm-employment-change-by-industry-confidence-intervals.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Employment; Health Care; Industry Studies; Manufacturing"
+    "ted_related_subjects": "Employment; Health Care; Industry Studies; Manufacturing",
+    "keywords": "employment;november;increased;professional;services;warehousing;business;continued;industry;last"
 }, {
     "ted_title": "7.8 percent of people who worked or looked for work experienced unemployment in 2018",
     "ted_url": "https://www.bls.gov/opub/ted/2019/7-point-8-percent-of-people-who-worked-or-looked-for-work-experienced-unemployment-in-2018.htm",
@@ -222,7 +236,8 @@
     "ted_related_charts_name": "Work Experience of the Population — 2018",
     "ted_related_charts_url": "https://www.bls.gov/news.release/archives/work_12032019.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Men; Unemployment; Women"
+    "ted_related_subjects": "Men; Unemployment; Women",
+    "keywords": "men;women;percent;percentage;point;rate;among;compared;continued;decrease"
 }, {
     "ted_title": "Transportation and material moving workers experienced 184,470 injuries and illnesses in 2018",
     "ted_url": "https://www.bls.gov/opub/ted/2019/transportation-and-material-moving-workers-experienced-184470-injuries-and-illnesses-in-2018.htm",
@@ -237,7 +252,8 @@
     "ted_related_charts_name": "Employer-Reported Workplace Injuries and Illnesses — 2018",
     "ted_related_charts_url": "https://www.bls.gov/news.release/archives/osh_11072019.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Disability; Occupational Safety and Health; Occupations"
+    "ted_related_subjects": "Disability; Occupational Safety and Health; Occupations",
+    "keywords": "workers;away;days;work;injuries;cases;illnesses;resulted;full;incidence"
 }, {
     "ted_title": "40.4 million people provided unpaid eldercare in 2017–18",
     "ted_url": "https://www.bls.gov/opub/ted/2019/40-point-4-million-people-provided-unpaid-eldercare-in-2017-18.htm",
@@ -252,7 +268,8 @@
     "ted_related_charts_name": "Unpaid Eldercare in the United States — 2017–2018 Data from the American Time Use Survey",
     "ted_related_charts_url": "https://www.bls.gov/news.release/archives/elcare_11222019.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Employment; Health Care; Men; Women"
+    "ted_related_subjects": "Employment; Health Care; Men; Women",
+    "keywords": "eldercare;percent;providers;day;given;likely;provide;care;compared;employed"
 }, {
     "ted_title": "Yuma, Arizona, had second highest unemployment rate but largest over-the-year decrease",
     "ted_url": "https://www.bls.gov/opub/ted/2019/yuma-arizona-had-second-highest-unemployment-rate-but-largest-over-the-year-decrease.htm",
@@ -267,7 +284,8 @@
     "ted_related_charts_name": "Charts related to the latest \"Metropolitan Area Employment and Unemployment\" news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/metro-area-employment-and-unemployment/",
     "ted_related_articles": "49 metro areas had increases in nonfarm employment from October 2018 to October 2019",
-    "ted_related_subjects": "Unemployment; Metropolitan Areas and Counties"
+    "ted_related_subjects": "Unemployment; Metropolitan Areas and Counties",
+    "keywords": "areas;percentage;rate;year;largest;october;points;unemployment;arizona;declines"
 }, {
     "ted_title": "49 metro areas had increases in nonfarm employment from October 2018 to October 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/49-metro-areas-had-increases-in-nonfarm-employment-from-october-2018-to-october-2019.htm",
@@ -282,7 +300,8 @@
     "ted_related_charts_name": "Charts related to the latest \"Metropolitan Area Employment and Unemployment\" news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/metro-area-employment-and-unemployment/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Metropolitan Areas and Counties; Employment"
+    "ted_related_subjects": "Metropolitan Areas and Counties; Employment",
+    "keywords": "carolina;beach;myrtle;north;south;beaufort;bluffton;city;conway;employment"
 }, {
     "ted_title": "Rate and number of workplace injuries and illnesses in retail trade increased in 2018",
     "ted_url": "https://www.bls.gov/opub/ted/2019/rate-and-number-of-workplace-injuries-and-illnesses-in-retail-trade-increased-in-2018.htm",
@@ -297,7 +316,8 @@
     "ted_related_charts_name": "Employer-Reported Workplace Injuries and Illnesses — 2018",
     "ted_related_charts_url": "https://www.bls.gov/news.release/archives/osh_11072019.htm",
     "ted_related_articles": "2.8 million nonfatal workplace injuries and illnesses occurred in 2018",
-    "ted_related_subjects": "Industry Studies; Occupational Safety and Health"
+    "ted_related_subjects": "Industry Studies; Occupational Safety and Health",
+    "keywords": "retail;trade;away;illnesses;injuries;percent;work;also;among;another"
 }, {
     "ted_title": "Adams County, Colorado, has largest 12-month employment increase, June 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/adams-county-colorado-has-largest-12-month-employment-increase-june-2019.htm",
@@ -312,7 +332,8 @@
     "ted_related_charts_name": "County Employment and Wages – Second Quarter 2019",
     "ted_related_charts_url": "https://www.bls.gov/news.release/archives/cewqtr_11202019.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Earnings and Wages; Employment; Metropolitan Areas and Counties"
+    "ted_related_subjects": "Earnings and Wages; Employment; Metropolitan Areas and Counties",
+    "keywords": "average;wages;weekly;county;percent;quarter;second;among;arkansas;benton"
 }, {
     "ted_title": "Unemployment rates significantly lower than national rate in 15 states in October 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/unemployment-rates-significantly-lower-than-national-rate-in-15-states-in-october-2019.htm",
@@ -327,7 +348,8 @@
     "ted_related_charts_name": "charts and maps",
     "ted_related_charts_url": "https://www.bls.gov/charts/state-employment-and-unemployment/",
     "ted_related_articles": "Retail trade employment decreases 4.5 percent in North Dakota for the year ended October 2019",
-    "ted_related_subjects": "Regions and States; Unemployment"
+    "ted_related_subjects": "Regions and States; Unemployment",
+    "keywords": "percent;unemployment;rates;columbia;district;new;rate;series;alabama;alaska"
 }, {
     "ted_title": "Retail trade employment decreases 4.5 percent in North Dakota for the year ended October 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/retail-trade-employment-decreases-4-point-5-percent-in-north-dakota-for-the-year-ended-october-2019.htm",
@@ -342,7 +364,8 @@
     "ted_related_charts_name": "charts and maps of state employment and unemployment",
     "ted_related_charts_url": "https://www.bls.gov/charts/state-employment-and-unemployment/state-unemployment-rates-map.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Employment; Regions and States"
+    "ted_related_subjects": "Employment; Regions and States",
+    "keywords": "percent;employment;october;retail;trade;included;least;states;also;carolina"
 }, {
     "ted_title": "Import and export petroleum prices down from October 2018 to October 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/import-and-export-petroleum-prices-down-from-october-2018-to-october-2019.htm",
@@ -357,7 +380,8 @@
     "ted_related_charts_name": "more charts on import and export price trends",
     "ted_related_charts_url": "https://www.bls.gov/charts/import-export/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Prices"
+    "ted_related_subjects": "Prices",
+    "keywords": "percent;prices;despite;export;fell;import;increasing;indexes;january;may"
 }, {
     "ted_title": "Import air passenger fares rose 3.4 percent in October 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/import-air-passenger-fares-rose-3-point-4-percent-in-october-2019.htm",
@@ -372,7 +396,8 @@
     "ted_related_charts_name": "more charts",
     "ted_related_charts_url": "https://www.bls.gov/charts/import-export/",
     "ted_related_articles": "",
-    "ted_related_subjects": "International Comparisons; Prices"
+    "ted_related_subjects": "International Comparisons; Prices",
+    "keywords": "fares;export;october;percent;air;declined;passenger;asian;decrease;fell"
 }, {
     "ted_title": "Final demand Producer Price Index up 1.1 percent for the 12 months ended in October 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/final-demand-producer-price-index-up-1-point-1-percent-for-the-12-months-ended-in-october-2019.htm",
@@ -387,7 +412,8 @@
     "ted_related_charts_name": "charts related to the latest \"Producer Price Indexes\" news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/producer-price-index/final-demand-1-month-percent-change.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Prices"
+    "ted_related_subjects": "Prices",
+    "keywords": "percent;prices;demand;final;increased;goods;producer;services;importance;october"
 }, {
     "ted_title": "Real average weekly earnings up 0.9 percent over year ending October 2019, 6.9 percent since 2009",
     "ted_url": "https://www.bls.gov/opub/ted/2019/real-average-weekly-earnings-up-0-9-percent-over-year-ending-october-2019-6-9-percent-since-2009.htm",
@@ -402,7 +428,8 @@
     "ted_related_charts_name": "Consumer Price Index",
     "ted_related_charts_url": "https://www.bls.gov/cpi/",
     "ted_related_articles": "Consumer prices increase 1.8 percent in the 12 months ending October 2019",
-    "ted_related_subjects": "Earnings and Wages; Hours; Prices"
+    "ted_related_subjects": "Earnings and Wages; Hours; Prices",
+    "keywords": "average;earnings;percent;real;rose;employees;hourly;october;weekly;nonsupervisory"
 }, {
     "ted_title": "Consumer prices increase 1.8 percent in the 12 months ending October 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/consumer-prices-increase-1-point-8-percent-in-the-12-months-ending-october-2019.htm",
@@ -417,7 +444,8 @@
     "ted_related_charts_name": "more charts on consumer prices",
     "ted_related_charts_url": "https://www.bls.gov/charts/consumer-price-index/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Prices; Industry Studies"
+    "ted_related_subjects": "Prices; Industry Studies",
+    "keywords": "percent;prices;food;home;increased;rose;gas;last;meals;months"
 }, {
     "ted_title": "Productivity up 11.1 percent, compensation up 8.0 percent from 2009",
     "ted_url": "https://www.bls.gov/opub/ted/2019/productivity-up-11-point-1-percent-compensation-up-8-point-0-percent-from-2009.htm",
@@ -432,7 +460,8 @@
     "ted_related_charts_name": "Charts related to the latest \"Productivity and Costs\" news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/productivity-and-costs/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Hours; Productivity; Compensation Costs"
+    "ted_related_subjects": "Hours; Productivity; Compensation Costs",
+    "keywords": "percent;increase;increased;quarter;third;business;compensation;hourly;hours;labor"
 }, {
     "ted_title": "Unemployment rate 1.5 percent in Ames, Iowa, and Charleston-North Charleston, South Carolina",
     "ted_url": "https://www.bls.gov/opub/ted/2019/unemployment-rate-1-point-5-percent-in-ames-iowa-and-charleston-north-charleston-south-carolina.htm",
@@ -447,7 +476,8 @@
     "ted_related_charts_name": "Charts related to the latest \"Metropolitan Area Employment and Unemployment\" news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/metro-area-employment-and-unemployment/",
     "ted_related_articles": "Nonfarm employment rises 9.4 percent in Ocean City, New Jersey, over the year ending September 2019",
-    "ted_related_subjects": "Metropolitan Areas and Counties; Unemployment"
+    "ted_related_subjects": "Metropolitan Areas and Counties; Unemployment",
+    "keywords": "percent;percentage;rate;unemployment;carolina;points;areas;california;mississippi;south"
 }, {
     "ted_title": "Nonfarm employment rises 9.4 percent in Ocean City, New Jersey, over the year ending September 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/nonfarm-employment-rises-9-point-4-percent-in-ocean-city-new-jersey-over-the-year-ending-september-2019.htm",
@@ -462,7 +492,8 @@
     "ted_related_charts_name": "Charts related to the latest \"Metropolitan Area Employment and Unemployment\" news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/metro-area-employment-and-unemployment/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Employment; Metropolitan Areas and Counties"
+    "ted_related_subjects": "Employment; Metropolitan Areas and Counties",
+    "keywords": "percent;lafayette;city;decreases;employment;florida;houma;indiana;largest;louisiana"
 }, {
     "ted_title": "Fill rates and labor market activity",
     "ted_url": "https://www.bls.gov/opub/ted/2019/fill-rates-and-labor-market-activity.htm",
@@ -477,7 +508,8 @@
     "ted_related_charts_name": "more charts",
     "ted_related_charts_url": "https://www.bls.gov/charts/job-openings-and-labor-turnover/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Employment; Industry Studies"
+    "ted_related_subjects": "Employment; Industry Studies",
+    "keywords": "fill;less;month;rate;services;end;greater;indicates;industries;jobs"
 }, {
     "ted_title": "2.8 million nonfatal workplace injuries and illnesses occurred in 2018",
     "ted_url": "https://www.bls.gov/opub/ted/2019/2-point-8-million-nonfatal-workplace-injuries-and-illnesses-occurred-in-2018.htm",
@@ -492,7 +524,8 @@
     "ted_related_charts_name": "Employer-reported Workplace Injuries and Illnesses — 2018",
     "ted_related_charts_url": "https://www.bls.gov/news.release/archives/osh_11072019.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Industry Studies; Manufacturing; Health Care; Occupational Safety and Health"
+    "ted_related_subjects": "Industry Studies; Manufacturing; Health Care; Occupational Safety and Health",
+    "keywords": "cases;accounted;assistance;care;health;illness;industry;injury;manufacturing;nearly"
 }, {
     "ted_title": "Management, professional, and related occupations most common among veterans and nonveterans",
     "ted_url": "https://www.bls.gov/opub/ted/2019/management-professional-and-related-occupations-most-common-among-veterans.htm",
@@ -507,7 +540,8 @@
     "ted_related_charts_name": "veterans",
     "ted_related_charts_url": "https://www.bls.gov/cps/demographics.htm#vets",
     "ted_related_articles": "",
-    "ted_related_subjects": "Employment; Men; Occupations; Women"
+    "ted_related_subjects": "Employment; Men; Occupations; Women",
+    "keywords": "female;nonveterans;percent;veterans;likely;occupations;work;also;group;half"
 }, {
     "ted_title": "Private industry compensation costs up 2.7 percent from September 2018 to September 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/private-industry-compensation-costs-up-2-point-7-percent-from-september-2018-to-september-2019.htm",
@@ -522,7 +556,8 @@
     "ted_related_charts_name": "more charts on the Employment Cost Index",
     "ted_related_charts_url": "https://www.bls.gov/charts/employment-cost-index/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Benefits; Compensation Costs; Earnings and Wages; Industry Studies"
+    "ted_related_subjects": "Benefits; Compensation Costs; Earnings and Wages; Industry Studies",
+    "keywords": "percent;september;assistance;care;compensation;costs;health;increase;manufacturing;retail"
 }, {
     "ted_title": "Unemployment rate was 3.6 percent in October 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/unemployment-rate-was-3-point-6-percent-in-october-2019.htm",
@@ -537,7 +572,8 @@
     "ted_related_charts_name": "more charts on employment and unemployment",
     "ted_related_charts_url": "https://www.bls.gov/charts/employment-situation/",
     "ted_related_articles": "Employment in health care increased 2.5 percent over the year ending October 2019",
-    "ted_related_subjects": "Labor Force; Unemployment"
+    "ted_related_subjects": "Labor Force; Unemployment",
+    "keywords": "unemployed;long;term;accounted;april;million;number;percent;essentially;fallen"
 }, {
     "ted_title": "Employment in health care increased 2.5 percent over the year ending October 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/employment-in-health-care-increased-2-point-5-percent-over-the-year-ending-october-2019.htm",
@@ -552,7 +588,8 @@
     "ted_related_charts_name": "more charts",
     "ted_related_charts_url": "https://www.bls.gov/charts/employment-situation/otm-employment-change-by-industry-confidence-intervals.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Employment; Health Care; Industry Studies"
+    "ted_related_subjects": "Employment; Health Care; Industry Studies",
+    "keywords": "change;employment;last;little;logging;mining;months;retail;showed;trade"
 }, {
     "ted_title": "174 firefighters were killed from 2013 to 2017",
     "ted_url": "https://www.bls.gov/opub/ted/2019/174-firefighters-were-killed-from-2013-to-2017.htm",
@@ -567,7 +604,8 @@
     "ted_related_charts_name": "Injuries, Illnesses, and Fatalities",
     "ted_related_charts_url": "https://www.bls.gov/iif/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Occupational Safety and Health; Occupations"
+    "ted_related_subjects": "Occupational Safety and Health; Occupations",
+    "keywords": "percent;injuries;resulted;fatal;firefighters;explosions;fires;incidents;total;transportation"
 }, {
     "ted_title": "Gross job gains exceeded gross job losses in 10 industries over the quarter ending March 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/gross-job-gains-exceeded-gross-job-losses-in-10-industries-over-the-quarter-ending-march-2019.htm",
@@ -582,7 +620,8 @@
     "ted_related_charts_name": "charts related to the latest \"Business Employment Dynamics\" news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/business-employment-dynamics/job-gains-job-losses-most-recent-quarter.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Employment; Industry Studies"
+    "ted_related_subjects": "Employment; Industry Studies",
+    "keywords": "jobs;job;net;quarter;decrease;establishments;experienced;goods;gross;increase"
 }, {
     "ted_title": "Employment in warehousing and storage nearly triples since January 1990",
     "ted_url": "https://www.bls.gov/opub/ted/2019/employment-in-warehousing-and-storage-nearly-triples-since-january-1990.htm",
@@ -597,7 +636,8 @@
     "ted_related_charts_name": "more charts",
     "ted_related_charts_url": "https://www.bls.gov/charts/employment-situation/otm-employment-change-by-industry-confidence-intervals.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Employment; Industry Studies"
+    "ted_related_subjects": "Employment; Industry Studies",
+    "keywords": "employment;storage;warehousing;august;doubled;general;january;million;period;refrigerated"
 }, {
     "ted_title": "Injury and illness rates higher in special food services than in broader food services industry",
     "ted_url": "https://www.bls.gov/opub/ted/2019/injury-and-illness-rates-higher-in-special-food-services-than-in-broader-food-services-industry.htm",
@@ -612,7 +652,8 @@
     "ted_related_charts_name": "Employer-Reported Workplace Injuries and Illnesses — 2017",
     "ted_related_charts_url": "https://www.bls.gov/news.release/archives/osh_11082018.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Industry Studies; Occupational Safety and Health"
+    "ted_related_subjects": "Industry Studies; Occupational Safety and Health",
+    "keywords": "workers;burns;thermal;cuts;food;higher;lacerations;private;punctures;rates"
 }, {
     "ted_title": "Employment characteristics of people with a disability in 2018",
     "ted_url": "https://www.bls.gov/opub/ted/2019/employment-characteristics-of-people-with-a-disability-in-2018.htm",
@@ -627,7 +668,8 @@
     "ted_related_charts_name": "Demographics: Disability",
     "ted_related_charts_url": "https://www.bls.gov/cps/demographics.htm#disability",
     "ted_related_articles": "",
-    "ted_related_subjects": "Disability; Education and Training; Employment; Labor Force; Men; Women"
+    "ted_related_subjects": "Disability; Education and Training; Employment; Labor Force; Men; Women",
+    "keywords": "disability;completed;high;school;without;age;almost;among;beyond;compared"
 }, {
     "ted_title": "Union workers more likely than nonunion workers to have healthcare benefits in 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/union-workers-more-likely-than-nonunion-workers-to-have-healthcare-benefits-in-2019.htm",
@@ -642,7 +684,8 @@
     "ted_related_charts_name": "Employee Benefits in the United States, March 2019",
     "ted_related_charts_url": "https://www.bls.gov/ncs/ebs/benefits/2019/home.htm",
     "ted_related_articles": "Union workers more likely than nonunion workers to have retirement benefits in 2019",
-    "ted_related_subjects": "Benefits; Collective Bargaining; Health Care"
+    "ted_related_subjects": "Benefits; Collective Bargaining; Health Care",
+    "keywords": "benefits;access;care;dental;vision;workers;coverage;drug;healthcare;medical"
 }, {
     "ted_title": "Union workers more likely than nonunion workers to have retirement benefits in 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/union-workers-more-likely-than-nonunion-workers-to-have-retirement-benefits-in-2019.htm",
@@ -657,7 +700,8 @@
     "ted_related_charts_name": "Employee Benefits in the United States, March 2019",
     "ted_related_charts_url": "https://www.bls.gov/ncs/ebs/benefits/2019/home.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Collective Bargaining; Retirement; Benefits"
+    "ted_related_subjects": "Collective Bargaining; Retirement; Benefits",
+    "keywords": "workers;defined;percent;plans;retirement;benefit;benefits;contribution;contributions;employer"
 }, {
     "ted_title": "Fatal chemical inhalations in the workplace up in 2017",
     "ted_url": "https://www.bls.gov/opub/ted/2019/fatal-chemical-inhalations-in-the-workplace-up-in-2017.htm",
@@ -672,7 +716,8 @@
     "ted_related_charts_name": "Confined Spaces",
     "ted_related_charts_url": "https://www.osha.gov/SLTC/confinedspaces/index.html",
     "ted_related_articles": "",
-    "ted_related_subjects": "Occupational Safety and Health"
+    "ted_related_subjects": "Occupational Safety and Health",
+    "keywords": "fatal;fatalities;confined;injuries;products;single;chemical;chemicals;gas;inhalations"
 }, {
     "ted_title": "Five states at historically low unemployment rates in September 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/five-states-at-historically-low-unemployment-rates-in-september-2019.htm",
@@ -687,7 +732,8 @@
     "ted_related_charts_name": "more charts and maps",
     "ted_related_charts_url": "https://www.bls.gov/charts/state-employment-and-unemployment/",
     "ted_related_articles": "Twenty-seven states had over-the-year increases in nonfarm employment in September 2019",
-    "ted_related_subjects": "Regions and States; Unemployment"
+    "ted_related_subjects": "Regions and States; Unemployment",
+    "keywords": "rates;states;percent;alaska;appreciably;columbia;different;district;figure;higher"
 }, {
     "ted_title": "Twenty-seven states had over-the-year increases in nonfarm employment in September 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/twenty-seven-states-had-over-the-year-increases-in-nonfarm-employment-in-september-2019.htm",
@@ -702,7 +748,8 @@
     "ted_related_charts_name": "charts and maps of state employment and unemployment",
     "ted_related_charts_url": "https://www.bls.gov/charts/state-employment-and-unemployment/state-unemployment-rates-map.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Industry Studies; Regions and States; Employment"
+    "ted_related_subjects": "Industry Studies; Regions and States; Employment",
+    "keywords": "percent;largest;increase;employment;information;services;activities;among;business;carolina"
 }, {
     "ted_title": "Median weekly earnings $606 for high school dropouts, $1,559 for advanced degree holders",
     "ted_url": "https://www.bls.gov/opub/ted/2019/median-weekly-earnings-606-for-high-school-dropouts-1559-for-advanced-degree-holders.htm",
@@ -717,7 +764,8 @@
     "ted_related_charts_name": "more charts of usual weekly earnings data",
     "ted_related_charts_url": "https://www.bls.gov/charts/usual-weekly-earnings/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Earnings and Wages; Education and Training"
+    "ted_related_subjects": "Earnings and Wages; Education and Training",
+    "keywords": "percent;earnings;workers;degree;quarter;ranged;worker;advanced;decades;earned"
 }, {
     "ted_title": "Import and export prices down 1.6 percent, September 2018 to September 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/import-and-export-prices-down-1-point-6-percent-september-2018-to-september-2019.htm",
@@ -732,7 +780,8 @@
     "ted_related_charts_name": "Charts related to the latest “U.S. Import and Export Price Indexes” news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/import-export/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Prices"
+    "ted_related_subjects": "Prices",
+    "keywords": "prices;september;percent;export;agricultural;august;goods;lower;nonagricultural;past"
 }, {
     "ted_title": "Real average weekly earnings up 0.9 percent from September 2018 to September 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/real-average-weekly-earnings-up-zero-point-9-percent-from-september-2018-to-september-2019.htm",
@@ -747,7 +796,8 @@
     "ted_related_charts_name": "Consumer Price Index",
     "ted_related_charts_url": "https://www.bls.gov/cpi/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Earnings and Wages; Hours; Prices"
+    "ted_related_subjects": "Earnings and Wages; Hours; Prices",
+    "keywords": "average;earnings;percent;real;september;employees;hourly;increased;nonsupervisory;production"
 }, {
     "ted_title": "Consumer Price Index increased 1.7 percent for year ending September 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/cpi-increased-1-point-7-percent-for-year-ending-september-2019.htm",
@@ -762,7 +812,8 @@
     "ted_related_charts_name": "more charts on consumer prices",
     "ted_related_charts_url": "https://www.bls.gov/charts/consumer-price-index/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Prices"
+    "ted_related_subjects": "Prices",
+    "keywords": "percent;prices;food;september;ending;energy;increased;year;home;rose"
 }, {
     "ted_title": "Job openings and employment, August 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/job-openings-and-employment-august-2019.htm",
@@ -777,7 +828,8 @@
     "ted_related_charts_name": "Current Employment Statistics",
     "ted_related_charts_url": "https://www.bls.gov/ces/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Employment; Labor Force"
+    "ted_related_subjects": "Employment; Labor Force",
+    "keywords": "employment;end;low;million;recent;recession;since;continued;decline;february"
 }, {
     "ted_title": "Portland-South Portland, Maine, had the lowest unemployment rate in August 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/portland-south-portland-maine-had-the-lowest-unemployment-rate-in-august-2019.htm",
@@ -792,7 +844,8 @@
     "ted_related_charts_name": "Charts related to the latest \"Metropolitan Area Employment and Unemployment\" news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/metro-area-employment-and-unemployment/",
     "ted_related_articles": "Ocean City, New Jersey, employment up 7.0 percent over the year ended August 2019",
-    "ted_related_subjects": "Employment; Metropolitan Areas and Counties; Unemployment"
+    "ted_related_subjects": "Employment; Metropolitan Areas and Counties; Unemployment",
+    "keywords": "areas;rates;august;equal;jobless;nation;percent;rate;total;u.s"
 }, {
     "ted_title": "Producer prices for final demand up 1.4 percent for year ended September 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/producer-prices-for-final-demand-up-1-point-4-percent-for-year-ended-september-2019.htm",
@@ -807,7 +860,8 @@
     "ted_related_charts_name": "more charts",
     "ted_related_charts_url": "https://www.bls.gov/charts/producer-price-index/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Prices"
+    "ted_related_subjects": "Prices",
+    "keywords": "september;construction;demand;final;increased;percent;prices;producer;NA;NA"
 }, {
     "ted_title": "Number of unemployed people decreased by 275,000 to 5.8 million in September 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/number-of-unemployed-people-decreased-by-275000-to-5-point-8-million-in-september-2019.htm",
@@ -822,7 +876,8 @@
     "ted_related_charts_name": "Charts related to the latest \"The Employment Situation\" news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/employment-situation/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Labor Force; Unemployment"
+    "ted_related_subjects": "Labor Force; Unemployment",
+    "keywords": "people;unemployed;entrants;increased;jobs;labor;left;market;million;never"
 }, {
     "ted_title": "Payroll employment increased by 136,000 in September 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/payroll-employment-increased-by-136000-in-september-2019.htm",
@@ -837,7 +892,8 @@
     "ted_related_charts_name": "more charts",
     "ted_related_charts_url": "https://www.bls.gov/charts/employment-situation/otm-employment-change-by-industry-confidence-intervals.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Earnings and Wages; Employment"
+    "ted_related_subjects": "Earnings and Wages; Employment",
+    "keywords": "average;earnings;employment;retail;trade;weekly;changed;edged;industry;little"
 }, {
     "ted_title": "Ocean City, New Jersey, employment up 7.0 percent over the year ended August 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/ocean-city-new-jersey-employment-up-7-0-percent-over-the-year-ended-august-2019.htm",
@@ -852,7 +908,8 @@
     "ted_related_charts_name": "Charts related to the latest \"Metropolitan Area Employment and Unemployment\" news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/metro-area-employment-and-unemployment/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Employment"
+    "ted_related_subjects": "Employment",
+    "keywords": "percent;employment;areas;florida;fort;new;texas;year;increases;jersey"
 }, {
     "ted_title": "Finding a place to eat on National Taco Day",
     "ted_url": "https://www.bls.gov/opub/ted/2019/finding-a-place-to-eat-on-national-taco-day.htm",
@@ -867,7 +924,8 @@
     "ted_related_charts_name": "Quarterly Census of Employment and Wages",
     "ted_related_charts_url": "https://www.bls.gov/cew/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Employment; Industry Studies; Metropolitan Areas and Counties"
+    "ted_related_subjects": "Employment; Industry Studies; Metropolitan Areas and Counties",
+    "keywords": "county;location;quotient;employment;large;establishments;national;share;taco;area"
 }, {
     "ted_title": "Fifty-nine pilots died of a fatal workplace injury in 2017",
     "ted_url": "https://www.bls.gov/opub/ted/2019/fifty-nine-pilots-died-of-a-fatal-workplace-injury-in-2017.htm",
@@ -882,7 +940,8 @@
     "ted_related_charts_name": "Injuries, Illnesses, and Fatalities",
     "ted_related_charts_url": "https://www.bls.gov/iif/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Occupational Safety and Health; Occupations"
+    "ted_related_subjects": "Occupational Safety and Health; Occupations",
+    "keywords": "pilots;aircraft;flight;services;transportation;workplace;accounting;activity;air;ambulance"
 }, {
     "ted_title": "Hispanic share of the labor force projected to be 20.9 percent by 2028",
     "ted_url": "https://www.bls.gov/opub/ted/2019/hispanic-share-of-the-labor-force-projected-to-be-20-point-9-percent-by-2028.htm",
@@ -897,7 +956,8 @@
     "ted_related_charts_name": "Employment Projections — 2018–28",
     "ted_related_charts_url": "https://www.bls.gov/news.release/archives/ecopro_09042019.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Labor Force; Men; Projections; Women"
+    "ted_related_subjects": "Labor Force; Men; Projections; Women",
+    "keywords": "percent;projected;share;force;increase;labor;asians;blacks;decline;men"
 }, {
     "ted_title": "Most unemployed people in 2018 did not apply for unemployment insurance benefits",
     "ted_url": "https://www.bls.gov/opub/ted/2019/most-unemployed-people-in-2018-did-not-apply-for-unemployment-insurance-benefits.htm",
@@ -912,7 +972,8 @@
     "ted_related_charts_name": "answers to frequently asked questions",
     "ted_related_charts_url": "https://www.bls.gov/cps/ui-applicants-and-benefit-recipients-faqs.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Benefits; Labor Force; Unemployment"
+    "ted_related_subjects": "Benefits; Labor Force; Unemployment",
+    "keywords": "benefits;applied;insurance;people;percent;unemployed;unemployment;apply;applying;know"
 }, {
     "ted_title": "29 percent of wage and salary workers could work at home in their primary job in 2017–18",
     "ted_url": "https://www.bls.gov/opub/ted/2019/29-percent-of-wage-and-salary-workers-could-work-at-home-in-their-primary-job-in-2017-18.htm",
@@ -927,7 +988,8 @@
     "ted_related_charts_name": "Job Flexibilities and Work Schedules — 2017–2018 Data from the American Time Use Survey",
     "ted_related_charts_url": "https://www.bls.gov/news.release/flex2.nr0.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Hours; Labor Force; Men; Women"
+    "ted_related_subjects": "Hours; Labor Force; Men; Women",
+    "keywords": "flexible;percent;schedule;work;workers;home;allowed;also;began;eight"
 }, {
     "ted_title": "Job requirements and wages for auto mechanics in 2018",
     "ted_url": "https://www.bls.gov/opub/ted/2019/job-requirements-and-wages-for-auto-mechanics-in-2018.htm",
@@ -942,7 +1004,8 @@
     "ted_related_charts_name": "Modeled Wage Estimates",
     "ted_related_charts_url": "https://www.bls.gov/mwe/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Automobile Industry; Earnings and Wages; Education and Training; Employment; Hours; Metropolitan Areas and Counties; Occupations; Regions and States"
+    "ted_related_subjects": "Automobile Industry; Earnings and Wages; Education and Training; Employment; Hours; Metropolitan Areas and Counties; Occupations; Regions and States",
+    "keywords": "mechanics;earned;among;automotive;hourly;service;technicians;average;hour;per"
 }, {
     "ted_title": "Declining workplace fatalities in manufacturing, 2003–17",
     "ted_url": "https://www.bls.gov/opub/ted/2019/declining-workplace-fatalities-in-manufacturing-2003-17.htm",
@@ -957,7 +1020,8 @@
     "ted_related_charts_name": "National Census of Fatal Occupational Injuries in 2017",
     "ted_related_charts_url": "https://www.bls.gov/news.release/archives/cfoi_12182018.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Manufacturing; Occupational Safety and Health; Industry Studies"
+    "ted_related_subjects": "Manufacturing; Occupational Safety and Health; Industry Studies",
+    "keywords": "fatal;injuries;manufacturing;accounted;categories;contact;equipment;fatalities;half;incidents"
 }, {
     "ted_title": "Unemployment rates lower in five states from August 2018 to August 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/unemployment-rates-lower-in-five-states-from-august-2018-to-august-2019.htm",
@@ -972,7 +1036,8 @@
     "ted_related_charts_name": "state chart package",
     "ted_related_charts_url": "https://www.bls.gov/charts/state-employment-and-unemployment/state-unemployment-rates-map.htm",
     "ted_related_articles": "Nevada had the largest percentage job increase in year ending August 2019",
-    "ted_related_subjects": "Regions and States; Technology; Unemployment"
+    "ted_related_subjects": "Regions and States; Technology; Unemployment",
+    "keywords": "percent;rate;new;point;alabama;alaska;august;jersey;percentage;series"
 }, {
     "ted_title": "Nevada had the largest percentage job increase in year ending August 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/nevada-had-the-largest-percentage-job-increase-in-year-ending-august-2019.htm",
@@ -987,7 +1052,8 @@
     "ted_related_charts_name": "more charts and maps",
     "ted_related_charts_url": "https://www.bls.gov/charts/state-employment-and-unemployment/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Employment; Regions and States"
+    "ted_related_subjects": "Employment; Regions and States",
+    "keywords": "august;employment;percent;state;data;largest;occurred;see;states;unemployment"
 }, {
     "ted_title": "77 percent of private industry workers offered retirement benefits participated in them in 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/77-percent-of-private-industry-workers-offered-retirement-benefits-participated-in-them-in-2019.htm",
@@ -1002,7 +1068,8 @@
     "ted_related_charts_name": "glossary of employee benefit terms",
     "ted_related_charts_url": "https://www.bls.gov/ncs/ebs/national-compensation-survey-glossary-of-employee-benefit-terms.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Benefits; Collective Bargaining; Earnings and Wages; Occupations; Size Of Establishment"
+    "ted_related_subjects": "Benefits; Collective Bargaining; Earnings and Wages; Occupations; Size Of Establishment",
+    "keywords": "workers;percent;take;among;compared;establishments;occupations;rate;rates;time"
 }, {
     "ted_title": "Benefits in businesses with 500 or more workers were 35 percent of total compensation in June 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/benefits-in-businesses-with-500-or-more-workers-were-35-percent-of-total-compensation-in-june-2019.htm",
@@ -1017,7 +1084,8 @@
     "ted_related_charts_name": "more charts",
     "ted_related_charts_url": "https://www.bls.gov/charts/employer-costs-for-employee-compensation/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Benefits; Compensation Costs; Earnings and Wages; Size Of Establishment"
+    "ted_related_subjects": "Benefits; Compensation Costs; Earnings and Wages; Size Of Establishment",
+    "keywords": "establishments;benefits;compensation;percent;total;average;averaged;business;compared;costs"
 }, {
     "ted_title": "U.S. terms of trade with China decreased 1.5 percent in August 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/u-s-terms-of-trade-with-china-decreased-1-point-5-percent-in-august-2019.htm",
@@ -1032,7 +1100,8 @@
     "ted_related_charts_name": "Commissioner's Corner Blog",
     "ted_related_charts_url": "https://blogs.bls.gov/labs/blogs/",
     "ted_related_articles": "",
-    "ted_related_subjects": "International Comparisons; Prices"
+    "ted_related_subjects": "International Comparisons; Prices",
+    "keywords": "percent;august;terms;trade;u.s;declined;japan;past;canada;european"
 }, {
     "ted_title": "Real average hourly earnings up 1.5 percent from August 2018 to August 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/real-average-hourly-earnings-up-1-point-5-percent-from-august-2018-to-august-2019.htm",
@@ -1047,7 +1116,8 @@
     "ted_related_charts_name": "Consumer Price Index",
     "ted_related_charts_url": "https://www.bls.gov/cpi/",
     "ted_related_articles": "Consumer price changes in major metro areas, Summer 2018 to Summer 2019",
-    "ted_related_subjects": "Prices; Earnings and Wages"
+    "ted_related_subjects": "Prices; Earnings and Wages",
+    "keywords": "august;earnings;consumer;percent;average;data;hourly;index;price;real"
 }, {
     "ted_title": "Consumer price changes in major metro areas, Summer 2018 to Summer 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/consumer-price-changes-in-major-metro-areas-summer-2018-to-summer-2019.htm",
@@ -1062,7 +1132,8 @@
     "ted_related_charts_name": "Charts related to the latest \"U.S. Consumer Price Index\" news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/consumer-price-index/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Metropolitan Areas and Counties; Prices"
+    "ted_related_subjects": "Metropolitan Areas and Counties; Prices",
+    "keywords": "consumer;index;price;august;percent;areas;data;increased;metro;see"
 }, {
     "ted_title": "Producer prices for final demand in services increase 2.7 percent in the year ending August 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/producer-prices-for-final-demand-in-services-increase-2-7-percent-in-the-year-ending-august-2019.htm",
@@ -1077,7 +1148,8 @@
     "ted_related_charts_name": "Charts related to the latest \"U.S. Producer Price Indexes\" news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/producer-price-index/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Prices"
+    "ted_related_subjects": "Prices",
+    "keywords": "percent;prices;services;increased;producer;transportation;august;decreased;demand;final"
 }, {
     "ted_title": "Household spending on personal insurance and pensions increased the most from 2017 to 2018",
     "ted_url": "https://www.bls.gov/opub/ted/2019/household-spending-on-personal-insurance-and-pensions-increased-the-most-from-2017-to-2018.htm",
@@ -1092,7 +1164,8 @@
     "ted_related_charts_name": "Consumer Expenditures — 2018",
     "ted_related_charts_url": "https://www.bls.gov/news.release/archives/cesan_09102019.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Consumer Expenditures"
+    "ted_related_subjects": "Consumer Expenditures",
+    "keywords": "percent;spending;income;increased;groups;food;home;increase;cash;contributions"
 }, {
     "ted_title": "6.0 million hires and 5.8 million job separations in July 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/6-million-hires-and-5-point-8-million-job-separations-in-july-2019.htm",
@@ -1107,7 +1180,8 @@
     "ted_related_charts_name": "more charts",
     "ted_related_charts_url": "https://www.bls.gov/charts/job-openings-and-labor-turnover/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Unemployment; Employment"
+    "ted_related_subjects": "Unemployment; Employment",
+    "keywords": "high;july;million;number;quits;series;changed;discharges;edged;gain"
 }, {
     "ted_title": "44.6 percent of high school dropouts and 72.3 percent of college graduates employed in August 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/44-6-percent-of-high-school-dropouts-and-72-3-percent-of-college-graduates-employed-in-august-2019.htm",
@@ -1122,7 +1196,8 @@
     "ted_related_charts_name": "Charts related to the latest \"The Employment Situation\" news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/employment-situation/civilian-unemployment-rate.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Education and Training; Employment; Labor Force"
+    "ted_related_subjects": "Education and Training; Employment; Labor Force",
+    "keywords": "percent;ratio;people;high;employment;february;low;period;population;college"
 }, {
     "ted_title": "Payroll employment increased by 130,000 in August 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/payroll-employment-increased-by-130000-in-august-2019.htm",
@@ -1137,7 +1212,8 @@
     "ted_related_charts_name": "Graphics for Economic News Releases: The Employment Situation",
     "ted_related_charts_url": "https://www.bls.gov/charts/employment-situation/otm-employment-change-by-industry-confidence-intervals.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Employment; Industry Studies"
+    "ted_related_subjects": "Employment; Industry Studies",
+    "keywords": "august;employment;activities;gain;jobs;services;business;continued;far;financial"
 }, {
     "ted_title": "Real hourly compensation rose 2.5 percent over the year; labor productivity increased 1.8 percent",
     "ted_url": "https://www.bls.gov/opub/ted/2019/real-hourly-compensation-rose-2-5-percent-over-the-year-labor-productivity-increased-1-8-percent.htm",
@@ -1152,7 +1228,8 @@
     "ted_related_charts_name": "Charts related to the latest \"Productivity and Costs\" news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/productivity-and-costs/",
     "ted_related_articles": "Labor productivity up 1.8 percent from the second quarter of 2018 to the second quarter of 2019",
-    "ted_related_subjects": "Productivity"
+    "ted_related_subjects": "Productivity",
+    "keywords": "productivity;labor;percent;costs;increase;quarter;second;hours;output;compensation"
 }, {
     "ted_title": "Two-thirds of wage and salary workers could take paid leave in 2017–18, up from 2011",
     "ted_url": "https://www.bls.gov/opub/ted/2019/two-thirds-of-wage-and-salary-workers-could-take-paid-leave-in-2017-18-up-from-2011.htm",
@@ -1167,7 +1244,8 @@
     "ted_related_charts_name": "Access to and Use of Leave — 2017–2018 Data from the American Time Use Survey",
     "ted_related_charts_url": "https://www.bls.gov/news.release/archives/leave_08292019.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Benefits; Education and Training; Employment; Men; Women"
+    "ted_related_subjects": "Benefits; Education and Training; Employment; Men; Women",
+    "keywords": "workers;children;groups;hispanics;household;access;across;education;full;gains"
 }, {
     "ted_title": "Baby boomers with more education had higher growth rates in real earnings at every stage of life",
     "ted_url": "https://www.bls.gov/opub/ted/2019/baby-boomers-with-more-education-had-higher-growth-rates-in-real-earnings-at-every-stage-of-life.htm",
@@ -1182,7 +1260,8 @@
     "ted_related_charts_name": "Number of Jobs, Labor Market Experience, and Earnings Growth: Results from a National Longitudinal Survey",
     "ted_related_charts_url": "https://www.bls.gov/news.release/archives/nlsoy_08222019.htm",
     "ted_related_articles": "Baby boomers born from 1957 to 1964 held an average of 12.3 jobs from ages 18 to 52",
-    "ted_related_subjects": "Earnings and Wages"
+    "ted_related_subjects": "Earnings and Wages",
+    "keywords": "earnings;percent;year;per;age;bachelor's;degree;diploma;group;growth"
 }, {
     "ted_title": "Elementary school teachers had median annual wage of $58,230 in 2018",
     "ted_url": "https://www.bls.gov/opub/ted/2019/elementary-school-teachers-had-median-annual-wage-of-58230-in-2018.htm",
@@ -1197,7 +1276,8 @@
     "ted_related_charts_name": "Occupational Employment and Wages — May 2018",
     "ted_related_charts_url": "https://www.bls.gov/news.release/archives/ocwage_03292019.htm",
     "ted_related_articles": "Pilots and air traffic controllers were highest paid transportation workers in May 2018",
-    "ted_related_subjects": "Earnings and Wages; Employment; Occupations"
+    "ted_related_subjects": "Earnings and Wages; Employment; Occupations",
+    "keywords": "school;teachers;annual;areas;median;metropolitan;secondary;wages;earned;education"
 }, {
     "ted_title": "Unemployment rates down in 217 of the 389 metropolitan areas over the year ending July 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/unemployment-rates-down-in-217-of-the-389-metropolitan-areas-over-the-year-ending-july-2019.htm",
@@ -1212,7 +1292,8 @@
     "ted_related_charts_name": "Charts related to the latest \"Metropolitan Area Employment and Unemployment\" news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/metro-area-employment-and-unemployment/",
     "ted_related_articles": "51 metropolitan areas have employment gains from July 2018 to July 2019",
-    "ted_related_subjects": "Metropolitan Areas and Counties; Unemployment"
+    "ted_related_subjects": "Metropolitan Areas and Counties; Unemployment",
+    "keywords": "rate;july;percent;percentage;unemployment;arizona;burlington;largest;points;year"
 }, {
     "ted_title": "51 metropolitan areas have employment gains from July 2018 to July 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/51-metropolitan-areas-have-employment-gains-from-july-2018-to-july-2019.htm",
@@ -1227,7 +1308,8 @@
     "ted_related_charts_name": "Charts related to the latest \"Metropolitan Area Employment and Unemployment\" news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/metro-area-employment-and-unemployment/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Employment; Metropolitan Areas and Counties"
+    "ted_related_subjects": "Employment; Metropolitan Areas and Counties",
+    "keywords": "percent;city;employment;jersey;largest;new;occurred;texas;year;arlington"
 }, {
     "ted_title": "How much money do Americans spend on lottery tickets?",
     "ted_url": "https://www.bls.gov/opub/ted/2019/how-much-money-do-americans-spend-on-lottery-tickets.htm",
@@ -1242,7 +1324,8 @@
     "ted_related_charts_name": "Consumer Expenditure Surveys",
     "ted_related_charts_url": "https://www.bls.gov/cex/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Consumer Expenditures"
+    "ted_related_subjects": "Consumer Expenditures",
+    "keywords": "quarter;average;households;second;spending;spent;betting;big;incomes;lottery"
 }, {
     "ted_title": "Tennessee and Hawaii have highest job concentration of musical groups and artists",
     "ted_url": "https://www.bls.gov/opub/ted/2019/tennessee-and-hawaii-have-highest-job-concentration-of-musical-groups-and-artists.htm",
@@ -1257,7 +1340,8 @@
     "ted_related_charts_name": "data viewer tool",
     "ted_related_charts_url": "https://www.bls.gov/cew/apps/data_views/data_views.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Employment; Metropolitan Areas and Counties; Regions and States"
+    "ted_related_subjects": "Employment; Metropolitan Areas and Counties; Regions and States",
+    "keywords": "employment;industry;share;national;california;higher;area;times;artists;average"
 }, {
     "ted_title": "Baby boomers born from 1957 to 1964 held an average of 12.3 jobs from ages 18 to 52",
     "ted_url": "https://www.bls.gov/opub/ted/2019/baby-boomers-born-from-1957-to-1964-held-an-average-of-12-point-3-jobs-from-ages-18-to-52.htm",
@@ -1272,7 +1356,8 @@
     "ted_related_charts_name": "Number of Jobs, Labor Market Experience, and Earnings Growth: Results from a National Longitudinal Survey",
     "ted_related_charts_url": "https://www.bls.gov/news.release/archives/nlsoy_08222019.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Education and Training; Employment; Men; Women; Youth"
+    "ted_related_subjects": "Education and Training; Employment; Men; Women; Youth",
+    "keywords": "ages;held;jobs;bachelor's;degree;diploma;high;higher;men;school"
 }, {
     "ted_title": "Midland, Texas, has largest job gain, San Francisco largest wage gain, among largest U.S. counties",
     "ted_url": "https://www.bls.gov/opub/ted/2019/midland-texas-has-largest-job-gain-san-francisco-largest-wage-gain-among-largest-u-s-counties.htm",
@@ -1287,7 +1372,8 @@
     "ted_related_charts_name": "County Employment and Wages – First Quarter 2019",
     "ted_related_charts_url": "https://www.bls.gov/news.release/archives/cewqtr_08212019.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Earnings and Wages; Employment; Metropolitan Areas and Counties"
+    "ted_related_subjects": "Earnings and Wages; Employment; Metropolitan Areas and Counties",
+    "keywords": "average;percent;weekly;largest;wages;year;decrease;elkhart;francisco;percentage"
 }, {
     "ted_title": "Youth labor force participation rate at 61.8 percent in July 2019, a 9-year high",
     "ted_url": "https://www.bls.gov/opub/ted/2019/youth-labor-force-participation-rate-at-61-point-8-percent-in-july-2019-a-9-year-high.htm",
@@ -1302,7 +1388,8 @@
     "ted_related_charts_name": "Employment and Unemployment among Youth — Summer 2019",
     "ted_related_charts_url": "https://www.bls.gov/news.release/archives/youth_08162019.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Employment; Labor Force; Unemployment; Youth"
+    "ted_related_subjects": "Employment; Labor Force; Unemployment; Youth",
+    "keywords": "july;rate;unemployment;youth;changed;little;lowest;percent;prior;since"
 }, {
     "ted_title": "Unemployment rate lowest in Vermont, highest in Alaska, July 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/unemployment-rate-lowest-in-vermont-highest-in-alaska-july-2019.htm",
@@ -1317,7 +1404,8 @@
     "ted_related_charts_name": "more charts and maps",
     "ted_related_charts_url": "https://www.bls.gov/charts/state-employment-and-unemployment/",
     "ted_related_articles": "25 states added jobs from July 2018 to July 2019",
-    "ted_related_subjects": "Regions and States; Unemployment"
+    "ted_related_subjects": "Regions and States; Unemployment",
+    "keywords": "percent;unemployment;july;rates;also;new;rate;alabama;alaska;arkansas"
 }, {
     "ted_title": "25 states added jobs from July 2018 to July 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/25-states-added-jobs-from-july-2018-to-july-2019.htm",
@@ -1332,7 +1420,8 @@
     "ted_related_charts_name": "state chart package",
     "ted_related_charts_url": "https://www.bls.gov/charts/state-employment-and-unemployment/state-unemployment-rates-map.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Regions and States; Employment"
+    "ted_related_subjects": "Regions and States; Employment",
+    "keywords": "percent;gains;largest;occurred;california;florida;followed;idaho;job;nevada"
 }, {
     "ted_title": "Labor productivity up 1.8 percent from the second quarter of 2018 to the second quarter of 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/labor-productivity-up-1-point-8-percent-from-the-second-quarter-of-2018-to-the-second-quarter-of-2019.htm",
@@ -1347,7 +1436,8 @@
     "ted_related_charts_name": "Charts related to the latest \"Productivity and Costs\" news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/productivity-and-costs/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Hours; Industry Studies; Manufacturing; Productivity"
+    "ted_related_subjects": "Hours; Industry Studies; Manufacturing; Productivity",
+    "keywords": "percent;increased;quarter;first;second;sector;business;compared;costs;four"
 }, {
     "ted_title": "Prices for U.S. imports decreased 1.8 percent for the year ending July 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/prices-for-u-s-imports-decreased-1-point-8-percent-for-the-year-ending-july-2019.htm",
@@ -1362,7 +1452,8 @@
     "ted_related_charts_name": "Charts related to the latest “U.S. Import and Export Price Indexes” news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/import-export/",
     "ted_related_articles": "",
-    "ted_related_subjects": "International Comparisons; Prices"
+    "ted_related_subjects": "International Comparisons; Prices",
+    "keywords": "prices;percent;july;export;largest;u.s;decreased;goods;import;increase"
 }, {
     "ted_title": "Real average weekly earnings up 0.8 percent from July 2018 to July 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/real-average-weekly-earnings-up-0-point-8-percent-from-july-2018-to-july-2019.htm",
@@ -1377,7 +1468,8 @@
     "ted_related_charts_name": "Consumer Price Index",
     "ted_related_charts_url": "https://www.bls.gov/cpi/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Earnings and Wages; Prices"
+    "ted_related_subjects": "Earnings and Wages; Prices",
+    "keywords": "percent;average;increased;earnings;weekly;july;real;change;cpi;hourly"
 }, {
     "ted_title": "Food for thought: changes in consumer prices for food at home and away from home",
     "ted_url": "https://www.bls.gov/opub/ted/2019/food-for-thought-changes-in-consumer-prices-for-food-at-home-and-away-from-home.htm",
@@ -1392,7 +1484,8 @@
     "ted_related_charts_name": "Charts related to the latest \"U.S. Consumer Price Index\" news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/consumer-price-index/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Prices"
+    "ted_related_subjects": "Prices",
+    "keywords": "percent;prices;food;increased;july;fell;year;apples;away;baby"
 }, {
     "ted_title": "Labor force participation rates are higher for people with professional certifications or licenses",
     "ted_url": "https://www.bls.gov/opub/ted/2019/labor-force-participation-rates-are-higher-for-people-with-professional-certifications-or-licenses.htm",
@@ -1407,7 +1500,8 @@
     "ted_related_charts_name": "Monthly Labor Review",
     "ted_related_charts_url": "https://www.bls.gov/opub/mlr/home.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Education and Training; Employment; Labor Force"
+    "ted_related_subjects": "Education and Training; Employment; Labor Force",
+    "keywords": "percent;bachelor’s;certification;degree;diploma;high;less;license;ranged;rates"
 }, {
     "ted_title": "Producer Price Index for final demand increased 1.7 percent for the year ended July 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/producer-price-index-for-final-demand-increased-1-point-7-percent-for-the-year-ended-july-2019.htm",
@@ -1422,7 +1516,8 @@
     "ted_related_charts_name": "Charts related to the latest \"U.S. Producer Price Indexes\" news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/producer-price-index/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Prices"
+    "ted_related_subjects": "Prices",
+    "keywords": "percent;prices;fresh;producer;decreased;increased;july;retailing;within;appliances"
 }, {
     "ted_title": "Skill levels of part-time jobs increased from 2007 to 2017",
     "ted_url": "https://www.bls.gov/opub/ted/2019/skill-levels-of-part-time-jobs-increased-from-2007-to-2017.htm",
@@ -1437,7 +1532,8 @@
     "ted_related_charts_name": "Has the required skill level of part-time jobs changed over time?",
     "ted_related_charts_url": "https://www.bls.gov/opub/btn/volume-8/has-the-required-skill-level-of-part-time-jobs-changed-over-time.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Education and Training; Employment"
+    "ted_related_subjects": "Education and Training; Employment",
+    "keywords": "occupations;part;skilled;time;work;also;architecture;business;care;engineering"
 }, {
     "ted_title": "1.1 million people hired in the leisure and hospitality industry in June 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/1-point-1-million-people-hired-in-the-leisure-and-hospitality-industry-in-june-2019.htm",
@@ -1452,7 +1548,8 @@
     "ted_related_charts_name": "more charts featuring data on job openings, hires, and separations",
     "ted_related_charts_url": "https://www.bls.gov/charts/job-openings-and-labor-turnover/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Employment; Industry Studies"
+    "ted_related_subjects": "Employment; Industry Studies",
+    "keywords": "number;million;month;separations;accommodation;changed;decreased;food;job;june"
 }, {
     "ted_title": "New Orleans had the highest unemployment rate among large metro areas in June 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/new-orleans-had-highest-unemployment-rate-among-large-metro-areas-in-june-2019.htm",
@@ -1467,7 +1564,8 @@
     "ted_related_charts_name": "",
     "ted_related_charts_url": "",
     "ted_related_articles": "Large metro area employment grew fastest in Orlando, Phoenix, and Dallas-Fort Worth, June 2019",
-    "ted_related_subjects": "Metropolitan Areas and Counties; Unemployment"
+    "ted_related_subjects": "Metropolitan Areas and Counties; Unemployment",
+    "keywords": "NA;NA;NA;NA;NA;NA;NA;NA;NA;NA"
 }, {
     "ted_title": "1.5 million people marginally attached to the labor force in July 2019, unchanged over the year",
     "ted_url": "https://www.bls.gov/opub/ted/2019/1-point-5-million-people-marginally-attached-to-the-labor-force-in-july-2019-unchanged-over-the-year.htm",
@@ -1482,7 +1580,8 @@
     "ted_related_charts_name": "Charts related to the latest \"The Employment Situation\" news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/employment-situation/",
     "ted_related_articles": "Nonfarm employment rose 164,000 in July 2019",
-    "ted_related_subjects": "Labor Force"
+    "ted_related_subjects": "Labor Force",
+    "keywords": "attached;discouraged;july;marginally;people;work;workers;among;attendance;available"
 }, {
     "ted_title": "Nonfarm employment rose 164,000 in July 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/nonfarm-employment-rose-164000-in-july-2019.htm",
@@ -1497,7 +1596,8 @@
     "ted_related_charts_name": "more charts",
     "ted_related_charts_url": "https://www.bls.gov/charts/employment-situation/otm-employment-change-by-industry-confidence-intervals.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Employment; Health Care; Industry Studies; Manufacturing"
+    "ted_related_subjects": "Employment; Health Care; Industry Studies; Manufacturing",
+    "keywords": "employment;july;services;care;gain;health;month;increased;industry;little"
 }, {
     "ted_title": "Large metro area employment grew fastest in Orlando, Phoenix, and Dallas-Fort Worth, June 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/large-metro-area-employment-grew-fastest-in-orlando-phoenix-and-dallas-fort-worth-june-2019.htm",
@@ -1512,7 +1612,8 @@
     "ted_related_charts_name": "Charts related to the latest \"Metropolitan Area Employment and Unemployment\" news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/metro-area-employment-and-unemployment/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Metropolitan Areas and Counties; Employment"
+    "ted_related_subjects": "Metropolitan Areas and Counties; Employment",
+    "keywords": "new;texas;houston;jersey;land;percent;sugar;woodlands;york;anaheim"
 }, {
     "ted_title": "Compensation costs for service occupations increased 3.7 percent from June 2018 to June 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/compensation-costs-for-service-occupations-increased-3-point-7-percent-from-june-2018-to-june-2019.htm",
@@ -1527,7 +1628,8 @@
     "ted_related_charts_name": "more charts on the Employment Cost Index",
     "ted_related_charts_url": "https://www.bls.gov/charts/employment-cost-index/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Benefits; Compensation Costs; Earnings and Wages; Occupations"
+    "ted_related_subjects": "Benefits; Compensation Costs; Earnings and Wages; Occupations",
+    "keywords": "compensation;cost;costs;employment;industry;june;percent;private;increase;index"
 }, {
     "ted_title": "College attendance and completion higher among millennials than youngest baby boomers",
     "ted_url": "https://www.bls.gov/opub/ted/2019/college-attendance-and-completion-higher-among-millennials-than-youngest-baby-boomers.htm",
@@ -1542,7 +1644,8 @@
     "ted_related_charts_name": "National Longitudinal Surveys",
     "ted_related_charts_url": "https://www.bls.gov/nls/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Men; Women; Youth; Education and Training"
+    "ted_related_subjects": "Men; Women; Youth; Education and Training",
+    "keywords": "high;school;year;born;college;completers;completion;degree;percent;period"
 }, {
     "ted_title": "Workers with advanced degrees were more likely to work at home than those without in 2018",
     "ted_url": "https://www.bls.gov/opub/ted/2019/workers-with-advanced-degrees-were-more-likely-to-work-at-home-than-those-without-in-2018.htm",
@@ -1557,7 +1660,8 @@
     "ted_related_charts_name": "charts of the latest American Time Use Survey data",
     "ted_related_charts_url": "https://www.bls.gov/charts/american-time-use/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Education and Training; Employment; Hours"
+    "ted_related_subjects": "Education and Training; Employment; Hours",
+    "keywords": "percent;occupations;worked;days;employed;management;professional;related;home;people"
 }, {
     "ted_title": "Labor productivity up in 13 of the 16 trade and food service industries in 2018",
     "ted_url": "https://www.bls.gov/opub/ted/2019/labor-productivity-up-in-13-of-the-16-trade-and-food-service-industries-in-2018.htm",
@@ -1572,7 +1676,8 @@
     "ted_related_charts_name": "Productivity and Costs by Industry: Wholesale Trade, Retail Trade, and Food Services and Drinking Places Industries — 2018",
     "ted_related_charts_url": "https://www.bls.gov/news.release/archives/prin1_07252019.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Industry Studies; Productivity"
+    "ted_related_subjects": "Industry Studies; Productivity",
+    "keywords": "percent;hours;industries;productivity;stores;worked;output;book;change;clothing"
 }, {
     "ted_title": "9 out of 13 industries had net job gains in the fourth quarter of 2018",
     "ted_url": "https://www.bls.gov/opub/ted/2019/9-out-of-13-industries-had-net-job-gains-in-the-fourth-quarter-of-2018.htm",
@@ -1587,7 +1692,8 @@
     "ted_related_charts_name": "charts related to the latest \"Business Employment Dynamics\" news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/business-employment-dynamics/job-gains-job-losses-most-recent-quarter.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Employment; Industry Studies"
+    "ted_related_subjects": "Employment; Industry Studies",
+    "keywords": "jobs;industries;increase;net;among;goods;job;largest;producing;providing"
 }, {
     "ted_title": "77 percent of private industry workers in medical care plans with two networks in 2018",
     "ted_url": "https://www.bls.gov/opub/ted/2019/77-percent-of-private-industry-workers-in-medical-care-plans-with-two-networks-in-2018.htm",
@@ -1602,7 +1708,8 @@
     "ted_related_charts_name": "Employee Benefits in the United States, March 2018",
     "ted_related_charts_url": "https://www.bls.gov/ncs/ebs/benefits/2018/home.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Benefits; Health Care; Industry Studies"
+    "ted_related_subjects": "Benefits; Health Care; Industry Studies",
+    "keywords": "plans;networks;two;network;allow;care;medical;participants;health;list"
 }, {
     "ted_title": "Nonmetropolitan areas had over half a million STEM jobs in May 2018",
     "ted_url": "https://www.bls.gov/opub/ted/2019/nonmetropolitan-areas-had-over-half-a-million-stem-jobs-in-may-2018.htm",
@@ -1617,7 +1724,8 @@
     "ted_related_charts_name": "STEM Occupations: Past, Present, and Future",
     "ted_related_charts_url": "https://www.bls.gov/spotlight/2017/science-technology-engineering-and-mathematics-stem-occupations-past-present-and-future/home.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Employment; Metropolitan Areas and Counties; Occupations; Regions and States; Technology"
+    "ted_related_subjects": "Employment; Metropolitan Areas and Counties; Occupations; Regions and States; Technology",
+    "keywords": "stem;area;nonmetropolitan;occupations;percent;employment;engineers;jobs;areas;california"
 }, {
     "ted_title": "States with unemployment rates significantly different from the U.S. rate in June 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/states-with-unemployment-rates-significantly-different-from-the-u-s-rate-in-june-2019.htm",
@@ -1632,7 +1740,8 @@
     "ted_related_charts_name": "state chart package",
     "ted_related_charts_url": "https://www.bls.gov/charts/state-employment-and-unemployment/state-unemployment-rates-map.htm",
     "ted_related_articles": "Nevada had largest percentage increase in employment over the year ended June 2019",
-    "ted_related_subjects": "Employment; Regions and States; Unemployment"
+    "ted_related_subjects": "Employment; Regions and States; Unemployment",
+    "keywords": "percent;new;rate;series;alabama;alaska;arkansas;begin;highest;jersey"
 }, {
     "ted_title": "Nevada had largest percentage increase in employment over the year ended June 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/nevada-had-largest-percentage-increase-in-employment-over-the-year-ended-june-2019.htm",
@@ -1647,7 +1756,8 @@
     "ted_related_charts_name": "state chart package",
     "ted_related_charts_url": "https://www.bls.gov/charts/state-employment-and-unemployment/state-unemployment-rates-map.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Employment; Regions and States"
+    "ted_related_subjects": "Employment; Regions and States",
+    "keywords": "percent;florida;june;texas;also;california;dakota;employees;employment;gains"
 }, {
     "ted_title": "Production workers 55 years and older see increase in workplace injuries and illnesses in 2017",
     "ted_url": "https://www.bls.gov/opub/ted/2019/production-workers-55-years-and-older-see-increase-in-workplace-injuries-and-illnesses-in-2017.htm",
@@ -1662,7 +1772,8 @@
     "ted_related_charts_name": "PDF",
     "ted_related_charts_url": "https://www.bls.gov/iif/osch0062.pdf",
     "ted_related_articles": "",
-    "ted_related_subjects": "Occupational Safety and Health; Occupations"
+    "ted_related_subjects": "Occupational Safety and Health; Occupations",
+    "keywords": "percent;workers;occupations;older;event;events;leading;violent;accounted;approximately"
 }, {
     "ted_title": "Median weekly earnings for second quarter 2019 increased by 3.7 percent over the year",
     "ted_url": "https://www.bls.gov/opub/ted/2019/median-weekly-earnings-for-second-quarter-2019-increased-by-3-point-7-percent-over-the-year.htm",
@@ -1677,7 +1788,8 @@
     "ted_related_charts_name": "more charts",
     "ted_related_charts_url": "https://www.bls.gov/charts/usual-weekly-earnings/",
     "ted_related_articles": "Real average hourly earnings increased 1.5 percent over the 12 months ending June 2019",
-    "ted_related_subjects": "Earnings and Wages"
+    "ted_related_subjects": "Earnings and Wages",
+    "keywords": "women;percent;earnings;median;men;white;black;hispanic;asian;weekly"
 }, {
     "ted_title": "Import prices down 2.0 percent, export prices down 1.6 percent, for year ended June 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/import-prices-down-2-point-0-percent-export-prices-down-1-point-6-percent-for-year-ended-june-2019.htm",
@@ -1692,7 +1804,8 @@
     "ted_related_charts_name": "Charts related to the latest “U.S. Import and Export Price Indexes” news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/import-export/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Prices"
+    "ted_related_subjects": "Prices",
+    "keywords": "prices;june;percent;declined;year;decline;export;fell;industrial;materials"
 }, {
     "ted_title": "Producer Price Index for final demand up 1.7 percent for the 12 months ended June 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/ppi-final-demand-prices-up-1-point-7-percent-for-the-12-months-ended-june-2019.htm",
@@ -1707,7 +1820,8 @@
     "ted_related_charts_name": "Charts related to the latest “U.S. Producer Price Indexes” news release.",
     "ted_related_charts_url": "https://www.bls.gov/charts/producer-price-index/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Industry Studies; Prices"
+    "ted_related_subjects": "Industry Studies; Prices",
+    "keywords": "demand;final;percent;prices;services;ended;june;less;months;trade"
 }, {
     "ted_title": "Real average hourly earnings increased 1.5 percent over the 12 months ending June 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/real-average-hourly-earnings-increased-1-point-5-percent-over-the-12-months-ending-june-2019.htm",
@@ -1722,7 +1836,8 @@
     "ted_related_charts_name": "Consumer Price Index",
     "ted_related_charts_url": "https://www.bls.gov/cpi/",
     "ted_related_articles": "Consumer prices up 1.6 percent over 12 months ending June 2019",
-    "ted_related_subjects": "Earnings and Wages; Prices"
+    "ted_related_subjects": "Earnings and Wages; Prices",
+    "keywords": "average;earnings;percent;hourly;june;real;change;combined;decrease;employees"
 }, {
     "ted_title": "Consumer prices up 1.6 percent over 12 months ending June 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/consumer-prices-up-1-point-6-percent-over-12-months-ending-june-2019.htm",
@@ -1737,7 +1852,8 @@
     "ted_related_charts_name": "Charts related to the latest \"U.S. Consumer Price Index\" news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/consumer-price-index/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Prices"
+    "ted_related_subjects": "Prices",
+    "keywords": "percent;consumer;index;price;months;prices;ending;energy;food;increased"
 }, {
     "ted_title": "Ames, Iowa, and Burlington-South Burlington, Vermont, had lowest unemployment rates in May 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/ames-iowa-and-burlington-south-burlington-vermont-had-lowest-unemployment-rates-in-may-2019.htm",
@@ -1752,7 +1868,8 @@
     "ted_related_charts_name": "more charts and maps",
     "ted_related_charts_url": "https://www.bls.gov/charts/metro-area-employment-and-unemployment/",
     "ted_related_articles": "Phoenix area leads large metropolitan employment from May 2018 to May 2019",
-    "ted_related_subjects": "Unemployment; Metropolitan Areas and Counties"
+    "ted_related_subjects": "Unemployment; Metropolitan Areas and Counties",
+    "keywords": "areas;california;percent;san;among;austin;census;clara;dearborn;detroit"
 }, {
     "ted_title": "Number of job openings at 7.3 million in May 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/number-of-job-openings-at-7-point-3-million-in-may-2019.htm",
@@ -1767,7 +1884,8 @@
     "ted_related_charts_name": "more charts featuring data on job openings, hires, and separations",
     "ted_related_charts_url": "https://www.bls.gov/charts/job-openings-and-labor-turnover/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Employment"
+    "ted_related_subjects": "Employment",
+    "keywords": "number;job;openings;services;also;increased;industries;largest;may;private"
 }, {
     "ted_title": "Official unemployment rate little changed at 3.7 percent in June 2019; U-6 at 7.2 percent",
     "ted_url": "https://www.bls.gov/opub/ted/2019/official-unemployment-rate-little-changed-at-3-point-7-percent-in-june-2019-u-6-at-7-point-2-percent.htm",
@@ -1782,7 +1900,8 @@
     "ted_related_charts_name": "charts from the Employment Situation data",
     "ted_related_charts_url": "https://www.bls.gov/charts/employment-situation/civilian-unemployment-rate.htm",
     "ted_related_articles": "Nonfarm employment increased by 2.3 million for the year ended June 2019",
-    "ted_related_subjects": "Unemployment"
+    "ted_related_subjects": "Unemployment",
+    "keywords": "plus;workers;percent;attached;marginally;u;civilian;discouraged;force;includes"
 }, {
     "ted_title": "Nonfarm employment increased by 2.3 million for the year ended June 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/nonfarm-employment-increased-by-2-point-3-million-for-the-year-ended-2019.htm",
@@ -1797,7 +1916,8 @@
     "ted_related_charts_name": "more charts",
     "ted_related_charts_url": "https://www.bls.gov/charts/employment-situation/otm-employment-change-by-industry-confidence-intervals.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Employment"
+    "ted_related_subjects": "Employment",
+    "keywords": "june;jobs;transportation;increased;percent;added;construction;employment;manufacturing;residential"
 }, {
     "ted_title": "Phoenix area leads large metropolitan employment from May 2018 to May 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/phoenix-area-leads-large-metropolitan-employment-from-may-2018-to-may-2019.htm",
@@ -1812,7 +1932,8 @@
     "ted_related_charts_name": "charts of metropolitan area employment and unemployment",
     "ted_related_charts_url": "https://www.bls.gov/charts/metro-area-employment-and-unemployment/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Employment; Metropolitan Areas and Counties"
+    "ted_related_subjects": "Employment; Metropolitan Areas and Counties",
+    "keywords": "percent;may;areas;austin;davidson;employment;florida;followed;franklin;increase"
 }, {
     "ted_title": "On an average day in 2018, men spent 5.7 hours on leisure and sports, women spent 4.9 hours",
     "ted_url": "https://www.bls.gov/opub/ted/2019/on-an-average-day-in-2018-men-spent-5-point-7-hours-on-leisure-and-sports-women-spent-4-point-9-hours.htm",
@@ -1827,7 +1948,8 @@
     "ted_related_charts_name": "charts of the latest American Time Use Survey data",
     "ted_related_charts_url": "https://www.bls.gov/charts/american-time-use/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Employment; Hours; Men; Women"
+    "ted_related_subjects": "Employment; Hours; Men; Women",
+    "keywords": "activities;hours;spent;average;men;women;day;percent;care;household"
 }, {
     "ted_title": "Employment costs up over the year by more than 3 percent in service and sales and office occupations",
     "ted_url": "https://www.bls.gov/opub/ted/2019/employment-costs-up-over-the-year-by-more-than-3-percent-in-service-and-sales-and-office-occupations.htm",
@@ -1842,7 +1964,8 @@
     "ted_related_charts_name": "Standard Occupational Classification",
     "ted_related_charts_url": "https://www.bls.gov/soc/soc_2010_user_guide.pdf",
     "ted_related_articles": "",
-    "ted_related_subjects": "Compensation Costs; Occupations"
+    "ted_related_subjects": "Compensation Costs; Occupations",
+    "keywords": "occupations;percent;since;changes;compensation;construction;contrast;costs;december;june"
 }, {
     "ted_title": "Then and now: job growth in the most populated cities of 1790",
     "ted_url": "https://www.bls.gov/opub/ted/2019/then-and-now-job-growth-in-the-most-populated-cities-of-1790.htm",
@@ -1857,7 +1980,8 @@
     "ted_related_charts_name": "U.S. Census Bureau",
     "ted_related_charts_url": "https://www.census.gov/history/www/through_the_decades/fast_facts/1790_fast_facts.html",
     "ted_related_articles": "",
-    "ted_related_subjects": "Metropolitan Areas and Counties; Employment"
+    "ted_related_subjects": "Metropolitan Areas and Counties; Employment",
+    "keywords": "city;employment;percent;charleston;increased;marblehead;massachusetts;may;new;populous"
 }, {
     "ted_title": "About 15 percent of workers age 65 and older had been with employer 2 years or less in 2018",
     "ted_url": "https://www.bls.gov/opub/ted/2019/about-15-percent-of-workers-age-65-and-older-had-been-with-employer-2-years-or-less-in-2018.htm",
@@ -1872,7 +1996,8 @@
     "ted_related_charts_name": "Employee Tenure in 2018",
     "ted_related_charts_url": "https://www.bls.gov/news.release/archives/tenure_09202018.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Employment; Retirement"
+    "ted_related_subjects": "Employment; Retirement",
+    "keywords": "percent;workers;older;share;tenure;years;among;increased;since;tenured"
 }, {
     "ted_title": "Vermont and Texas at historically low unemployment rates in May 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/vermont-and-texas-at-historically-low-unemployment-rates-in-may-2019.htm",
@@ -1887,7 +2012,8 @@
     "ted_related_charts_name": "more charts and maps",
     "ted_related_charts_url": "https://www.bls.gov/charts/state-employment-and-unemployment/",
     "ted_related_articles": "6 states and D.C. had at least one-fifth of their total jobs in government in May 2019",
-    "ted_related_subjects": "Unemployment; Regions and States"
+    "ted_related_subjects": "Unemployment; Regions and States",
+    "keywords": "states;point;rate;rates;unemployment;percent;percentage;alaska;appreciably;closely"
 }, {
     "ted_title": "6 states and D.C. had at least one-fifth of their total jobs in government in May 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/6-states-and-d-c-had-at-least-one-fifth-of-their-total-jobs-in-government-in-may-2019.htm",
@@ -1902,7 +2028,8 @@
     "ted_related_charts_name": "state chart package",
     "ted_related_charts_url": "https://www.bls.gov/charts/state-employment-and-unemployment/state-unemployment-rates-map.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Employment; Industry Studies; Regions and States"
+    "ted_related_subjects": "Employment; Industry Studies; Regions and States",
+    "keywords": "employment;percent;total;government;states;highest;among;california;country;florida"
 }, {
     "ted_title": "Crane-related work deaths trended down from 1992 to 2017",
     "ted_url": "https://www.bls.gov/opub/ted/2019/crane-related-work-deaths-trended-down-from-1992-to-2017.htm",
@@ -1917,7 +2044,8 @@
     "ted_related_charts_name": "Fatal Occupational Injuries Involving Cranes",
     "ted_related_charts_url": "https://www.bls.gov/iif/oshwc/cfoi/cranes-2017.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Occupational Safety and Health"
+    "ted_related_subjects": "Occupational Safety and Health",
+    "keywords": "percent;crane;equipment;falls;fatal;half;incidents;injuries;involved;just"
 }, {
     "ted_title": "Total compensation costs $53.65 per hour worked in San Jose-San Francisco-Oakland in March 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/total-compensation-costs-53-65-per-hour-worked-in-san-jose-san-francisco-oakland-in-march-2019.htm",
@@ -1932,7 +2060,8 @@
     "ted_related_charts_name": "more charts on employer costs for employee compensation",
     "ted_related_charts_url": "https://www.bls.gov/charts/employer-costs-for-employee-compensation/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Benefits; Compensation Costs; Earnings and Wages; Metropolitan Areas and Counties"
+    "ted_related_subjects": "Benefits; Compensation Costs; Earnings and Wages; Metropolitan Areas and Counties",
+    "keywords": "total;compensation;percent;salaries;wages;accounted;averaged;costs;hour;per"
 }, {
     "ted_title": "40 percent of private industry workers had access to health benefits for same-sex partners in 2018",
     "ted_url": "https://www.bls.gov/opub/ted/2019/40-percent-of-private-industry-workers-had-access-to-health-benefits-for-same-sex-partners-in-2018.htm",
@@ -1947,7 +2076,8 @@
     "ted_related_charts_name": "Employer-sponsored benefits extended to domestic partners",
     "ted_related_charts_url": "https://www.bls.gov/opub/btn/volume-3/employer-sponsored-benefits-extended-to-domestic-partners.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Benefits; Health Care; Men; Women"
+    "ted_related_subjects": "Benefits; Health Care; Men; Women",
+    "keywords": "percent;sex;access;benefits;healthcare;opposite;partners;unmarried;workers;compared"
 }, {
     "ted_title": "Employment and unemployment where U.S. Women's National Team members play pro soccer",
     "ted_url": "https://www.bls.gov/opub/ted/2019/employment-and-unemployment-where-u-s-womens-national-team-members-play-pro-soccer.htm",
@@ -1962,7 +2092,8 @@
     "ted_related_charts_name": "Metropolitan Area Employment and Unemployment — April 2019",
     "ted_related_charts_url": "https://www.bls.gov/news.release/archives/metro_05292019.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Employment; Metropolitan Areas and Counties; Unemployment"
+    "ted_related_subjects": "Employment; Metropolitan Areas and Counties; Unemployment",
+    "keywords": "employment;unemployment;area;data;percent;year;april;chicago;gain;highest"
 }, {
     "ted_title": "U.S. import and export prices decrease over the year ending May 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/us-import-and-export-prices-decrease-over-the-year-ending-may-2019.htm",
@@ -1977,7 +2108,8 @@
     "ted_related_charts_name": "Charts related to the latest “U.S. Import and Export Price Indexes” news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/import-export/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Prices"
+    "ted_related_subjects": "Prices",
+    "keywords": "prices;percent;may;year;declined;drop;ending;agricultural;driven;nonagricultural"
 }, {
     "ted_title": "Real average hourly earnings up 1.3 percent from May 2018 to May 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/real-average-hourly-earnings-up-1-point-3-percent-from-may-2018-to-may-2019.htm",
@@ -1992,7 +2124,8 @@
     "ted_related_charts_name": "Consumer Price Index",
     "ted_related_charts_url": "https://www.bls.gov/cpi/",
     "ted_related_articles": "Consumer prices up 1.8 percent over year ended May 2019",
-    "ted_related_subjects": "Prices; Earnings and Wages"
+    "ted_related_subjects": "Prices; Earnings and Wages",
+    "keywords": "may;earnings;consumer;percent;average;data;hourly;index;price;real"
 }, {
     "ted_title": "Consumer prices up 1.8 percent over year ended May 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/consumer-prices-up-1-point-8-percent-over-year-ended-may-2019.htm",
@@ -2007,7 +2140,8 @@
     "ted_related_charts_name": "more charts related to the latest Consumer Price Index news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/consumer-price-index/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Prices"
+    "ted_related_subjects": "Prices",
+    "keywords": "percent;prices;may;food;decreased;home;increasing;past;rose;away"
 }, {
     "ted_title": "Producer Price Index for final demand up 1.8 percent for the 12 months ended in May 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/producer-price-index-for-final-demand-up-1-point-8-percent-for-the-12-months-ended-in-may-2019.htm",
@@ -2022,7 +2156,8 @@
     "ted_related_charts_name": "Charts related to the latest “U.S. Producer Price Indexes” news release.",
     "ted_related_charts_url": "https://www.bls.gov/charts/producer-price-index/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Prices"
+    "ted_related_subjects": "Prices",
+    "keywords": "percent;prices;rose;decreased;demand;ended;energy;final;foods;goods"
 }, {
     "ted_title": "Federal government had lowest hires-per-job-opening ratio in April 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/federal-government-had-lowest-hires-per-job-opening-ratio-in-april-2019.htm",
@@ -2037,7 +2172,8 @@
     "ted_related_charts_name": "more charts on job openings, hires, and separations",
     "ted_related_charts_url": "https://www.bls.gov/charts/job-openings-and-labor-turnover/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Labor Force; Manufacturing; Industry Studies"
+    "ted_related_subjects": "Labor Force; Manufacturing; Industry Studies",
+    "keywords": "month;hires;job;ratio;openings;end;jobs;open;opening;per"
 }, {
     "ted_title": "Labor productivity up in 18 of 28 selected service-providing industries in 2018",
     "ted_url": "https://www.bls.gov/opub/ted/2019/labor-productivity-up-in-18-of-28-selected-service-providing-industries-in-2018.htm",
@@ -2052,7 +2188,8 @@
     "ted_related_charts_name": "Productivity and Costs by Industry: Selected Service-Providing Industries — 2018",
     "ted_related_charts_url": "https://www.bls.gov/news.release/archives/prin2_05232019.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Industry Studies; Productivity; Hours"
+    "ted_related_subjects": "Industry Studies; Productivity; Hours",
+    "keywords": "percent;hours;worked;industries;productivity;increases;output;change;declines;gains"
 }, {
     "ted_title": "Unemployment rate unchanged at 3.6 percent in May 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/unemployment-rate-unchanged-at-3-point-6-percent-in-may-2019.htm",
@@ -2067,7 +2204,8 @@
     "ted_related_charts_name": "Charts related to the latest \"The Employment Situation\" news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/employment-situation/",
     "ted_related_articles": "Nonfarm employment edged up 75,000 in May 2019",
-    "ted_related_subjects": "Labor Force; Men; Unemployment; Women; Youth"
+    "ted_related_subjects": "Labor Force; Men; Unemployment; Women; Youth",
+    "keywords": "percent;adult;among;asians;blacks;change;groups;hispanics;little;major"
 }, {
     "ted_title": "Nonfarm employment edged up 75,000 in May 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/nonfarm-employment-edged-up-75000-in-may-2019.htm",
@@ -2082,7 +2220,8 @@
     "ted_related_charts_name": "more charts",
     "ted_related_charts_url": "https://www.bls.gov/charts/employment-situation/otm-employment-change-by-industry-confidence-intervals.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Employment; Health Care; Industry Studies; Manufacturing"
+    "ted_related_subjects": "Employment; Health Care; Industry Studies; Manufacturing",
+    "keywords": "employment;may;months;past;added;continued;industry;jobs;little;trade"
 }, {
     "ted_title": "Productivity up 2.4 percent from first quarter 2018 to first quarter 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/productivity-up-2-point-4-percent-from-first-quarter-2018-to-first-quarter-2019.htm",
@@ -2097,7 +2236,8 @@
     "ted_related_charts_name": "Charts related to the latest \"Productivity and Costs\" news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/productivity-and-costs/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Compensation Costs; Hours; Industry Studies; Manufacturing; Productivity"
+    "ted_related_subjects": "Compensation Costs; Hours; Industry Studies; Manufacturing; Productivity",
+    "keywords": "percent;four;increased;last;quarter;quarters;sector;business;costs;decline"
 }, {
     "ted_title": "Ready, Set, Go! Florida leads employment in private racetrack industries, 2018",
     "ted_url": "https://www.bls.gov/opub/ted/2019/ready-set-go-florida-leads-employment-in-private-racetrack-industries-2018.htm",
@@ -2112,7 +2252,8 @@
     "ted_related_charts_name": "QCEW data retrieval tool",
     "ted_related_charts_url": "https://www.bls.gov/cew/apps/data_views/data_views.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Employment; Industry Studies; Regions and States"
+    "ted_related_subjects": "Employment; Industry Studies; Regions and States",
+    "keywords": "racetracks;businesses;california;establishments;florida;followed;hawaii;illinois;industry;island"
 }, {
     "ted_title": "43.5 percent of manufacturing workers in establishments with 250 or more workers in March 2018",
     "ted_url": "https://www.bls.gov/opub/ted/2019/43-point-5-percent-of-manufacturing-workers-in-establishments-with-250-or-more-workers-in-march-2018.htm",
@@ -2127,7 +2268,8 @@
     "ted_related_charts_name": "QCEW Open Data Access",
     "ted_related_charts_url": "https://www.bls.gov/cew/opendata.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Employment; Industry Studies; Size Of Establishment"
+    "ted_related_subjects": "Employment; Industry Studies; Size Of Establishment",
+    "keywords": "employees;business;establishments;percent;worked;industry;fewer;education;health;hospitality"
 }, {
     "ted_title": "How do export prices for corn, soybeans, and wheat compare?",
     "ted_url": "https://www.bls.gov/opub/ted/2019/how-do-export-prices-for-corn-soybeans-and-wheat-compare.htm",
@@ -2142,7 +2284,8 @@
     "ted_related_charts_name": "more charts",
     "ted_related_charts_url": "https://www.bls.gov/charts/import-export/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Prices"
+    "ted_related_subjects": "Prices",
+    "keywords": "percent;prices;export;corn;fell;wheat;demand;soybeans;biofuels;certain"
 }, {
     "ted_title": "April 2019 jobless rates down over the year in 306 of 389 metropolitan areas",
     "ted_url": "https://www.bls.gov/opub/ted/2019/april-2019-jobless-rates-down-over-the-year-in-306-of-389-metropolitan-areas.htm",
@@ -2157,7 +2300,8 @@
     "ted_related_charts_name": "Charts related to the latest \"Metropolitan Area Employment and Unemployment\" news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/metro-area-employment-and-unemployment/",
     "ted_related_articles": "Ocean City, New Jersey, had largest 12-month percentage employment gain in April 2019",
-    "ted_related_subjects": "Metropolitan Areas and Counties; Unemployment"
+    "ted_related_subjects": "Metropolitan Areas and Counties; Unemployment",
+    "keywords": "percent;points;rate;rates;areas;april;city;iowa;jersey;new"
 }, {
     "ted_title": "Ocean City, New Jersey, had largest 12-month percentage employment gain in April 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/ocean-city-nj-had-largest-12-month-percentage-employment-gain-in-april-2019.htm",
@@ -2172,7 +2316,8 @@
     "ted_related_charts_name": "Charts related to the latest \"Metropolitan Area Employment and Unemployment\" news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/metro-area-employment-and-unemployment/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Metropolitan Areas and Counties; Employment"
+    "ted_related_subjects": "Metropolitan Areas and Counties; Employment",
+    "keywords": "texas;new;percent;areas;arlington;dallas;employment;fort;houston;increases"
 }, {
     "ted_title": "72.3 percent of 2018 bachelor's degree recipients were employed in October 2018",
     "ted_url": "https://www.bls.gov/opub/ted/2019/72-point-3-percent-of-2018-bachelors-degree-recipients-were-employed-in-october-2018.htm",
@@ -2187,7 +2332,8 @@
     "ted_related_charts_name": "College Enrollment and Work Activity of Recent High School and College Graduates — 2018",
     "ted_related_charts_url": "https://www.bls.gov/news.release/archives/hsgec_04252019.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Education and Training; Employment"
+    "ted_related_subjects": "Education and Training; Employment",
+    "keywords": "percent;october;degree;employed;enrolled;among;recent;recipients;school;advanced"
 }, {
     "ted_title": "Pilots and air traffic controllers were highest paid transportation workers in May 2018",
     "ted_url": "https://www.bls.gov/opub/ted/2019/pilots-and-air-traffic-controllers-were-highest-paid-transportation-workers-in-may-2018.htm",
@@ -2202,7 +2348,8 @@
     "ted_related_charts_name": "Occupational Employment and Wages — May 2018",
     "ted_related_charts_url": "https://www.bls.gov/news.release/archives/ocwage_03292019.htm",
     "ted_related_articles": "21.8 million employed in office and administrative support occupations, May 2018",
-    "ted_related_subjects": "Earnings and Wages; Employment; Occupations"
+    "ted_related_subjects": "Earnings and Wages; Employment; Occupations",
+    "keywords": "occupations;transportation;material;moving;pilots;air;attendants;engineers;operators;paying"
 }, {
     "ted_title": "Labor force participation rate for workers age 75 and older projected to be over 10 percent by 2026",
     "ted_url": "https://www.bls.gov/opub/ted/2019/labor-force-participation-rate-for-workers-age-75-and-older-projected-to-be-over-10-percent-by-2026.htm",
@@ -2217,7 +2364,8 @@
     "ted_related_charts_name": "Monthly Labor Review",
     "ted_related_charts_url": "https://www.bls.gov/mlr/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Labor Force; Projections"
+    "ted_related_subjects": "Labor Force; Projections",
+    "keywords": "participation;age;percent;projected;rates;workers;compared;groups;rate;among"
 }, {
     "ted_title": "Foreign-born workers with a bachelor's degree and higher earned more than native born in 2018",
     "ted_url": "https://www.bls.gov/opub/ted/2019/foreign-born-workers-with-a-bachelors-degree-and-higher-earned-more-than-native-born-in-2018.htm",
@@ -2232,7 +2380,8 @@
     "ted_related_charts_name": "Foreign-Born Workers: Labor Force Characteristics — 2018",
     "ted_related_charts_url": "https://www.bls.gov/news.release/archives/forbrn_05162019.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Earnings and Wages; Labor Force"
+    "ted_related_subjects": "Earnings and Wages; Labor Force",
+    "keywords": "born;workers;foreign;native;percent;earnings;median;weekly;higher;increased"
 }, {
     "ted_title": "Fatal work injuries among Asians, native Hawaiians, and Pacific Islanders",
     "ted_url": "https://www.bls.gov/opub/ted/2019/fatal-work-injuries-among-asians-native-hawaiians-and-pacific-islanders.htm",
@@ -2247,7 +2396,8 @@
     "ted_related_charts_name": "more charts",
     "ted_related_charts_url": "https://www.bls.gov/charts/census-of-fatal-occupational-injuries/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Occupational Safety and Health; Occupations"
+    "ted_related_subjects": "Occupational Safety and Health; Occupations",
+    "keywords": "percent;killed;asians;cashiers;drivers;first;hawaiians;heavy;islanders;line"
 }, {
     "ted_title": "21 states set historic lows in unemployment rates since 2010",
     "ted_url": "https://www.bls.gov/opub/ted/2019/21-states-set-historic-lows-in-unemployment-rates-since-2010.htm",
@@ -2262,7 +2412,8 @@
     "ted_related_charts_name": "more charts and maps",
     "ted_related_charts_url": "https://www.bls.gov/charts/state-employment-and-unemployment/",
     "ted_related_articles": "Twenty-nine states had over-the-year increases in nonfarm payroll employment in April 2019",
-    "ted_related_subjects": "Regions and States; Unemployment"
+    "ted_related_subjects": "Regions and States; Unemployment",
+    "keywords": "percent;low;set;historic;kansas;lows;rate;recent;states;unemployment"
 }, {
     "ted_title": "Twenty-nine states had over-the-year increases in nonfarm payroll employment in April 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/twenty-nine-states-had-over-the-year-increases-in-nonfarm-payroll-employment-in-april-2019.htm",
@@ -2277,7 +2428,8 @@
     "ted_related_charts_name": "state chart package",
     "ted_related_charts_url": "https://www.bls.gov/charts/state-employment-and-unemployment/state-unemployment-rates-map.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Employment; Regions and States"
+    "ted_related_subjects": "Employment; Regions and States",
+    "keywords": "percent;arizona;gains;largest;nevada;occurred;percentage;utah;NA;NA"
 }, {
     "ted_title": "Fuel import prices increased 6.9 percent over the year ending April 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/fuel-import-prices-increased-6-point-9-percent-over-the-year-ending-april-2019.htm",
@@ -2292,7 +2444,8 @@
     "ted_related_charts_name": "more charts about U.S. import and export prices",
     "ted_related_charts_url": "https://www.bls.gov/charts/import-export/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Industry Studies; Prices"
+    "ted_related_subjects": "Industry Studies; Prices",
+    "keywords": "prices;april;import;overall;percent;declined;decrease;driven;export;lower"
 }, {
     "ted_title": "Employment of young men after arrest or incarceration",
     "ted_url": "https://www.bls.gov/opub/ted/2019/employment-of-young-men-after-arrest-or-incarceration.htm",
@@ -2307,7 +2460,8 @@
     "ted_related_charts_name": "National Longitudinal Surveys",
     "ted_related_charts_url": "https://www.bls.gov/nls/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Men; Youth; Employment"
+    "ted_related_subjects": "Men; Youth; Employment",
+    "keywords": "men;incarcerated;percent;arrested;months;age;first;hispanic;jobs;less"
 }, {
     "ted_title": "Real average hourly earnings increased 1.2 percent over the 12 months ending April 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/real-average-hourly-earnings-increased-1-point-2-percent-over-the-12-months-ending-april-2019.htm",
@@ -2322,7 +2476,8 @@
     "ted_related_charts_name": "Consumer Price Index",
     "ted_related_charts_url": "https://www.bls.gov/cpi/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Earnings and Wages; Prices"
+    "ted_related_subjects": "Earnings and Wages; Prices",
+    "keywords": "average;earnings;percent;hourly;real;adjusted;april;change;combined;decrease"
 }, {
     "ted_title": "Consumer Price Index increased 2.0 percent for year ending April 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/cpi-increased-2-point-0-percent-for-year-ending-april-2019.htm",
@@ -2337,7 +2492,8 @@
     "ted_related_charts_name": "more charts on consumer prices",
     "ted_related_charts_url": "https://www.bls.gov/charts/consumer-price-index/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Prices"
+    "ted_related_subjects": "Prices",
+    "keywords": "percent;prices;april;energy;increased;index;food;rose;year;components"
 }, {
     "ted_title": "Producer Price Index for final demand increased 2.2 percent for the year ended April 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/producer-price-index-for-final-demand-increased-2-point-2-percent-for-the-year-ended-april-2019.htm",
@@ -2352,7 +2508,8 @@
     "ted_related_charts_name": "Charts related to the latest \"U.S. Producer Price Indexes\" news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/producer-price-index/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Prices"
+    "ted_related_subjects": "Prices",
+    "keywords": "percent;april;prices;producer;increased;retailing;appliances;arrangement;book;commodity"
 }, {
     "ted_title": "7.5 million job openings in March 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/7-point-5-million-job-openings-in-march-2019.htm",
@@ -2367,7 +2524,8 @@
     "ted_related_charts_name": "more charts on job openings, hires, and separations",
     "ted_related_charts_url": "https://www.bls.gov/charts/job-openings-and-labor-turnover/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Industry Studies; Labor Force; Manufacturing"
+    "ted_related_subjects": "Industry Studies; Labor Force; Manufacturing",
+    "keywords": "million;job;openings;months;industry;level;since;assistance;business;care"
 }, {
     "ted_title": "Nashville had lowest unemployment rate among largest metro areas in March 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/nashville-had-lowest-unemployment-rate-among-largest-metro-areas-in-march-2019.htm",
@@ -2382,7 +2540,8 @@
     "ted_related_charts_name": "Charts related to the latest \"Metropolitan Area Employment and Unemployment\" news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/metro-area-employment-and-unemployment/",
     "ted_related_articles": "Top ten largest over-the-year employment gains and losses by metropolitan area, March 2019",
-    "ted_related_subjects": "Metropolitan Areas and Counties; Unemployment"
+    "ted_related_subjects": "Metropolitan Areas and Counties; Unemployment",
+    "keywords": "areas;percent;rate;rates;unemployment;ames;among;california;centro;el"
 }, {
     "ted_title": "Top ten largest over-the-year employment gains and losses by metropolitan area, March 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/top-ten-largest-over-the-year-employment-gains-and-losses-by-metropolitan-area-march-2019.htm",
@@ -2397,7 +2556,8 @@
     "ted_related_charts_name": "Charts related to the latest \"Metropolitan Area Employment and Unemployment\" news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/metro-area-employment-and-unemployment/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Employment"
+    "ted_related_subjects": "Employment",
+    "keywords": "percent;bloomington;dakota;declines;employment;forks;grand;houma;illinois;largest"
 }, {
     "ted_title": "Labor productivity increased 2.4 percent from the first quarter of 2018 to the first quarter of 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/labor-productivity-increased-2-point-4-percent-from-the-first-quarter-of-2018-to-the-first-quarter-of-2019.htm",
@@ -2412,7 +2572,8 @@
     "ted_related_charts_name": "Graphics for Economic News Releases: Productivity and Costs",
     "ted_related_charts_url": "https://www.bls.gov/charts/productivity-and-costs/labor-productivity-by-sector-most-recent-quarter.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Productivity"
+    "ted_related_subjects": "Productivity",
+    "keywords": "quarter;percent;first;four;increased;business;compensation;costs;decline;fourth"
 }, {
     "ted_title": "Unemployment rate 3.6 percent in April 2019, lowest since December 1969",
     "ted_url": "https://www.bls.gov/opub/ted/2019/unemployment-rate-3-point-6-percent-in-april-2019-lowest-since-december-1969.htm",
@@ -2427,7 +2588,8 @@
     "ted_related_charts_name": "more charts",
     "ted_related_charts_url": "https://www.bls.gov/charts/employment-situation/",
     "ted_related_articles": "Payroll employment up 2,620,000 over the year ending April 2019",
-    "ted_related_subjects": "Men; Unemployment; Women"
+    "ted_related_subjects": "Men; Unemployment; Women",
+    "keywords": "percent;adult;april;asians;blacks;declined;hispanics;jobless;men;rate"
 }, {
     "ted_title": "Payroll employment up 2,620,000 over the year ending April 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/payroll-employment-up-2620000-over-the-year-ending-april-2019.htm",
@@ -2442,7 +2604,8 @@
     "ted_related_charts_name": "Graphics for Economic News Releases: The Employment Situation",
     "ted_related_charts_url": "https://www.bls.gov/charts/employment-situation/otm-employment-change-by-industry-confidence-intervals.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Employment; Industry Studies"
+    "ted_related_subjects": "Employment; Industry Studies",
+    "keywords": "employment;services;april;increased;industry;percent;also;care;health;transportation"
 }, {
     "ted_title": "Occupational requirements and benefits for nurses in the United States in 2018",
     "ted_url": "https://www.bls.gov/opub/ted/2019/occupational-requirements-and-benefits-for-nurses-in-the-united-states-in-2018.htm",
@@ -2457,7 +2620,8 @@
     "ted_related_charts_name": "full set of estimates",
     "ted_related_charts_url": "https://www.bls.gov/ors/xlsx/2018_excel_output.xlsx",
     "ted_related_articles": "",
-    "ted_related_subjects": "Benefits; Education and Training; Health Care; Occupations; Retirement"
+    "ted_related_subjects": "Benefits; Education and Training; Health Care; Occupations; Retirement",
+    "keywords": "percent;nurses;required;licensed;registered;vocational;benefits;practical;access;care"
 }, {
     "ted_title": "Compensation costs for transportation and moving occupations up 3.5 percent from March 2018",
     "ted_url": "https://www.bls.gov/opub/ted/2019/compensation-costs-for-transportation-and-moving-occupations-up-3-point-5-percent-from-march-2018.htm",
@@ -2472,7 +2636,8 @@
     "ted_related_charts_name": "charts related to the Employment Cost Index news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/employment-cost-index/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Benefits; Compensation Costs"
+    "ted_related_subjects": "Benefits; Compensation Costs",
+    "keywords": "compensation;costs;ending;increased;march;percent;workers;year;government;increase"
 }, {
     "ted_title": "Widespread declines in manufacturing labor productivity in 2018",
     "ted_url": "https://www.bls.gov/opub/ted/2019/widespread-declines-in-manufacturing-labor-productivity-in-2018.htm",
@@ -2487,7 +2652,8 @@
     "ted_related_charts_name": "new charts",
     "ted_related_charts_url": "https://www.bls.gov/charts/productivity-mining-manufacturing/percent-change-in-productivity.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Industry Studies; Manufacturing; Productivity"
+    "ted_related_subjects": "Industry Studies; Manufacturing; Productivity",
+    "keywords": "percent;productivity;products;fell;manufacturing;beverages;coal;declines;durable;equipment"
 }, {
     "ted_title": "Manufacturing multifactor productivity declined 1.4 percent in 2017",
     "ted_url": "https://www.bls.gov/opub/ted/2019/manufacturing-multifactor-productivity-declined-1-point-4-percent-in-2017.htm",
@@ -2502,7 +2668,8 @@
     "ted_related_charts_name": "video",
     "ted_related_charts_url": "https://www.bls.gov/video/?video=JKRZ0b98hFE",
     "ted_related_articles": "",
-    "ted_related_subjects": "Manufacturing; Productivity; Technology"
+    "ted_related_subjects": "Manufacturing; Productivity; Technology",
+    "keywords": "percent;annual;average;manufacturing;combined;increase;inputs;multifactor;output;productivity"
 }, {
     "ted_title": "Net employment gain of 27,000 private-sector jobs during third quarter 2018",
     "ted_url": "https://www.bls.gov/opub/ted/2019/net-employment-gain-of-27000-private-sector-jobs-during-third-quarter-2018.htm",
@@ -2517,7 +2684,8 @@
     "ted_related_charts_name": "charts related to the latest \"Business Employment Dynamics\" news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/business-employment-dynamics/job-gains-job-losses-most-recent-quarter.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Employment"
+    "ted_related_subjects": "Employment",
+    "keywords": "establishments;million;jobs;lost;quarter;third;accounted;closing;contracting;expanding"
 }, {
     "ted_title": "Nine states at historically low unemployment rates in March 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/nine-states-at-historically-low-unemployment-rates-in-march-2019.htm",
@@ -2532,7 +2700,8 @@
     "ted_related_charts_name": "are available",
     "ted_related_charts_url": "https://www.bls.gov/charts/state-employment-and-unemployment/state-unemployment-rates-animated.htm",
     "ted_related_articles": "Twenty-two states had over-the-year employment increases in March 2019",
-    "ted_related_subjects": "Regions and States; Unemployment"
+    "ted_related_subjects": "Regions and States; Unemployment",
+    "keywords": "states;point;march;rates;rate;unemployment;appreciably;colorado;columbia;dakota"
 }, {
     "ted_title": "Fatal work injuries down slightly in 2017",
     "ted_url": "https://www.bls.gov/opub/ted/2019/fatal-work-injuries-down-slightly-in-2017.htm",
@@ -2547,7 +2716,8 @@
     "ted_related_charts_name": "more charts",
     "ted_related_charts_url": "https://www.bls.gov/charts/census-of-fatal-occupational-injuries/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Occupational Safety and Health"
+    "ted_related_subjects": "Occupational Safety and Health",
+    "keywords": "injuries;percent;cases;fatal;work;illnesses;incidents;represented;resulted;transportation"
 }, {
     "ted_title": "Twenty-two states had over-the-year employment increases in March 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/twenty-two-states-had-over-the-year-employment-increases-in-march-2019.htm",
@@ -2562,7 +2732,8 @@
     "ted_related_charts_name": "charts and maps of state employment and unemployment",
     "ted_related_charts_url": "https://www.bls.gov/charts/state-employment-and-unemployment/state-unemployment-rates-map.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Industry Studies; Regions and States; Employment"
+    "ted_related_subjects": "Industry Studies; Regions and States; Employment",
+    "keywords": "percent;employment;increased;states;arizona;changes;construction;government;least;march"
 }, {
     "ted_title": "Job requirements for hairdressers, hairstylists, and cosmetologists in 2018",
     "ted_url": "https://www.bls.gov/opub/ted/2019/job-requirements-for-hairdressers-hairstylists-and-cosmetologists-in-2018.htm",
@@ -2577,7 +2748,8 @@
     "ted_related_charts_name": "Occupational Outlook Handbook",
     "ted_related_charts_url": "https://www.bls.gov/ooh/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Education and Training; Occupations"
+    "ted_related_subjects": "Education and Training; Occupations",
+    "keywords": "percent;required;cosmetologists;diploma;education;experience;hairdressers;hairstylists;half;high"
 }, {
     "ted_title": "5.2 percent of families had an unemployed person in 2018",
     "ted_url": "https://www.bls.gov/opub/ted/2019/5-point-2-percent-of-families-had-an-unemployed-person-in-2018.htm",
@@ -2592,7 +2764,8 @@
     "ted_related_charts_name": "Employment Characteristics of Families — 2018",
     "ted_related_charts_url": "https://www.bls.gov/news.release/archives/famee_04182019.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Labor Force; Men; Unemployment; Women"
+    "ted_related_subjects": "Labor Force; Men; Unemployment; Women",
+    "keywords": "families;percent;unemployed;person;asian;black;hispanic;maintained;member;shares"
 }, {
     "ted_title": "Median weekly earnings were $806 for women, $1,004 for men, in first quarter 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/median-weekly-earnings-were-806-for-women-1004-for-men-in-first-quarter-2019.htm",
@@ -2607,7 +2780,8 @@
     "ted_related_charts_name": "more charts",
     "ted_related_charts_url": "https://www.bls.gov/charts/usual-weekly-earnings/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Earnings and Wages; Men; Women"
+    "ted_related_subjects": "Earnings and Wages; Men; Women",
+    "keywords": "median;earnings;men;women;percent;white;asian;black;hispanic;weekly"
 }, {
     "ted_title": "Number of job openings declined to 7.1 million in February 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/number-of-job-openings-declined-to-7-point-1-million-in-february-2019.htm",
@@ -2622,7 +2796,8 @@
     "ted_related_charts_name": "more charts featuring data on job openings, hires, and separations",
     "ted_related_charts_url": "https://www.bls.gov/charts/job-openings-and-labor-turnover/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Industry Studies; Labor Force"
+    "ted_related_subjects": "Industry Studies; Labor Force",
+    "keywords": "job;number;openings;activities;changed;decreased;decreases;education;fell;financial"
 }, {
     "ted_title": "U.S. export prices up 0.6 percent over the year ended March 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/u-s-export-prices-up-0-point-6-percent-over-the-year-ended-march-2019.htm",
@@ -2637,7 +2812,8 @@
     "ted_related_charts_name": "Charts related to the latest \"U.S. Import and Export Price Indexes\" news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/import-export/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Industry Studies; Prices"
+    "ted_related_subjects": "Industry Studies; Prices",
+    "keywords": "percent;exports;automotive;automotives;consumer;engines;excluding;goods;industrial;made"
 }, {
     "ted_title": "Producer Price Index for final demand up 2.2 percent for the 12 months ended in March 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/producer-price-index-for-final-demand-up-2-point-2-percent-for-the-12-months-ended-in-march-2019.htm",
@@ -2652,7 +2828,8 @@
     "ted_related_charts_name": "Charts related to the latest “U.S. Producer Price Indexes” news release.",
     "ted_related_charts_url": "https://www.bls.gov/charts/producer-price-index/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Prices"
+    "ted_related_subjects": "Prices",
+    "keywords": "percent;prices;demand;final;rose;services;ended;energy;foods;goods"
 }, {
     "ted_title": "Real average hourly earnings increased 1.3 percent over the 12 months ending March 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/real-average-hourly-earnings-increased-1-point-3-percent-over-the-12-months-ending-march-2019.htm",
@@ -2667,7 +2844,8 @@
     "ted_related_charts_name": "Consumer Price Index",
     "ted_related_charts_url": "https://www.bls.gov/cpi/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Earnings and Wages; Prices"
+    "ted_related_subjects": "Earnings and Wages; Prices",
+    "keywords": "average;earnings;real;hourly;increase;percent;adjusted;change;combined;employees"
 }, {
     "ted_title": "Consumer price changes for home furnishings and household goods and services",
     "ted_url": "https://www.bls.gov/opub/ted/2019/consumer-price-changes-for-home-furnishings-and-household-goods-and-services.htm",
@@ -2682,7 +2860,8 @@
     "ted_related_charts_name": "Charts related to the latest \"U.S. Consumer Price Index\" news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/consumer-price-index/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Prices"
+    "ted_related_subjects": "Prices",
+    "keywords": "percent;consumer;index;march;price;see;services;adjusted;also;charts"
 }, {
     "ted_title": "February 2019 jobless rates down over the year in 283 of 389 metropolitan areas",
     "ted_url": "https://www.bls.gov/opub/ted/2019/february-2019-jobless-rates-down-over-the-year-in-283-of-389-metropolitan-areas.htm",
@@ -2697,7 +2876,8 @@
     "ted_related_charts_name": "Charts related to the latest \"Metropolitan Area Employment and Unemployment\" news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/metro-area-employment-and-unemployment/",
     "ted_related_articles": "Orlando-Kissimmee-Sanford, Florida, led percent job gains among large areas since February 2019",
-    "ted_related_subjects": "Metropolitan Areas and Counties; Unemployment"
+    "ted_related_subjects": "Metropolitan Areas and Counties; Unemployment",
+    "keywords": "rate;areas;large;percentage;unemployment;area;buffalo;census;change;cheektowaga"
 }, {
     "ted_title": "Orlando-Kissimmee-Sanford, Florida, led percent job gains among large areas since February 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/orlando-kissimmee-sanford-florida-led-percent-job-gains-among-large-areas-since-february-2019.htm",
@@ -2712,7 +2892,8 @@
     "ted_related_charts_name": "Charts related to the latest \"Metropolitan Area Employment and Unemployment\" news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/metro-area-employment-and-unemployment/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Metropolitan Areas and Counties; Employment"
+    "ted_related_subjects": "Metropolitan Areas and Counties; Employment",
+    "keywords": "percent;areas;employment;increase;nj;pa;among;arizona;camden;city"
 }, {
     "ted_title": "Reentrants to the labor force 32.2 percent of total unemployed in March 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/reentrants-to-the-labor-force-32-point-2-percent-of-total-unemployed-in-march-2019.htm",
@@ -2727,7 +2908,8 @@
     "ted_related_charts_name": "more charts on employment, unemployment, and the labor force",
     "ted_related_charts_url": "https://www.bls.gov/charts/employment-situation/civilian-unemployment-rate.htm",
     "ted_related_articles": "Employment increased by 196,000 in March 2019",
-    "ted_related_subjects": "Unemployment"
+    "ted_related_subjects": "Unemployment",
+    "keywords": "job;unemployed;accounted;entrants;first;force;labor;leavers;looking;march"
 }, {
     "ted_title": "Employment increased by 196,000 in March 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/employment-increased-by-196000-in-march-2019.htm",
@@ -2742,7 +2924,8 @@
     "ted_related_charts_name": "Graphics for Economic News Releases: The Employment Situation",
     "ted_related_charts_url": "https://www.bls.gov/charts/employment-situation/otm-employment-change-by-industry-confidence-intervals.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Employment; Industry Studies"
+    "ted_related_subjects": "Employment; Industry Studies",
+    "keywords": "employment;march;services;months;care;past;added;continued;health;increased"
 }, {
     "ted_title": "Forty-four percent of civilian workers had access to dental care plans in March 2018",
     "ted_url": "https://www.bls.gov/opub/ted/2019/forty-four-percent-of-civilian-workers-had-access-to-dental-care-plans-in-march-2018.htm",
@@ -2757,7 +2940,8 @@
     "ted_related_charts_name": "glossary of terms",
     "ted_related_charts_url": "https://www.bls.gov/ncs/ebs/national-compensation-survey-glossary-of-employee-benefit-terms.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Benefits; Health Care; Regions and States"
+    "ted_related_subjects": "Benefits; Health Care; Regions and States",
+    "keywords": "percent;access;dental;occupations;plan;rates;related;take;among;business"
 }, {
     "ted_title": "District of Columbia had highest share of employment in nonprofits, Nevada the lowest, in 2017",
     "ted_url": "https://www.bls.gov/opub/ted/2019/district-of-columbia-had-highest-share-of-employment-in-nonprofits-nevada-the-lowest-in-2017.htm",
@@ -2772,7 +2956,8 @@
     "ted_related_charts_name": "Research Data on the Nonprofit Sector",
     "ted_related_charts_url": "https://www.bls.gov/bdm/nonprofits/nonprofits.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Earnings and Wages; Employment; Regions and States"
+    "ted_related_subjects": "Earnings and Wages; Employment; Regions and States",
+    "keywords": "average;wage;weekly;establishments;percent;private;sector;nonprofits;dakota;new"
 }, {
     "ted_title": "21.8 million employed in office and administrative support occupations, May 2018",
     "ted_url": "https://www.bls.gov/opub/ted/2019/21-point-8-million-employed-in-office-and-administrative-support-occupations-may-2018.htm",
@@ -2787,7 +2972,8 @@
     "ted_related_charts_name": "Occupational Employment and Wages — May 2018",
     "ted_related_charts_url": "https://www.bls.gov/news.release/archives/ocwage_03292019.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Employment; Occupations"
+    "ted_related_subjects": "Employment; Occupations",
+    "keywords": "million;workers;food;jobs;occupations;sales;group;including;material;moving"
 }, {
     "ted_title": "Multifactor productivity rose 1.0 percent in 2018",
     "ted_url": "https://www.bls.gov/opub/ted/2019/multifactor-productivity-rose-1-point-0-percent-in-2018.htm",
@@ -2802,7 +2988,8 @@
     "ted_related_charts_name": "Multifactor Productivity Trends — 2018",
     "ted_related_charts_url": "https://www.bls.gov/news.release/archives/prod3_03202019.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Productivity"
+    "ted_related_subjects": "Productivity",
+    "keywords": "contribution;growth;labor;productivity;capital;intensity;period;can;components;composition"
 }, {
     "ted_title": "Unemployment rates declined over the month in 4 states in February 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/unemployment-rates-declined-over-the-month-in-4-states-in-february-2019.htm",
@@ -2817,7 +3004,8 @@
     "ted_related_charts_name": "are available",
     "ted_related_charts_url": "https://www.bls.gov/charts/state-employment-and-unemployment/state-unemployment-rates-animated.htm",
     "ted_related_articles": "Twenty-two states had over-the-year increases in nonfarm payroll employment in February 2019",
-    "ted_related_subjects": "Unemployment; Regions and States"
+    "ted_related_subjects": "Unemployment; Regions and States",
+    "keywords": "percent;dakota;north;rates;vermont;changes;february;jobless;new;rate"
 }, {
     "ted_title": "Twenty-two states had over-the-year increases in nonfarm payroll employment in February 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/twenty-two-states-had-over-the-year-increases-in-nonfarm-payroll-employment-in-february-2019.htm",
@@ -2832,7 +3020,8 @@
     "ted_related_charts_name": "state chart package",
     "ted_related_charts_url": "https://www.bls.gov/charts/state-employment-and-unemployment/state-unemployment-rates-map.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Regions and States; Employment"
+    "ted_related_subjects": "Regions and States; Employment",
+    "keywords": "percent;arizona;employment;followed;gain;largest;nevada;nonfarm;occurred;payroll"
 }, {
     "ted_title": "Labor force participation rate 73.5 percent in 2018 for Gulf War-era II veterans with a disability",
     "ted_url": "https://www.bls.gov/opub/ted/2019/labor-force-participation-rate-73-point-5-percent-in-2018-for-gulf-war-era-2-veterans-with-a-disability.htm",
@@ -2847,7 +3036,8 @@
     "ted_related_charts_name": "more information about veterans",
     "ted_related_charts_url": "https://www.bls.gov/cps/demographics.htm#vets",
     "ted_related_articles": "",
-    "ted_related_subjects": "Disability; Labor Force"
+    "ted_related_subjects": "Disability; Labor Force",
+    "keywords": "percent;disability;rating;veterans;connected;department;force;labor;participation;rate"
 }, {
     "ted_title": "Compensation costs for information industry averaged $57.29 per hour worked in December 2018",
     "ted_url": "https://www.bls.gov/opub/ted/2019/compensation-costs-for-information-industry-averaged-57-29-per-hour-worked-in-december-2018.htm",
@@ -2862,7 +3052,8 @@
     "ted_related_charts_name": "more charts",
     "ted_related_charts_url": "https://www.bls.gov/charts/employer-costs-for-employee-compensation/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Benefits; Compensation Costs; Earnings and Wages; Industry Studies"
+    "ted_related_subjects": "Benefits; Compensation Costs; Earnings and Wages; Industry Studies",
+    "keywords": "averaged;costs;compensation;employer;hour;per;worked;activities;benefit;business"
 }, {
     "ted_title": "Unemployment rate highest in El Centro, California, lowest in Ames, Iowa, January 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/unemployment-rates-highest-in-el-centro-california-lowest-in-ames-iowa-january-2019.htm",
@@ -2877,7 +3068,8 @@
     "ted_related_charts_name": "Charts related to the latest \"Metropolitan Area Employment and Unemployment\" news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/metro-area-employment-and-unemployment/",
     "ted_related_articles": "Midland, Texas, had largest 12-month percentage employment increase, January 2019",
-    "ted_related_subjects": "Metropolitan Areas and Counties; Unemployment"
+    "ted_related_subjects": "Metropolitan Areas and Counties; Unemployment",
+    "keywords": "areas;percentage;rate;year;city;largest;points;unemployment;additional;declines"
 }, {
     "ted_title": "Midland, Texas, had largest 12-month percentage employment increase, January 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/midland-texas-had-largest-12-month-percentage-employment-increase-january-2019.htm",
@@ -2892,7 +3084,8 @@
     "ted_related_charts_name": "charts of metropolitan area employment and unemployment",
     "ted_related_charts_url": "https://www.bls.gov/charts/metro-area-employment-and-unemployment/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Employment; Metropolitan Areas and Counties"
+    "ted_related_subjects": "Employment; Metropolitan Areas and Counties",
+    "keywords": "new;percent;jersey;york;arlington;city;dallas;employment;followed;fort"
 }, {
     "ted_title": "Trade, transportation, and utilities had 1.47 million job openings in January 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/trade-transportation-and-utilities-had-1-point-47-million-job-openings-in-january-2019.htm",
@@ -2907,7 +3100,8 @@
     "ted_related_charts_name": "more charts",
     "ted_related_charts_url": "https://www.bls.gov/charts/job-openings-and-labor-turnover/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Industry Studies; Labor Force"
+    "ted_related_subjects": "Industry Studies; Labor Force",
+    "keywords": "hires;million;january;business;federal;government;hospitality;industries;job;leisure"
 }, {
     "ted_title": "Women had higher median earnings than men in relatively few occupations in 2018",
     "ted_url": "https://www.bls.gov/opub/ted/2019/women-had-higher-median-earnings-than-men-in-relatively-few-occupations-in-2018.htm",
@@ -2922,7 +3116,8 @@
     "ted_related_charts_name": "earnings",
     "ted_related_charts_url": "https://www.bls.gov/cps/earnings.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Earnings and Wages; Men; Women"
+    "ted_related_subjects": "Earnings and Wages; Men; Women",
+    "keywords": "earnings;men’s;women’s;data;median;percent;available;comparable;compared;current"
 }, {
     "ted_title": "U.S. terms of trade with Latin America rise 2.6 percent for year ending February 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/u-s-terms-of-trade-with-latin-america-rise-2-point-6-percent-for-year-ending-february-2019.htm",
@@ -2937,7 +3132,8 @@
     "ted_related_charts_name": "more charts",
     "ted_related_charts_url": "https://www.bls.gov/charts/import-export/",
     "ted_related_articles": "",
-    "ted_related_subjects": "International Comparisons; Prices"
+    "ted_related_subjects": "International Comparisons; Prices",
+    "keywords": "export;import;u.s;america;china;countries;percent;price;prices;terms"
 }, {
     "ted_title": "Producer Price Index for final demand increased 1.9 percent for year ending February 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/producer-price-index-for-final-demand-increased-1-point-9-percent-for-year-ending-february-2019.htm",
@@ -2952,7 +3148,8 @@
     "ted_related_charts_name": "Charts related to the latest “U.S. Producer Price Indexes” news release.",
     "ted_related_charts_url": "https://www.bls.gov/charts/producer-price-index/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Prices"
+    "ted_related_subjects": "Prices",
+    "keywords": "february;percent;demand;final;increased;period;ending;following;increase;index"
 }, {
     "ted_title": "Real average hourly earnings up 1.9 percent over the year ending in February 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/real-average-hourly-earnings-up-1-point-9-percent-over-the-year-ending-in-february-2019.htm",
@@ -2967,7 +3164,8 @@
     "ted_related_charts_name": "Consumer Price Index",
     "ted_related_charts_url": "https://www.bls.gov/cpi/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Earnings and Wages"
+    "ted_related_subjects": "Earnings and Wages",
+    "keywords": "average;earnings;percent;real;hourly;change;combining;decrease;employees;ending"
 }, {
     "ted_title": "Lettuce prices up 15 percent, TV prices down 17 percent over the year ending February 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/lettuce-prices-up-15-percent-tv-prices-down-17-percent-over-the-year-ending-february-2019.htm",
@@ -2982,7 +3180,8 @@
     "ted_related_charts_name": "Charts related to the latest \"U.S. Consumer Price Index\" news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/consumer-price-index/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Prices"
+    "ted_related_subjects": "Prices",
+    "keywords": "percent;decreased;prices;increased;february;women's;apparel;boys;food;items"
 }, {
     "ted_title": "Connecticut has largest over-the-year unemployment rate decrease",
     "ted_url": "https://www.bls.gov/opub/ted/2019/connecticut-has-largest-over-the-year-unemployment-rate-decrease.htm",
@@ -2997,7 +3196,8 @@
     "ted_related_charts_name": "more charts and maps",
     "ted_related_charts_url": "https://www.bls.gov/charts/state-employment-and-unemployment/",
     "ted_related_articles": "Employment growth 3.9 percent in Nevada, January 2018 to January 2019",
-    "ted_related_subjects": "Regions and States; Unemployment"
+    "ted_related_subjects": "Regions and States; Unemployment",
+    "keywords": "unemployment;january;data;employment;percentage;point;rate;state;adjusted;also"
 }, {
     "ted_title": "Employment growth 3.9 percent in Nevada, January 2018 to January 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/employment-growth-3-point-9-percent-in-nevada-january-2018-to-january-2019.htm",
@@ -3012,7 +3212,8 @@
     "ted_related_charts_name": "charts and maps on state employment and unemployment",
     "ted_related_charts_url": "https://www.bls.gov/charts/state-employment-and-unemployment/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Regions and States; Employment"
+    "ted_related_subjects": "Regions and States; Employment",
+    "keywords": "percent;employment;increased;arizona;florida;gains;georgia;january;largest;occurred"
 }, {
     "ted_title": "Employment–population ratio up over the year; labor force participation rate changed little",
     "ted_url": "https://www.bls.gov/opub/ted/2019/employment-population-ratio-up-over-the-year-labor-force-participation-rate-changed-little.htm",
@@ -3027,7 +3228,8 @@
     "ted_related_charts_name": "Charts related to the latest “The Employment Situation” news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/employment-situation/civilian-unemployment-rate.htm",
     "ted_related_articles": "Payroll employment little changed in February 2019",
-    "ted_related_subjects": "Employment; Labor Force"
+    "ted_related_subjects": "Employment; Labor Force",
+    "keywords": "population;employment;percent;participation;rate;ratio;age;force;labor;charts"
 }, {
     "ted_title": "Payroll employment little changed in February 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/payroll-employment-little-changed-in-february-2019.htm",
@@ -3042,7 +3244,8 @@
     "ted_related_charts_name": "Graphics for Economic News Releases: The Employment Situation",
     "ted_related_charts_url": "https://www.bls.gov/charts/employment-situation/otm-employment-change-by-industry-confidence-intervals.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Employment; Industry Studies; Manufacturing"
+    "ted_related_subjects": "Employment; Industry Studies; Manufacturing",
+    "keywords": "employment;february;construction;added;average;continued;declined;jobs;little;month"
 }, {
     "ted_title": "Productivity up 1.8 percent from fourth quarter 2017 to fourth quarter 2018",
     "ted_url": "https://www.bls.gov/opub/ted/2019/productivity-up-1-point-8-percent-from-fourth-quarter-2017-to-fourth-quarter-2018.htm",
@@ -3057,7 +3260,8 @@
     "ted_related_charts_name": "Charts related to the latest \"Productivity and Costs\" news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/productivity-and-costs/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Compensation Costs; Hours; Industry Studies; Manufacturing; Productivity"
+    "ted_related_subjects": "Compensation Costs; Hours; Industry Studies; Manufacturing; Productivity",
+    "keywords": "percent;increased;manufacturing;ago;costs;four;fourth;hours;labor;last"
 }, {
     "ted_title": "Private industry workers with sick leave benefits received 8 days per year at 20 years of service",
     "ted_url": "https://www.bls.gov/opub/ted/2019/private-industry-workers-with-sick-leave-benefits-received-8-days-per-year-at-20-years-of-service.htm",
@@ -3072,7 +3276,8 @@
     "ted_related_charts_name": "National Compensation Survey: Employee Benefits in the United States, March 2018",
     "ted_related_charts_url": "https://www.bls.gov/ncs/ebs/benefits/2018/home.htm",
     "ted_related_articles": "Access to paid and unpaid family leave in 2018; A look at consolidated leave plans in 2018",
-    "ted_related_subjects": "Benefits; Size Of Establishment"
+    "ted_related_subjects": "Benefits; Size Of Establishment",
+    "keywords": "days;sick;year;workers;carry;average;industry;private;received;service"
 }, {
     "ted_title": "Eight major work stoppages in educational services in 2018",
     "ted_url": "https://www.bls.gov/opub/ted/2019/eight-major-work-stoppages-in-educational-services-in-2018.htm",
@@ -3087,7 +3292,8 @@
     "ted_related_charts_name": "supplementary files",
     "ted_related_charts_url": "https://www.bls.gov/web/wkstp.supp.toc.htm",
     "ted_related_articles": "20 major work stoppages in 2018 involving 485,000 workers",
-    "ted_related_subjects": "Industry Studies; Work Stoppages"
+    "ted_related_subjects": "Industry Studies; Work Stoppages",
+    "keywords": "services;stoppages;total;work;days;educational;involved;workers;accommodation;assistance"
 }, {
     "ted_title": "Minnesota, North Dakota, and Nebraska had the highest employment–population ratios in 2018",
     "ted_url": "https://www.bls.gov/opub/ted/2019/minnesota-north-dakota-and-nebraska-had-the-highest-employment-population-ratios-in-2018.htm",
@@ -3102,7 +3308,8 @@
     "ted_related_charts_name": "Regional and State Unemployment – 2018 Annual Averages",
     "ted_related_charts_url": "https://www.bls.gov/news.release/srgune.nr0.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Employment; Regions and States"
+    "ted_related_subjects": "Employment; Regions and States",
+    "keywords": "significant;states;changes;employment;percentage;points;population;ratio;ratios;year"
 }, {
     "ted_title": "New Orleans metro area economic highlights",
     "ted_url": "https://www.bls.gov/opub/ted/2019/new-orleans-metro-area-economic-highlights.htm",
@@ -3117,7 +3324,8 @@
     "ted_related_charts_name": "more charts",
     "ted_related_charts_url": "https://www.bls.gov/charts/metro-area-employment-and-unemployment/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Earnings and Wages; Employment; Industry Studies; Metropolitan Areas and Counties; Regions and States"
+    "ted_related_subjects": "Earnings and Wages; Employment; Industry Studies; Metropolitan Areas and Counties; Regions and States",
+    "keywords": "area;average;data;earnings;employment;hourly;louisiana;national;new;orleans"
 }, {
     "ted_title": "Ice, sleet, and snow-related occupational injury and illness rate down in 2017",
     "ted_url": "https://www.bls.gov/opub/ted/2019/ice-sleet-and-snow-related-occupational-injury-and-illness-rate-down-in-2017.htm",
@@ -3132,7 +3340,8 @@
     "ted_related_charts_name": "Employer-Reported Workplace Injuries and Illnesses — 2017",
     "ted_related_charts_url": "https://www.bls.gov/news.release/archives/osh_11082018.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Regions and States; Occupational Safety and Health"
+    "ted_related_subjects": "Regions and States; Occupational Safety and Health",
+    "keywords": "cases;full;incidence;new;per;percent;rate;time;workers;york"
 }, {
     "ted_title": "Employment of people with a disability in 2018",
     "ted_url": "https://www.bls.gov/opub/ted/2019/employment-of-people-with-a-disability-in-2018.htm",
@@ -3147,7 +3356,8 @@
     "ted_related_charts_name": "Demographics: Disability",
     "ted_related_charts_url": "https://www.bls.gov/cps/demographics.htm#disability",
     "ted_related_articles": "",
-    "ted_related_subjects": "Disability; Employment"
+    "ted_related_subjects": "Disability; Employment",
+    "keywords": "disability;people;percent;likely;compared;less;occupations;age;employed;groups"
 }, {
     "ted_title": "Job requirements for veterinary technologists and technicians",
     "ted_url": "https://www.bls.gov/opub/ted/2019/job-requirements-for-veterinary-technologists-and-technicians.htm",
@@ -3162,7 +3372,8 @@
     "ted_related_charts_name": "XLSX",
     "ted_related_charts_url": "https://www.bls.gov/ncs/ors/2017_excel_output.xlsx",
     "ted_related_articles": "",
-    "ted_related_subjects": "Education and Training; Occupations"
+    "ted_related_subjects": "Education and Training; Occupations",
+    "keywords": "illnesses;industry;injuries;private;veterinary;work;additionally;animal;animals;assist"
 }, {
     "ted_title": "Access to paid and unpaid family leave in 2018",
     "ted_url": "https://www.bls.gov/opub/ted/2019/access-to-paid-and-unpaid-family-leave-in-2018.htm",
@@ -3177,7 +3388,8 @@
     "ted_related_charts_name": "fact sheet",
     "ted_related_charts_url": "https://www.bls.gov/ncs/ebs/factsheet/family-leave-benefits-fact-sheet.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Benefits; Size Of Establishment"
+    "ted_related_subjects": "Benefits; Size Of Establishment",
+    "keywords": "leave;percent;access;family;workers;paid;unpaid;establishments;largest;smallest"
 }, {
     "ted_title": "Black women made up 53 percent of the Black labor force in 2018",
     "ted_url": "https://www.bls.gov/opub/ted/2019/black-women-made-up-53-percent-of-the-black-labor-force-in-2018.htm",
@@ -3192,7 +3404,8 @@
     "ted_related_charts_name": "our demographics page",
     "ted_related_charts_url": "https://www.bls.gov/cps/demographics.htm#race",
     "ted_related_articles": "Rising educational attainment among Blacks or African Americans in the labor force, 1992 to 2018",
-    "ted_related_subjects": "Men; Women; Labor Force"
+    "ted_related_subjects": "Men; Women; Labor Force",
+    "keywords": "black;force;labor;percent;women;rose;total;around;decades;however"
 }, {
     "ted_title": "Employment among 10 largest counties, September 2017 to September 2018",
     "ted_url": "https://www.bls.gov/opub/ted/2019/employment-among-10-largest-counties-september-2017-to-september-2018.htm",
@@ -3207,7 +3420,8 @@
     "ted_related_charts_name": "data viewer tool",
     "ted_related_charts_url": "https://www.bls.gov/cew/apps/data_views/data_views.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Employment; Industry Studies; Metropolitan Areas and Counties"
+    "ted_related_subjects": "Employment; Industry Studies; Metropolitan Areas and Counties",
+    "keywords": "employment;maricopa;percent;year;arizona;construction;ending;gain;increased;september"
 }, {
     "ted_title": "Hawaii and New York had highest union membership rates, the Carolinas the lowest, in 2018",
     "ted_url": "https://www.bls.gov/opub/ted/2019/hawaii-and-new-york-had-highest-union-membership-rates-the-carolinas-the-lowest-in-2018.htm",
@@ -3222,7 +3436,8 @@
     "ted_related_charts_name": "Union Members — 2018",
     "ted_related_charts_url": "https://www.bls.gov/news.release/archives/union2_01182019.htm",
     "ted_related_articles": "Union membership rate 10.5 percent in 2018, down from 20.1 percent in 1983",
-    "ted_related_subjects": "Collective Bargaining; Employment; Regions and States"
+    "ted_related_subjects": "Collective Bargaining; Employment; Regions and States",
+    "keywords": "million;states;percent;union;california;lived;members;new;rates;york"
 }, {
     "ted_title": "Import prices down 1.7 percent over the past 12 months",
     "ted_url": "https://www.bls.gov/opub/ted/2019/import-prices-down-1-point-7-percent-over-the-past-12-months.htm",
@@ -3237,7 +3452,8 @@
     "ted_related_charts_name": "Charts related to the latest \"U.S. Import and Export Price Indexes\" news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/import-export/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Industry Studies; Prices"
+    "ted_related_subjects": "Industry Studies; Prices",
+    "keywords": "percent;goods;imports;prices;accounted;consumer;industrial;january;materials;period"
 }, {
     "ted_title": "Producer Price Index for final demand increased 2.0 percent for the year ended January 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/producer-price-index-for-final-demand-increased-2-point-0-percent-for-the-year-ended-january-2019.htm",
@@ -3252,7 +3468,8 @@
     "ted_related_charts_name": "Charts related to the latest \"U.S. Producer Price Indexes\" news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/producer-price-index/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Prices"
+    "ted_related_subjects": "Prices",
+    "keywords": "percent;energy;increased;january;services;demand;final;index;changes;consumer"
 }, {
     "ted_title": "Consumer prices up 1.6 percent over 12 months ending January 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/consumer-prices-up-1-point-6-percent-over-12-months-ended-january-2019.htm",
@@ -3267,7 +3484,8 @@
     "ted_related_charts_name": "Charts related to the latest \"U.S. Consumer Price Index\" news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/consumer-price-index/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Prices"
+    "ted_related_subjects": "Prices",
+    "keywords": "percent;index;months;rose;past;food;energy;indexes;span;decline"
 }, {
     "ted_title": "Real average hourly earnings increase 1.7 percent over the year ending January 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/real-average-hourly-earnings-increase-1-point-7-percent-over-the-year-ending-january-2019.htm",
@@ -3282,7 +3500,8 @@
     "ted_related_charts_name": "Consumer Price Index",
     "ted_related_charts_url": "https://www.bls.gov/cpi/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Earnings and Wages"
+    "ted_related_subjects": "Earnings and Wages",
+    "keywords": "average;earnings;percent;real;hourly;change;combining;decrease;employees;ending"
 }, {
     "ted_title": "Quits by industry, 2008 to 2018",
     "ted_url": "https://www.bls.gov/opub/ted/2019/quits-by-industry-2008-to-2018.htm",
@@ -3297,7 +3516,8 @@
     "ted_related_charts_name": "more charts",
     "ted_related_charts_url": "https://www.bls.gov/charts/job-openings-and-labor-turnover/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Labor Force; Industry Studies"
+    "ted_related_subjects": "Labor Force; Industry Studies",
+    "keywords": "quits;december;percent;also;decrease;decreased;federal;fell;government;increase"
 }, {
     "ted_title": "Rising educational attainment among Blacks or African Americans in the labor force, 1992 to 2018",
     "ted_url": "https://www.bls.gov/opub/ted/2019/rising-educational-attainment-among-blacks-or-african-americans-in-the-labor-force-1992-to-2018.htm",
@@ -3312,7 +3532,8 @@
     "ted_related_charts_name": "our demographics page",
     "ted_related_charts_url": "https://www.bls.gov/cps/demographics.htm#race",
     "ted_related_articles": "",
-    "ted_related_subjects": "Education and Training; Labor Force"
+    "ted_related_subjects": "Education and Training; Labor Force",
+    "keywords": "percent;blacks;degree;rate;college;force;high;labor;school;age"
 }, {
     "ted_title": "20 major work stoppages in 2018 involving 485,000 workers",
     "ted_url": "https://www.bls.gov/opub/ted/2019/20-major-work-stoppages-in-2018-involving-485000-workers.htm",
@@ -3327,7 +3548,8 @@
     "ted_related_charts_name": "Major Work Stoppages in 2018",
     "ted_related_charts_url": "https://www.bls.gov/news.release/archives/wkstp_02082019.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Work Stoppages"
+    "ted_related_subjects": "Work Stoppages",
+    "keywords": "days;involved;stoppage;work;idle;accounting;arizona;association;beginning;education"
 }, {
     "ted_title": "Consumer Price Index: 2018 in review",
     "ted_url": "https://www.bls.gov/opub/ted/2019/consumer-price-index-2018-in-review.htm",
@@ -3342,7 +3564,8 @@
     "ted_related_charts_name": "more charts on consumer prices",
     "ted_related_charts_url": "https://www.bls.gov/charts/consumer-price-index/",
     "ted_related_articles": "Consumer Price Index rose 1.9 percent over the year ending December 2018, as energy prices fell",
-    "ted_related_subjects": "Health Care; Prices"
+    "ted_related_subjects": "Health Care; Prices",
+    "keywords": "percent;prices;increased;december;fell;food;increase;rising;rose;following"
 }, {
     "ted_title": "December 2018 jobless rates down over the year in 250 of 388 metropolitan areas",
     "ted_url": "https://www.bls.gov/opub/ted/2019/december-2018-jobless-rates-down-over-the-year-in-250-of-388-metropolitan-areas.htm",
@@ -3357,7 +3580,8 @@
     "ted_related_charts_name": "Charts related to the latest \"Metropolitan Area Employment and Unemployment\" news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/metro-area-employment-and-unemployment/",
     "ted_related_articles": "Midland, Colorado Springs, and Reno had largest percent employment gains in 2018",
-    "ted_related_subjects": "Metropolitan Areas and Counties; Unemployment"
+    "ted_related_subjects": "Metropolitan Areas and Counties; Unemployment",
+    "keywords": "areas;rate;percent;rates;december;percentage;unemployment;city;largest;points"
 }, {
     "ted_title": "Midland, Colorado Springs, and Reno had largest percent employment gains in 2018",
     "ted_url": "https://www.bls.gov/opub/ted/2019/midland-colorado-springs-and-reno-had-largest-percent-employment-gains-in-2018.htm",
@@ -3372,7 +3596,8 @@
     "ted_related_charts_name": "more charts",
     "ted_related_charts_url": "https://www.bls.gov/charts/metro-area-employment-and-unemployment/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Metropolitan Areas and Counties"
+    "ted_related_subjects": "Metropolitan Areas and Counties",
+    "keywords": "areas;employment;percent;metropolitan;texas;arizona;austin;census;december;ending"
 }, {
     "ted_title": "Number of unemployed on temporary layoff increase by 175,000 in January 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/number-of-unemployed-on-temporary-layoff-increase-by-175000-in-january-2019.htm",
@@ -3387,7 +3612,8 @@
     "ted_related_charts_name": "more charts on employment, unemployment, and the labor force",
     "ted_related_charts_url": "https://www.bls.gov/charts/employment-situation/civilian-unemployment-rate.htm",
     "ted_related_articles": "Nonfarm payroll employment increased by 304,000 in January 2019",
-    "ted_related_subjects": "Labor Force; Unemployment"
+    "ted_related_subjects": "Labor Force; Unemployment",
+    "keywords": "job;people;percent;unemployed;began;january;jobs;new;reentrants;temporary"
 }, {
     "ted_title": "Nonfarm payroll employment increased by 304,000 in January 2019",
     "ted_url": "https://www.bls.gov/opub/ted/2019/nonfarm-payroll-employment-increased-by-304000-in-january-2019.htm",
@@ -3402,7 +3628,8 @@
     "ted_related_charts_name": "Graphics for Economic News Releases: The Employment Situation",
     "ted_related_charts_url": "https://www.bls.gov/charts/employment-situation/otm-employment-change-by-industry-confidence-intervals.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Employment"
+    "ted_related_subjects": "Employment",
+    "keywords": "employment;january;added;jobs;months;pay;rose;change;federal;government"
 }, {
     "ted_title": "Compensation costs for private industry workers up 3.0 percent in 2018",
     "ted_url": "https://www.bls.gov/opub/ted/2019/compensation-costs-for-private-industry-workers-up-3-point-0-percent-in-2018.htm",
@@ -3417,7 +3644,8 @@
     "ted_related_charts_name": "Employment Cost Index",
     "ted_related_charts_url": "https://www.bls.gov/charts/employment-cost-index/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Benefits; Compensation Costs; Earnings and Wages; Health Care"
+    "ted_related_subjects": "Benefits; Compensation Costs; Earnings and Wages; Health Care",
+    "keywords": "percent;december;increased;costs;ending;month;period;benefit;compensation;government"
 }, {
     "ted_title": "Professional and business services only industry to gain over 100,000 jobs in second quarter 2018",
     "ted_url": "https://www.bls.gov/opub/ted/2019/professional-and-business-services-only-industry-to-gain-over-100000-jobs-in-second-quarter-2018.htm",
@@ -3432,7 +3660,8 @@
     "ted_related_charts_name": "charts related to the latest \"Business Employment Dynamics\" news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/business-employment-dynamics/job-gains-job-losses-most-recent-quarter.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Employment"
+    "ted_related_subjects": "Employment",
+    "keywords": "job;business;gains;industry;jobs;net;establishments;gross;loss;resulted"
 }, {
     "ted_title": "Nonfatal injuries and illnesses in finance and insurance down slightly in 2017",
     "ted_url": "https://www.bls.gov/opub/ted/2019/nonfatal-injuries-and-illnesses-in-finance-and-insurance-down-slightly-in-2017.htm",
@@ -3447,7 +3676,8 @@
     "ted_related_charts_name": "cases involving days of job transfer or restriction",
     "ted_related_charts_url": "https://www.bls.gov/iif/days-of-job-transfer-or-restriction.htm",
     "ted_related_articles": "Rate of nonfatal workplace injuries and illnesses decreased in aircraft manufacturing in 2017",
-    "ted_related_subjects": "Industry Studies; Occupational Safety and Health"
+    "ted_related_subjects": "Industry Studies; Occupational Safety and Health",
+    "keywords": "cases;falls;slips;trips;among;away;days;total;women;work"
 }, {
     "ted_title": "Rate of nonfatal workplace injuries and illnesses decreased in aircraft manufacturing in 2017",
     "ted_url": "https://www.bls.gov/opub/ted/2019/rate-of-nonfatal-workplace-injuries-and-illnesses-decreased-in-aircraft-manufacturing-in-2017.htm",
@@ -3462,7 +3692,8 @@
     "ted_related_charts_name": "Employer-reported Workplace Injuries and Illnesses — 2017",
     "ted_related_charts_url": "https://www.bls.gov/news.release/archives/osh_11082018.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Disability; Occupational Safety and Health"
+    "ted_related_subjects": "Disability; Occupational Safety and Health",
+    "keywords": "bending;illnesses;injuries;nonfatal;occupational;overexertion;pulling;pushing;resulting;aircraft"
 }, {
     "ted_title": "A look at consolidated leave plans in 2018",
     "ted_url": "https://www.bls.gov/opub/ted/2019/a-look-at-consolidated-leave-plans-in-2018.htm",
@@ -3477,7 +3708,8 @@
     "ted_related_charts_name": "holiday profiles",
     "ted_related_charts_url": "https://www.bls.gov/ncs/ebs/holiday_profiles.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Benefits; Occupations"
+    "ted_related_subjects": "Benefits; Occupations",
+    "keywords": "days;service;paid;workers;consolidated;increased;leave;percent;plans;vacations"
 }, {
     "ted_title": "Private employer costs for pay and benefits were $42.06 in New England in September 2018",
     "ted_url": "https://www.bls.gov/opub/ted/2019/private-employer-costs-for-pay-and-benefits-were-42-point-06-in-new-england-in-september-2018.htm",
@@ -3492,7 +3724,8 @@
     "ted_related_charts_name": "more charts",
     "ted_related_charts_url": "https://www.bls.gov/charts/employer-costs-for-employee-compensation/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Benefits; Compensation Costs; Earnings and Wages; Regions and States"
+    "ted_related_subjects": "Benefits; Compensation Costs; Earnings and Wages; Regions and States",
+    "keywords": "compensation;costs;percent;accounted;employee;employer;salaries;september;states;total"
 }, {
     "ted_title": "Union membership rate 10.5 percent in 2018, down from 20.1 percent in 1983",
     "ted_url": "https://www.bls.gov/opub/ted/2019/union-membership-rate-10-point-5-percent-in-2018-down-from-20-point-1-percent-in-1983.htm",
@@ -3507,7 +3740,8 @@
     "ted_related_charts_name": "Union Members — 2018",
     "ted_related_charts_url": "https://www.bls.gov/news.release/archives/union2_01182019.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Collective Bargaining; Employment; Men; Women"
+    "ted_related_subjects": "Collective Bargaining; Employment; Men; Women",
+    "keywords": "percent;rate;continued;higher;membership;men;union;women;workers;asian"
 }, {
     "ted_title": "Unemployment rates down over the year in 14 states, unchanged in 36 states and District of Columbia",
     "ted_url": "https://www.bls.gov/opub/ted/2019/unemployment-rates-down-over-the-year-in-14-states-unchanged-in-36-states-and-district-of-columbia.htm",
@@ -3522,7 +3756,8 @@
     "ted_related_charts_name": "state chart package",
     "ted_related_charts_url": "https://www.bls.gov/charts/state-employment-and-unemployment/state-unemployment-rates-map.htm",
     "ted_related_articles": "District of Columbia had highest increase in average hourly earnings over year ended December 2018",
-    "ted_related_subjects": "Regions and States; Unemployment"
+    "ted_related_subjects": "Regions and States; Unemployment",
+    "keywords": "states;percent;rate;rates;alaska;carolina;jobless;percentage;unemployment;year"
 }, {
     "ted_title": "District of Columbia had highest increase in average hourly earnings over year ended December 2018",
     "ted_url": "https://www.bls.gov/opub/ted/2019/district-of-columbia-had-highest-increase-in-average-hourly-earnings-over-year-ended-december-2018.htm",
@@ -3537,7 +3772,8 @@
     "ted_related_charts_name": "state chart package",
     "ted_related_charts_url": "https://www.bls.gov/charts/state-employment-and-unemployment/state-unemployment-rates-map.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Earnings and Wages; Regions and States"
+    "ted_related_subjects": "Earnings and Wages; Regions and States",
+    "keywords": "percent;average;connecticut;december;earnings;equal;greater;hawaii;hourly;increases"
 }, {
     "ted_title": "Median usual weekly earnings of men and women, 2010 to 2018",
     "ted_url": "https://www.bls.gov/opub/ted/2019/median-usual-weekly-earnings-of-men-and-women-2010-to-2018.htm",
@@ -3552,7 +3788,8 @@
     "ted_related_charts_name": "Charts related to the latest \"Usual Weekly Earnings\" news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/usual-weekly-earnings/usual-weekly-earnings-over-time-total-men-women.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Earnings and Wages; Men; Women"
+    "ted_related_subjects": "Earnings and Wages; Men; Women",
+    "keywords": "earnings;adjusted;compared;constant;dollar;fourth;median;men's;quarter;seasonally"
 }, {
     "ted_title": "Import prices from Canada down 6.1 percent in 2018",
     "ted_url": "https://www.bls.gov/opub/ted/2019/import-prices-from-canada-down-6-1-percent-in-2018.htm",
@@ -3567,7 +3804,8 @@
     "ted_related_charts_name": "Charts related to the latest \"U.S. Import and Export Price Indexes\" news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/import-export/",
     "ted_related_articles": "",
-    "ted_related_subjects": "International Comparisons; Prices"
+    "ted_related_subjects": "International Comparisons; Prices",
+    "keywords": "percent;prices;calendar;decreased;import;imports;since;year;advancing;basis"
 }, {
     "ted_title": "Producer Price Index for final demand increased 2.5 percent in 2018",
     "ted_url": "https://www.bls.gov/opub/ted/2019/producer-price-index-for-final-demand-increased-2-point-5-percent-in-2018.htm",
@@ -3582,7 +3820,8 @@
     "ted_related_charts_name": "Charts related to the latest \"U.S. Producer Price Indexes\" news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/producer-price-index/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Prices"
+    "ted_related_subjects": "Prices",
+    "keywords": "percent;demand;final;increased;following;increase;index;services;december;ending"
 }, {
     "ted_title": "Real average hourly earnings increase 1.1 percent over the year ending December 2018",
     "ted_url": "https://www.bls.gov/opub/ted/2019/real-average-hourly-earnings-increase-1-point-1-percent-over-the-year-ending-december-2018.htm",
@@ -3597,7 +3836,8 @@
     "ted_related_charts_name": "Consumer Price Index",
     "ted_related_charts_url": "https://www.bls.gov/cpi/",
     "ted_related_articles": "Consumer Price Index rose 1.9 percent over the year ending December 2018, as energy prices fell",
-    "ted_related_subjects": "Earnings and Wages"
+    "ted_related_subjects": "Earnings and Wages",
+    "keywords": "average;earnings;percent;real;hourly;change;combining;december;decrease;employees"
 }, {
     "ted_title": "Consumer Price Index rose 1.9 percent over the year ending December 2018, as energy prices fell",
     "ted_url": "https://www.bls.gov/opub/ted/2019/consumer-price-index-rose-1-9-percent-over-the-year-ending-december-2018-as-energy-prices-fell.htm",
@@ -3612,7 +3852,8 @@
     "ted_related_charts_name": "more charts on the latest Consumer Price Index news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/consumer-price-index/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Prices"
+    "ted_related_subjects": "Prices",
+    "keywords": "consumer;december;index;percent;price;prices;rose;energy;food;adjusted"
 }, {
     "ted_title": "Lower-wage workers pay more than higher-wage workers for employer-provided medical care benefits",
     "ted_url": "https://www.bls.gov/opub/ted/2019/lower-wage-workers-pay-more-than-higher-wage-workers-for-employer-provided-medical-care-benefits.htm",
@@ -3627,7 +3868,8 @@
     "ted_related_charts_name": "glossary of employee benefit terms",
     "ted_related_charts_url": "https://www.bls.gov/ncs/ebs/national-compensation-survey-glossary-of-employee-benefit-terms.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Benefits; Earnings and Wages; Health Care"
+    "ted_related_subjects": "Benefits; Earnings and Wages; Health Care",
+    "keywords": "medical;workers;care;wage;coverage;plans;paid;premiums;contributions;employers"
 }, {
     "ted_title": "Job openings fell to 6.9 million in November 2018",
     "ted_url": "https://www.bls.gov/opub/ted/2019/job-openings-fell-to-6-point-9-million-in-november-2018.htm",
@@ -3642,7 +3884,8 @@
     "ted_related_charts_name": "more charts",
     "ted_related_charts_url": "https://www.bls.gov/charts/job-openings-and-labor-turnover/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Employment"
+    "ted_related_subjects": "Employment",
+    "keywords": "total;number;changed;decreased;government;job;little;openings;services;hires"
 }, {
     "ted_title": "Among large metro areas, Minneapolis-St. Paul-Bloomington had lowest jobless rate in November 2018",
     "ted_url": "https://www.bls.gov/opub/ted/2019/among-large-metro-areas-minneapolis-st-paul-bloomington-had-lowest-jobless-rate-in-november-2018.htm",
@@ -3657,7 +3900,8 @@
     "ted_related_charts_name": "Charts and maps on metropolitan area employment and unemployment",
     "ted_related_charts_url": "https://www.bls.gov/charts/metro-area-employment-and-unemployment/",
     "ted_related_articles": "Employment rose 5.9 percent in Reno, Nevada, from November 2017 to November 2018",
-    "ted_related_subjects": "Metropolitan Areas and Counties; Unemployment"
+    "ted_related_subjects": "Metropolitan Areas and Counties; Unemployment",
+    "keywords": "percent;november;rate;areas;unemployment;large;metropolitan;year;hartford;new"
 }, {
     "ted_title": "Official unemployment rate was 3.9 percent in December 2018; U-6 was 7.6 percent",
     "ted_url": "https://www.bls.gov/opub/ted/2019/official-unemployment-rate-was-3-point-9-percent-in-december-2018-u-6-was-7-point-6-percent.htm",
@@ -3672,7 +3916,8 @@
     "ted_related_charts_name": "more charts",
     "ted_related_charts_url": "https://www.bls.gov/charts/employment-situation/",
     "ted_related_articles": "Payroll employment rose 2.6 million in 2018",
-    "ted_related_subjects": "Employment; Hours; Labor Force; Unemployment"
+    "ted_related_subjects": "Employment; Hours; Labor Force; Unemployment",
+    "keywords": "u;people;time;rate;work;labor;part;always;attached;broad"
 }, {
     "ted_title": "Payroll employment rose 2.6 million in 2018",
     "ted_url": "https://www.bls.gov/opub/ted/2019/payroll-employment-rose-2-point-6-million-in-2018.htm",
@@ -3687,7 +3932,8 @@
     "ted_related_charts_name": "Graphics for Economic News Releases: The Employment Situation",
     "ted_related_charts_url": "https://www.bls.gov/charts/employment-situation/otm-employment-change-by-industry-confidence-intervals.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Employment"
+    "ted_related_subjects": "Employment",
+    "keywords": "percent;employment;increased;jobs;year;adding;compared;gain;health;services"
 }, {
     "ted_title": "Employment rose 5.9 percent in Reno, Nevada, from November 2017 to November 2018",
     "ted_url": "https://www.bls.gov/opub/ted/2019/employment-rose-5-point-9-percent-in-reno-nevada-from-november-2017-to-november-2018.htm",
@@ -3702,7 +3948,8 @@
     "ted_related_charts_name": "more charts",
     "ted_related_charts_url": "https://www.bls.gov/charts/metro-area-employment-and-unemployment/",
     "ted_related_articles": "",
-    "ted_related_subjects": "Employment; Metropolitan Areas and Counties"
+    "ted_related_subjects": "Employment; Metropolitan Areas and Counties",
+    "keywords": "areas;employment;percent;metropolitan;year;arizona;census;essentially;florida;henderson"
 }, {
     "ted_title": "43.9 percent of private employment in business establishments at least 25 years old",
     "ted_url": "https://www.bls.gov/opub/ted/2019/43-point-9-percent-of-private-employment-in-business-establishments-at-least-25-years-old.htm",
@@ -3717,7 +3964,8 @@
     "ted_related_charts_name": "charts related to the latest \"Business Employment Dynamics\" news release",
     "ted_related_charts_url": "https://www.bls.gov/charts/business-employment-dynamics/job-gains-job-losses-most-recent-quarter.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Employment; Industry Studies"
+    "ted_related_subjects": "Employment; Industry Studies",
+    "keywords": "percent;employment;march;opened;total;establishments;less;manufacturing;services;worked"
 }, {
     "ted_title": "Workplace injuries and illnesses resulting in job transfer or restriction in 2017",
     "ted_url": "https://www.bls.gov/opub/ted/2019/workplace-injuries-and-illnesses-resulting-in-job-transfer-or-restriction-in-2017.htm",
@@ -3732,7 +3980,8 @@
     "ted_related_charts_name": "cases involving days of job transfer or restriction",
     "ted_related_charts_url": "https://www.bls.gov/iif/days-of-job-transfer-or-restriction.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Manufacturing; Occupational Safety and Health; Industry Studies"
+    "ted_related_subjects": "Manufacturing; Occupational Safety and Health; Industry Studies",
+    "keywords": "away;days;fractures;job;restriction;transfer;work;cases;crop;cuts"
 }, {
     "ted_title": "Hoping to find some fair fares? A look at air passenger costs",
     "ted_url": "https://www.bls.gov/opub/ted/2019/hoping-to-find-some-fair-fares-a-look-at-air-passenger-costs.htm",
@@ -3747,5 +3996,6 @@
     "ted_related_charts_name": "import and export prices",
     "ted_related_charts_url": "https://www.bls.gov/charts/import-export/air-passenger-fares-12-month-percent-change.htm",
     "ted_related_articles": "",
-    "ted_related_subjects": "Consumer Expenditures; International Comparisons; Prices"
+    "ted_related_subjects": "Consumer Expenditures; International Comparisons; Prices",
+    "keywords": "fares;percent;november;carriers;export;passenger;air;april;asia;foreign"
 }]
