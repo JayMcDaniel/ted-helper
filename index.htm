@@ -40,6 +40,20 @@
                     teplate text to the form. Hover over a chart to enlarge it. Click on a chart to visit that TED.</p>
 
 
+                    <div class="input-group mb-3">
+                        <span class="input-group-text">Program Office</span>
+                        <input id="input_ted_program" type="text" class="form-control" aria-label="TED Program input"
+                            data-helpers="ted_program_helper;ted_title_helper" aria-describedby="input_ted_program"
+                            placeholder="(This will look at your TED title for suggestions)">
+                        <i class="fas fa-copy fa-lg" title="Copy to clipboard"></i>
+                    </div>
+    
+                    <div id="ted_program_helper" class="helper_div">
+                        <h2>Suggested Program Offices <a href="#" class="hide_button">Hide</a></h2>
+                        
+                        <div id="ted_program_helper_output" class="output_div"></div>
+                    </div>
+
                 <div class="input-group mb-3">
                     <span class="input-group-text">TED Title</span>
                     <input id="input_ted_title" type="text" class="form-control" aria-label="TED Title input"
@@ -55,21 +69,7 @@
                     <i class="fas fa-copy fa-lg" title="Copy to clipboard"></i>
                 </div>
 
-                <div class="input-group mb-3">
-                    <span class="input-group-text">Program Office</span>
-                    <input id="input_ted_program" type="text" class="form-control" aria-label="TED Program input"
-                        data-helpers="ted_program_helper;ted_title_helper" aria-describedby="input_ted_program"
-                        placeholder="(This will look at your TED title for suggestions)">
-                    <i class="fas fa-copy fa-lg" title="Copy to clipboard"></i>
-                </div>
-
-                <div id="ted_program_helper" class="helper_div">
-                    <h2>Suggested Program Offices <a href="#" class="hide_button">Hide</a></h2>
-                    
-                    <div id="ted_program_helper_output" class="output_div"></div>
-                </div>
-
-
+               
                 <div class="input-group mb-3">
                     <span class="input-group-text">Office URL</span>
                     <input id="input_ted_office_url" type="text" class="form-control" aria-label="TED Office URL"
