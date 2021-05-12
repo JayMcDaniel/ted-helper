@@ -65,7 +65,8 @@ function removeDuplicates(obj_arr, key) {
 //function returns commonly used regexes
 function getTextRegex(o) {
 
-    var text_for_re = o.text_for_re || "";
+    var text_for_re = o.text_for_re.replace(/\+|\*/g,"") || "";
+
     var text_for_string = o.text_for_string || "";
     var type = o.type;
     var replacement_string = o.replacement_string || "";
@@ -89,7 +90,7 @@ function getTextRegex(o) {
     }
 
     if (type === "helper") { //used to enter text in input from helper click
-        regex = /\,|\+|\-|−|\d|_|\$|(?:Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|Jun(?:e)?|Jul(?:y)?|Aug(?:ust)?|Sep(?:tember)?|Oct(?:ober)?|(Nov|Dec)(?:ember)?)/g;
+        regex = /\,\d+|\d|_|\$|(?:Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|Jun(?:e)?|Jul(?:y)?|Aug(?:ust)?|Sep(?:tember)?|Oct(?:ober)?|(Nov|Dec)(?:ember)?)/g;
     }
 
 
@@ -182,7 +183,7 @@ function bindChartImageHover() {
 
 //updates systemURL text - called when TED title is changed
 function updateSystemURL(text) {
-    text = text.replace(/[ \'\"\.\(\)%;\,]/g, "-").toLowerCase();
+    text = text.replace(/[ \'\"\.\(\)%;\,\s*]/g, "-").replace(/\-+/g, "-").toLowerCase();
     $("#input_system_url").val(text);
 }
 
