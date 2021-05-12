@@ -133,15 +133,20 @@ function bindCopyToClipboard() {
 }
 
 
-//bind helper p clicks
+//bind helper clicks
 function bindHelperClick() {
-    $(".helper_div p").unbind().click(function () {
+    $(".add_suggestion_button").unbind().click(function (ev) {
 
-        var input_id = $(this).attr("data-rel");
+        ev.preventDefault();
+
+        var this_p = $(this).parent();
+
+        var input_id = this_p.attr("data-rel");
 
         if (input_id) {
             var input_area = $("#" + input_id);
-            var new_text = $(this).attr("data-add") === "true" ? input_area.val() + "\n" + $(this).text() : $(this).text();
+            var new_text = this_p.attr("data-add") === "true" ? input_area.val() + "\n" + this_p.text() : this_p.text();
+            new_text = new_text.replace("[+]", "");
 
             new_text = getTextRegex({
                 text_for_re: new_text,
@@ -154,7 +159,7 @@ function bindHelperClick() {
 
 
             $([document.documentElement, document.body]).animate({
-                scrollTop: input_area.offset().top - 20
+                scrollTop: input_area.offset().top - 60
             }, 500);
             input_area.focus();
 
@@ -255,7 +260,7 @@ function insertSuggestions(o) {
 
         unique_suggestions.forEach(suggestion => {
             if (suggestion != "") {
-                $("#" + o.div_id).append($("<p data-rel='" + o.data_rel + "' data-add='" + o.data_add + "'>" + suggestion + "</p>"));
+                $("#" + o.div_id).append($("<p data-rel='" + o.data_rel + "' data-add='" + o.data_add + "'><a href='#' class='add_suggestion_button' title='Add text'>[+]</a>" + suggestion + "</p>"));
             }
         });
     }
@@ -321,7 +326,7 @@ function updateSimilarTEDtitles(title_text, program_office_text) {
         ted_helper_output.parent().show();
 
         suggestions.forEach(function (TED_obj) {
-            $("#ted_title_helper_output").append("<div class='row' data-searchables='" + TED_obj.ted_program_name.toLowerCase() + ";" + TED_obj.ted_title.toLowerCase() + ";" + TED_obj.ted_table_title.toLowerCase() + ";" + TED_obj.ted_related_subjects.toLowerCase() + "'><h3>" + TED_obj.ted_date + "</h3><div class='col-6'><p data-rel='input_ted_title'>" + TED_obj.ted_title + "</p></div> <div class='col-6'> <a href='" + TED_obj.ted_url + "' target='_blank'> <img src='images/" + TED_obj.ted_image_name + "' alt='" + TED_obj.ted_table_title + "' title='" + TED_obj.ted_table_title + "' data-toggle='tooltip'/></a></div></div>");
+            $("#ted_title_helper_output").append("<div class='row' data-searchables='" + TED_obj.ted_program_name.toLowerCase() + ";" + TED_obj.ted_title.toLowerCase() + ";" + TED_obj.ted_table_title.toLowerCase() + ";" + TED_obj.ted_related_subjects.toLowerCase() + "'><h3>" + TED_obj.ted_date + "</h3><div class='col-6'><p data-rel='input_ted_title'><a href='#' class='add_suggestion_button' title='Add text'>[+]</a>" + TED_obj.ted_title + "</p></div> <div class='col-6'> <a href='" + TED_obj.ted_url + "' target='_blank'> <img src='images/" + TED_obj.ted_image_name + "' alt='" + TED_obj.ted_table_title + "' title='" + TED_obj.ted_table_title + "' data-toggle='tooltip'/></a></div></div>");
 
         });
 
