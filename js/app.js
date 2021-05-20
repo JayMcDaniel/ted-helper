@@ -641,7 +641,7 @@ function buildBodyHTML() {
 
         }).join("")
         //replace common html characters
-        .replace(/-/g, "&minus;") 
+        .replace(/-(\d+)/g, "&minus;$1") 
         .replace(/“|”/g, '"')
 
         
