@@ -65,7 +65,7 @@ function removeDuplicates(obj_arr, key) {
 //function returns commonly used regexes
 function getTextRegex(o) {
 
-    var text_for_re = o.text_for_re.replace(/\+|\*/g,"") || "";
+    var text_for_re = o.text_for_re.replace(/\+|\*/g, "") || "";
 
     var text_for_string = o.text_for_string || "";
     var type = o.type;
@@ -297,7 +297,7 @@ function compileSuggestions(arr) {
 
 
 //looks for matching TED Titles and adds to ted_title_helper
-function updateSimilarTEDtitles(title_text, program_office_text) {
+function updateSimilarTEDs(title_text, program_office_text) {
 
     var ted_helper_output = $("#ted_title_helper_output");
     ted_helper_output.html("");
@@ -325,8 +325,25 @@ function updateSimilarTEDtitles(title_text, program_office_text) {
 
         ted_helper_output.parent().show();
 
+        var active_searchable_topics = [];
+        $(".filter_checkbox_span input:checkbox:checked").each(function (i, checkbox) {
+            active_searchable_topics.push($(checkbox).attr("data-rel"));
+        })
+
         suggestions.forEach(function (TED_obj) {
-            $("#ted_title_helper_output").append("<div class='row' data-searchables='" + TED_obj.ted_program_name.toLowerCase() + ";" + TED_obj.ted_title.toLowerCase() + ";" + TED_obj.ted_table_title.toLowerCase() + ";" + TED_obj.ted_related_subjects.toLowerCase() + "'><h3>" + TED_obj.ted_date + "</h3><div class='col-6'><p data-rel='input_ted_title'><a href='#' class='add_suggestion_button' title='Add text'>[+]</a>" + TED_obj.ted_title + "</p></div> <div class='col-6'> <a href='" + TED_obj.ted_url + "' target='_blank'> <img src='images/" + TED_obj.ted_image_name + "' alt='" + TED_obj.ted_table_title + "' title='" + TED_obj.ted_table_title + "' data-toggle='tooltip'/></a></div></div>");
+
+            var searchables = active_searchable_topics.map(function (searchable) {
+
+                if (TED_obj[searchable]) {
+                    return TED_obj[searchable].toLowerCase();
+                } else {
+                    return null;
+                }
+
+            }).join(";");
+
+
+            $("#ted_title_helper_output").append("<div class='row' data-searchables='" + searchables + "'><h3>" + TED_obj.ted_date + "</h3><div class='col-6'><p data-rel='input_ted_title'><a href='#' class='add_suggestion_button' title='Add text'>[+]</a>" + TED_obj.ted_title + "</p></div> <div class='col-6'> <a href='" + TED_obj.ted_url + "' target='_blank'> <img src='images/" + TED_obj.ted_image_name + "' alt='" + TED_obj.ted_table_title + "' title='" + TED_obj.ted_table_title + "' data-toggle='tooltip'/></a></div></div>");
 
         });
 
@@ -641,10 +658,10 @@ function buildBodyHTML() {
 
         }).join("")
         //replace common html characters
-        .replace(/-(\d+)/g, "&minus;$1") 
+        .replace(/-(\d+)/g, "&minus;$1")
         .replace(/“|”/g, '"')
 
-        
+
     var NR_url = $("#input_ted_related_NR_url").val();
 
     if (NR_url != "") {
@@ -680,7 +697,7 @@ function filterSimilarTEDs(filter_val) {
     } else {
         filter_val = filter_val.toLowerCase();
         $("#ted_title_helper_output .row").hide();
-        $("#ted_title_helper_output .row[data-searchables*='" + filter_val + "']").show();x
+        $("#ted_title_helper_output .row[data-searchables*='" + filter_val + "']").show();
     }
 
 }
@@ -700,7 +717,7 @@ $(document).ready(function () {
 
         delay(function () {
             updateSystemURL(self.val());
-            updateSimilarTEDtitles($("#input_ted_title").val(), $("#input_ted_program").val());
+            updateSimilarTEDs($("#input_ted_title").val(), $("#input_ted_program").val());
         }, delay_ms);
     });
 
@@ -709,7 +726,7 @@ $(document).ready(function () {
 
         delay(function () {
             updateSuggestedProgramOffices($("#input_ted_title").val(), $("#input_ted_program").val());
-            updateSimilarTEDtitles($("#input_ted_title").val(), $("#input_ted_program").val());
+            updateSimilarTEDs($("#input_ted_title").val(), $("#input_ted_program").val());
 
         }, delay_ms);
 
@@ -785,6 +802,14 @@ $(document).ready(function () {
             filterSimilarTEDs(self.val());
         }, delay_ms);
     });
+
+
+    //change filter checkboxes - reloads simular teds with appropriate search metadata
+    $(".filter_checkbox_span input:checkbox").click(function () {
+        updateSimilarTEDs($("#input_ted_title").val(), $("#input_ted_program").val());
+
+    });
+
 
     //bind hide/show buttons
     $(".hide_button").click(function (ev) {

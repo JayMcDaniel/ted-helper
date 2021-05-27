@@ -15,7 +15,7 @@
         integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w=="
         crossorigin="anonymous" />
 
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/js/fontawesome.min.js"
@@ -36,23 +36,24 @@
         <div class="row">
             <div class="col-8" id="left_column">
                 <h1>The Economics Daily Helper</h1>
-                <p>Start typing in the forms below to get some ideas and assistance. Click on a suggestion's [+] to add it as
+                <p>Start typing in the forms below to get some ideas and assistance. Click on a suggestion's [+] to add
+                    it as
                     teplate text to the form. Hover over a chart to enlarge it. Click on a chart to visit that TED.</p>
 
 
-                    <div class="input-group mb-3">
-                        <span class="input-group-text">Program Office</span>
-                        <input id="input_ted_program" type="text" class="form-control" aria-label="TED Program input"
-                            data-helpers="ted_program_helper;ted_title_helper" aria-describedby="input_ted_program"
-                            placeholder="(This will look at your TED title for suggestions)">
-                        <i class="fas fa-copy fa-lg" title="Copy to clipboard"></i>
-                    </div>
-    
-                    <div id="ted_program_helper" class="helper_div">
-                        <h2>Suggested Program Offices <a href="#" class="hide_button">Hide</a></h2>
-                        
-                        <div id="ted_program_helper_output" class="output_div"></div>
-                    </div>
+                <div class="input-group mb-3">
+                    <span class="input-group-text">Program Office</span>
+                    <input id="input_ted_program" type="text" class="form-control" aria-label="TED Program input"
+                        data-helpers="ted_program_helper;ted_title_helper" aria-describedby="input_ted_program"
+                        placeholder="(This will look at your TED title for suggestions)">
+                    <i class="fas fa-copy fa-lg" title="Copy to clipboard"></i>
+                </div>
+
+                <div id="ted_program_helper" class="helper_div">
+                    <h2>Suggested Program Offices <a href="#" class="hide_button">Hide</a></h2>
+
+                    <div id="ted_program_helper_output" class="output_div"></div>
+                </div>
 
                 <div class="input-group mb-3">
                     <span class="input-group-text">TED Title</span>
@@ -69,7 +70,7 @@
                     <i class="fas fa-copy fa-lg" title="Copy to clipboard"></i>
                 </div>
 
-               
+
                 <div class="input-group mb-3">
                     <span class="input-group-text">Office URL</span>
                     <input id="input_ted_office_url" type="text" class="form-control" aria-label="TED Office URL"
@@ -134,8 +135,8 @@
 
                 <div class="input-group mb-3">
                     <span class="input-group-text">Related News Release URL</span>
-                    <textarea id="input_ted_related_NR_url" class="form-control" aria-label="TED Related News Release URL"
-                        aria-describedby="input_ted_related_NR_url" 
+                    <textarea id="input_ted_related_NR_url" class="form-control"
+                        aria-label="TED Related News Release URL" aria-describedby="input_ted_related_NR_url"
                         placeholder="(If you fill this in, it will add it as a link below in the generated HTML)"></textarea>
                     <i class="fas fa-copy fa-lg" title="Copy to clipboard"></i>
                 </div>
@@ -144,7 +145,7 @@
                 <div class="input-group mb-3">
                     <span class="input-group-text">Related Charts URL</span>
                     <textarea id="input_ted_related_charts_url" class="form-control" aria-label="TED Related Charts URL"
-                        aria-describedby="input_ted_related_charts_url" 
+                        aria-describedby="input_ted_related_charts_url"
                         data-helpers="ted_related_charts_url_helper;ted_title_helper"
                         placeholder="(This will look at your title, program office, intro and closing text for suggestions)"></textarea>
                     <i class="fas fa-copy fa-lg" title="Copy to clipboard"></i>
@@ -156,7 +157,7 @@
                     <div id="ted_related_charts_url_helper_output" class="output_div"></div>
                 </div>
 
-            
+
 
 
                 <div class="input-group mb-3">
@@ -186,7 +187,6 @@
                     <span class="input-group-text">Generated<br>Article HTML</span>
                     <textarea id="ted_body_html" class="form-control" aria-label="TED Body HTML"
                         aria-describedby="ted_body_html" style="height: 400px; "
-                       
                         placeholder="(Click the button above to generate HTML from the intro, middle, and conclusion. It will also make links based on the program office URL and related charts URL)"></textarea>
                     <i class="fas fa-copy fa-lg" title="Copy to clipboard"></i>
                 </div>
@@ -200,25 +200,63 @@
 
                 <div id="ted_title_helper" class="helper_div">
 
-                    
-                    <h2 id="similar_teds">Similar TEDs <a href="#" class="hide_button" data-rel-class="ted_title_helper_div">Hide</a></h2>
+
+                    <h2 id="similar_teds">Similar TEDs <a href="#" class="hide_button"
+                            data-rel-class="ted_title_helper_div">Hide</a></h2>
 
                     <div class="input-group ted_title_helper_div" style="position: relative;
                     left: -18px;">
 
+                        <div>
+                            <p style="padding-bottom: 0px; border-bottom: none; margin-bottom: 5px;">Filter by:</p>
+
+                            <!--  title, chart name, program, topic, or keyword -->
+
+                            <span class="filter_checkbox_span"><input type="checkbox" data-rel="ted_title"
+                                    id="ted_title_search" checked />&nbsp;<label for="ted_title_search">
+                                    TED title</label></span>
+
+                            <span class="filter_checkbox_span"><input type="checkbox" data-rel="ted_table_title"
+                                    id="ted_table_title_search" checked />&nbsp;<label for="ted_table_title_search">
+                                    Chart title</label></span>
+
+                            <span class="filter_checkbox_span"> <input type="checkbox" data-rel="ted_program_name"
+                                    id="ted_program_name_search" checked />&nbsp;<label for="ted_program_name_search">
+                                    Program name</label></span>
+
+                            <span class="filter_checkbox_span"> <input type="checkbox" data-rel="ted_related_subjects"
+                                    id="ted_related_subjects_search" checked />&nbsp;<label
+                                    for="ted_related_subjects_search"> Related subjects</label></span>
+
+
+                            <span class="filter_checkbox_span"> <input type="checkbox" data-rel="keywords"
+                                    id="keywords_search" checked />&nbsp;<label for="keywords_search">
+                                    Keywords</label></span>
+
+
+
+
+
+                        </div>
+
+
+
+                        <br>
                         <div class="form-outline" style="width: 88%;">
-                          <input type="search" id="similar_teds_search" class="form-control" aria-label="search TEDs" placeholder="(Filter by title, chart name, program or topic)"/>
+
+                            <input type="search" id="similar_teds_search" class="form-control" aria-label="search TEDs"
+                                placeholder="(Showing all matches)" />
                         </div>
                         <button type="button" class="btn btn-primary">
-                          <i class="fas fa-search"></i>
+                            <i class="fas fa-search"></i>
                         </button>
-                      </div>
+                    </div>
 
 
                     <div id="ted_title_helper_output" class="output_div ted_title_helper_div"></div>
                 </div>
 
-            
+
 
             </div>
         </div>
