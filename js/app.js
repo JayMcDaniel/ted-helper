@@ -689,8 +689,9 @@ function buildBodyHTML() {
 
 
 //Similar TEDs Filter bar
-function filterSimilarTEDs(filter_val) {
+function filterSimilarTEDs() {
 
+    var filter_val = $("#similar_teds_search").val();
 
     if (filter_val === "") {
         $("#ted_title_helper_output .row").show();
@@ -796,10 +797,9 @@ $(document).ready(function () {
 
     //bind similar TEDs filter bar
     $("#similar_teds_search").on("input", function () {
-        let self = $(this);
 
         delay(function () {
-            filterSimilarTEDs(self.val());
+            filterSimilarTEDs();
         }, delay_ms);
     });
 
@@ -807,6 +807,7 @@ $(document).ready(function () {
     //change filter checkboxes - reloads simular teds with appropriate search metadata
     $(".filter_checkbox_span input:checkbox").click(function () {
         updateSimilarTEDs($("#input_ted_title").val(), $("#input_ted_program").val());
+        filterSimilarTEDs();
 
     });
 
