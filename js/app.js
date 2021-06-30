@@ -679,7 +679,7 @@ function buildBodyHTML() {
     var charts_url = $("#input_ted_related_charts_url").val();
 
     if (charts_url != "") {
-        body_text = body_text.replace(/(chart[\w\s]+\.)/i, `<a href="${charts_url}">$1</a>`);
+        body_text = body_text.replace(/(chart[\w\s]+)\./i, `<a href="${charts_url}">$1</a>.`);
     }
 
 
